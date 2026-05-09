@@ -29,14 +29,14 @@ Edit `config.toml`:
 
 ```toml
 [captain]
-name = "Kaptein Erik Halvorsen"
-ship = "Nordstjernen"
+name = "Kaptein Salveson"
+ship = "M/S Frierholmen"
 
 [bbox]
-lon_min = 4.5
-lat_min = 57.8
-lon_max = 15.0
-lat_max = 62.0
+lon_min = 9.013939
+lat_min = 58.587672
+lon_max = 9.151268
+lat_max = 58.634880
 
 [logbook]
 path = "logbook.md"
