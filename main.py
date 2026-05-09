@@ -110,6 +110,30 @@ def format_forecast_period(label: str, block: dict) -> str:
     return f"- {label}: " + ", ".join(parts) if parts else ""
 
 
+def format_observations(weather: dict) -> str:
+    """Return a compact one-line observations string for the logbook entry."""
+    parts = []
+    instant = weather.get("data", {}).get("instant", {}).get("details", {})
+    next_1h = weather.get("data", {}).get("next_1_hours", {})
+
+    symbol = next_1h.get("summary", {}).get("symbol_code", "")
+    if symbol:
+        parts.append(f"**Vær**: {format_symbol(symbol)}")
+    if "air_temperature" in instant:
+        parts.append(f"**Temp**: {instant['air_temperature']} °C")
+    if "wind_speed" in instant:
+        wind = f"{instant['wind_speed']} m/s"
+        if "wind_from_direction" in instant:
+            wind += f" fra {format_wind_direction(instant['wind_from_direction'])}"
+        parts.append(f"**Vind**: {wind}")
+    if "air_pressure_at_sea_level" in instant:
+        parts.append(f"**Trykk**: {instant['air_pressure_at_sea_level']} hPa")
+    if "cloud_area_fraction" in instant:
+        parts.append(f"**Skydekke**: {instant['cloud_area_fraction']} %")
+
+    return "_" + " — ".join(parts) + "_" if parts else ""
+
+
 def format_weather(weather: dict) -> str:
     if not weather:
         return "Ingen værdata tilgjengelig"
@@ -255,9 +279,12 @@ def format_entry_header(lat: float, lon: float) -> str:
     return f"## {date_str} | {lat}°N, {lon}°Ø"
 
 
-def prepend_to_logbook(logbook_path: Path, entry_text: str, header: str) -> None:
+def prepend_to_logbook(
+    logbook_path: Path, entry_text: str, header: str, observations: str = ""
+) -> None:
     """Insert new entry at the top of the logbook, after the title block."""
-    new_block = f"{header}\n\n{entry_text}"
+    obs_block = f"\n{observations}\n" if observations else ""
+    new_block = f"{header}{obs_block}\n{entry_text}"
 
     if not logbook_path.exists():
         title = "# Kapteins Loggbok\n"
@@ -307,6 +334,7 @@ def main():
     lat, lon = random_position_in_bbox(config["bbox"])
     weather = fetch_weather(lat, lon)
     weather_desc = format_weather(weather)
+    observations = format_observations(weather)
     past_entries = read_past_entries(logbook_path, past_n)
 
     print(f"📍 Posisjon: {lat}°N, {lon}°Ø", file=sys.stderr)
@@ -321,9 +349,9 @@ def main():
     header = format_entry_header(lat, lon)
 
     if args.output == "shell":
-        print(f"\n{header}\n\n{entry_text}\n")
+        print(f"\n{header}\n{observations}\n\n{entry_text}\n")
     else:
-        prepend_to_logbook(logbook_path, entry_text, header)
+        prepend_to_logbook(logbook_path, entry_text, header, observations)
         print(f"✅ Lagt til i {logbook_path}", file=sys.stderr)
 
 
