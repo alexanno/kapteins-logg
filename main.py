@@ -242,11 +242,16 @@ Skriv neste dagbokoppføring (4–15 linjer). Bruk værdataene konkret. Bygg vid
         return ""
 
 
+_MONTHS_NO = [
+    "", "januar", "februar", "mars", "april", "mai", "juni",
+    "juli", "august", "september", "oktober", "november", "desember",
+]
+
+
 def format_entry_header(lat: float, lon: float) -> str:
     now = datetime.now()
-    date_str = now.strftime("%-d. %B %Y, %H:%M").lower()
-    # Capitalize first letter
-    date_str = date_str[0].upper() + date_str[1:]
+    month = _MONTHS_NO[now.month]
+    date_str = f"{now.day}. {month} {now.year}, {now.strftime('%H:%M')}"
     return f"## {date_str} | {lat}°N, {lon}°Ø"
 
 
