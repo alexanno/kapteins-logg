@@ -1,0 +1,10 @@
+[project]
+name = "kapteins-logg"
+version = "0.1.0"
+description = "Generates a coherent captain's logbook using real weather data and an LLM"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.31.0",
+    "ollama>=0.1.0",
+]
