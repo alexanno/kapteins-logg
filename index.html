@@ -1,0 +1,593 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kapteins Loggbok — Nordstjernen</title>
+  <style>
+    :root {
+      --navy:        #0d1b2a;
+      --navy-mid:    #162436;
+      --navy-light:  #1e3347;
+      --parchment:   #f5edd8;
+      --parchment-d: #ecdec6;
+      --ink:         #1c0f04;
+      --amber:       #a87028;
+      --amber-soft:  #f0dfb8;
+      --border:      #c9ab82;
+      --muted:       #7a6045;
+      --shadow:      0 20px 48px rgba(13, 27, 42, 0.22);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: var(--parchment);
+    }
+
+    /* ── Masthead ─────────────────────────────────────── */
+    .masthead {
+      background: var(--navy);
+      color: #e8dfc8;
+      padding: 36px 24px 32px;
+    }
+
+    .masthead-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .ship-label {
+      margin: 0 0 10px;
+      font-size: 11px;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--amber);
+      opacity: 0.9;
+    }
+
+    .masthead h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.6rem);
+      font-weight: 700;
+      line-height: 1.0;
+      color: #f0e8d2;
+    }
+
+    .masthead-meta {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 6px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    .voyage-badge {
+      display: inline-block;
+      background: var(--amber);
+      color: #fff;
+      font-size: 10px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+
+    .masthead-sub {
+      font-size: 0.88rem;
+      color: #8da8bb;
+      font-style: italic;
+    }
+
+    .masthead-nav {
+      margin-top: 4px;
+      font-size: 0.82rem;
+    }
+
+    .masthead-nav a {
+      color: #8da8bb;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(141, 168, 187, 0.3);
+      transition: color 120ms, border-color 120ms;
+    }
+
+    .masthead-nav a:hover { color: var(--amber); border-color: var(--amber); }
+
+    /* ── Kyst-linje som skille ────────────────────────── */
+    .coastline {
+      background: var(--navy);
+      height: 36px;
+      display: flex;
+      align-items: flex-end;
+      overflow: hidden;
+    }
+
+    .coastline svg { display: block; width: 100%; height: 36px; }
+
+    /* ── Layout ───────────────────────────────────────── */
+    .shell {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: 22px;
+      align-items: start;
+    }
+
+    /* ── Sidebar ──────────────────────────────────────── */
+    .panel {
+      background: #fff8ed;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      box-shadow: var(--shadow);
+      position: sticky;
+      top: 20px;
+      overflow: hidden;
+    }
+
+    .panel-head {
+      background: var(--navy-light);
+      color: #c8d8e4;
+      padding: 12px 16px;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+
+    .panel-head h2 {
+      margin: 0;
+      font-size: 0.82rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #c8d8e4;
+    }
+
+    .panel-count {
+      font-size: 0.78rem;
+      color: #6a8fa8;
+      font-style: italic;
+    }
+
+    .entry-list {
+      max-height: 60vh;
+      overflow-y: auto;
+      padding: 8px 0;
+    }
+
+    .entry-item {
+      width: 100%;
+      text-align: left;
+      border: none;
+      border-left: 3px solid transparent;
+      background: transparent;
+      padding: 10px 14px 10px 13px;
+      cursor: pointer;
+      font: inherit;
+      color: var(--ink);
+      display: grid;
+      grid-template-columns: 36px 1fr;
+      gap: 10px;
+      align-items: start;
+      transition: background 100ms ease, border-color 100ms ease;
+    }
+
+    .entry-item:hover {
+      background: var(--amber-soft);
+      border-left-color: var(--border);
+    }
+
+    .entry-item.active {
+      background: var(--amber-soft);
+      border-left-color: var(--amber);
+    }
+
+    .entry-day {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--amber);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      padding-top: 2px;
+      line-height: 1.2;
+    }
+
+    .entry-item.active .entry-day { color: var(--amber); }
+
+    .entry-info { min-width: 0; }
+
+    .entry-title {
+      display: block;
+      font-size: 0.84rem;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 2px;
+    }
+
+    .entry-meta {
+      display: block;
+      font-size: 0.75rem;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .entry-divider {
+      height: 1px;
+      background: var(--border);
+      opacity: 0.35;
+      margin: 2px 14px;
+    }
+
+    /* ── Main log card ────────────────────────────────── */
+    .log-card {
+      background: #fff8ed;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .log-card-head {
+      background: var(--navy-light);
+      color: #c8d8e4;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.78rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #6a8fa8;
+    }
+
+    .log-card-head span:first-child { color: #c8d8e4; }
+
+    .log-card-body { padding: 28px 32px; }
+
+    .status {
+      color: var(--muted);
+      font-size: 0.95rem;
+      font-style: italic;
+      padding: 24px 0;
+      text-align: center;
+    }
+
+    .log-dateline {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+
+    .log-date {
+      font-size: clamp(1.3rem, 2.2vw, 1.8rem);
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .log-dag {
+      font-size: 0.82rem;
+      color: var(--amber);
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .log-coords-line {
+      font-size: 0.88rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 20px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* Skillelinje: sant / ikke sant */
+    .reality-strip {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      margin-bottom: 22px;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+      font-size: 0.82rem;
+    }
+
+    .reality-real {
+      background: #eaf2ec;
+      border-right: 1px solid var(--border);
+      padding: 10px 14px;
+    }
+
+    .reality-fiction {
+      background: #f5eee4;
+      padding: 10px 14px;
+    }
+
+    .reality-label {
+      font-size: 9px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin-bottom: 4px;
+      opacity: 0.6;
+    }
+
+    .reality-real .reality-label { color: #2d6b3a; }
+    .reality-fiction .reality-label { color: #7a5030; }
+
+    .reality-real p, .reality-fiction p {
+      margin: 0;
+      line-height: 1.4;
+      color: var(--ink);
+    }
+
+    .obs-line {
+      margin: 0 0 22px;
+      padding: 12px 16px;
+      background: var(--parchment-d);
+      border-left: 3px solid var(--border);
+      font-size: 0.88rem;
+      font-style: italic;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .log-body {
+      font-size: 1.06rem;
+      line-height: 1.9;
+      white-space: pre-wrap;
+    }
+
+    .empty {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.88rem;
+      padding: 12px 0;
+      text-align: center;
+    }
+
+    @media (max-width: 860px) {
+      .layout { grid-template-columns: 1fr; }
+      .panel { position: static; }
+      .masthead-meta { display: none; }
+      .log-card-body { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div>
+        <p class="ship-label">Skipet Nordstjernen · Kaptein Erik Halvorsen</p>
+        <h1>Kapteins Loggbok</h1>
+      </div>
+      <div class="masthead-meta">
+        <span class="voyage-badge">Pågående reise</span>
+        <span class="masthead-sub">Norskekysten, 57°–62°N</span>
+        <nav class="masthead-nav"><a href="om.html">Om prosjektet →</a></nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Kyststrek som grafisk skille -->
+  <div class="coastline" aria-hidden="true">
+    <svg viewBox="0 0 1440 36" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 28 C120 12, 200 32, 320 20 S520 8, 640 22 S820 34, 960 16 S1200 6, 1440 24 L1440 36 L0 36 Z"
+            fill="#f5edd8"/>
+    </svg>
+  </div>
+
+  <div class="shell">
+    <main class="layout">
+      <aside class="panel" aria-label="Reiselog">
+        <div class="panel-head">
+          <h2>Reiselog</h2>
+          <span id="panelCount" class="panel-count"></span>
+        </div>
+        <div id="entryList" class="entry-list"></div>
+      </aside>
+
+      <section class="log-card">
+        <div class="log-card-head">
+          <span>Dagbokoppføring</span>
+          <span id="cardMeta"></span>
+        </div>
+        <div class="log-card-body">
+          <p id="status" class="status">Laster loggbok...</p>
+
+          <div id="viewer" hidden>
+            <div class="log-dateline">
+              <h2 id="logDate" class="log-date"></h2>
+              <span id="logDag" class="log-dag"></span>
+            </div>
+            <div id="logCoords" class="log-coords-line"></div>
+
+            <div class="reality-strip">
+              <div class="reality-real">
+                <div class="reality-label">Sant</div>
+                <p>Posisjonen finnes på kartet. Været er ekte data fra Met.no.</p>
+              </div>
+              <div class="reality-fiction">
+                <div class="reality-label">Ikke sant</div>
+                <p>Kapteinen levde aldri. Skipet seilte aldri.</p>
+              </div>
+            </div>
+
+            <div id="obsLine" class="obs-line" hidden></div>
+            <div id="logBody" class="log-body"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const state = { entries: [], activeIndex: null };
+
+    const statusEl  = document.getElementById("status");
+    const viewerEl  = document.getElementById("viewer");
+    const entryList = document.getElementById("entryList");
+
+    function parseLogbook(text) {
+      const parts = text.split(/\n---\n/);
+      const entries = [];
+
+      for (const part of parts) {
+        const trimmed = part.trim();
+        if (!trimmed.startsWith("##")) continue;
+
+        const lines = trimmed.split(/\r?\n/);
+        const headerLine = lines[0].replace(/^##\s*/, "").trim();
+
+        const pipeIdx = headerLine.indexOf("|");
+        const datePart  = pipeIdx !== -1 ? headerLine.slice(0, pipeIdx).trim() : headerLine;
+        const coordPart = pipeIdx !== -1 ? headerLine.slice(pipeIdx + 1).trim() : "";
+
+        let obsLine = "";
+        let bodyStart = 1;
+        for (let i = 1; i < lines.length; i++) {
+          const l = lines[i].trim();
+          if (!l) continue;
+          if (l.startsWith("_") && l.endsWith("_")) {
+            obsLine = l.slice(1, -1).trim();
+            bodyStart = i + 1;
+          } else {
+            bodyStart = i;
+          }
+          break;
+        }
+
+        entries.push({ datePart, coordPart, obsLine, body: lines.slice(bodyStart).join("\n").trim() });
+      }
+
+      return entries;
+    }
+
+    function renderInlineMarkdown(text) {
+      return text
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/(^|[^*])\*(?!\s)(.+?)(?<!\s)\*/g, "$1<em>$2</em>");
+    }
+
+    function escapeHtml(s) {
+      return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    function dayLabel(i, total) {
+      const dayNum = total - i;
+      return `Dag ${dayNum}`;
+    }
+
+    function renderSidebar() {
+      entryList.innerHTML = "";
+      const total = state.entries.length;
+
+      document.getElementById("panelCount").textContent =
+        total ? `${total} oppf.` : "";
+
+      if (!total) {
+        const p = document.createElement("p");
+        p.className = "empty";
+        p.textContent = "Ingen oppføringer.";
+        entryList.appendChild(p);
+        return;
+      }
+
+      state.entries.forEach((entry, i) => {
+        if (i > 0) {
+          const div = document.createElement("div");
+          div.className = "entry-divider";
+          entryList.appendChild(div);
+        }
+
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = `entry-item${i === state.activeIndex ? " active" : ""}`;
+        btn.innerHTML = `
+          <span class="entry-day">${escapeHtml(dayLabel(i, total))}</span>
+          <span class="entry-info">
+            <span class="entry-title">${escapeHtml(entry.datePart)}</span>
+            <span class="entry-meta">${escapeHtml(entry.coordPart)}</span>
+          </span>
+        `;
+        btn.addEventListener("click", () => showEntry(i));
+        entryList.appendChild(btn);
+      });
+    }
+
+    function showEntry(i) {
+      const entry = state.entries[i];
+      state.activeIndex = i;
+      renderSidebar();
+
+      const total = state.entries.length;
+      const dag = dayLabel(i, total);
+
+      document.getElementById("logDate").textContent  = entry.datePart;
+      document.getElementById("logDag").textContent   = dag;
+      document.getElementById("logCoords").textContent = entry.coordPart;
+      document.getElementById("cardMeta").textContent  = `${dag} av ${total}`;
+
+      const obsEl = document.getElementById("obsLine");
+      if (entry.obsLine) {
+        obsEl.innerHTML = renderInlineMarkdown(entry.obsLine);
+        obsEl.hidden = false;
+      } else {
+        obsEl.hidden = true;
+      }
+
+      document.getElementById("logBody").innerHTML = renderInlineMarkdown(entry.body);
+      viewerEl.hidden = false;
+      statusEl.hidden = true;
+    }
+
+    async function init() {
+      try {
+        const res = await fetch("logbook.md", { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+
+        state.entries = parseLogbook(text);
+
+        if (!state.entries.length) {
+          statusEl.textContent = "Ingen loggoppføringer funnet i logbook.md.";
+          renderSidebar();
+          return;
+        }
+
+        renderSidebar();
+        showEntry(0);
+      } catch (err) {
+        statusEl.textContent =
+          "Kunne ikke lese logbook.md. Åpne siden via en lokal webserver, f.eks.: python -m http.server";
+        console.error(err);
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>

@@ -1,0 +1,621 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Om prosjektet — Kapteins Loggbok</title>
+  <style>
+    :root {
+      --navy:        #0d1b2a;
+      --navy-mid:    #162436;
+      --navy-light:  #1e3347;
+      --parchment:   #f5edd8;
+      --parchment-d: #ecdec6;
+      --ink:         #1c0f04;
+      --amber:       #a87028;
+      --amber-soft:  #f0dfb8;
+      --border:      #c9ab82;
+      --muted:       #7a6045;
+      --shadow:      0 20px 48px rgba(13, 27, 42, 0.22);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: var(--parchment);
+    }
+
+    /* ── Masthead ─────────────────────────────────────── */
+    .masthead {
+      background: var(--navy);
+      color: #e8dfc8;
+      padding: 36px 24px 32px;
+    }
+
+    .masthead-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .ship-label {
+      margin: 0 0 10px;
+      font-size: 11px;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--amber);
+      opacity: 0.9;
+    }
+
+    .masthead h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      font-weight: 700;
+      line-height: 1.0;
+      color: #f0e8d2;
+    }
+
+    .masthead-nav {
+      font-size: 0.82rem;
+      padding-bottom: 4px;
+    }
+
+    .masthead-nav a {
+      color: #8da8bb;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(141, 168, 187, 0.3);
+      transition: color 120ms, border-color 120ms;
+    }
+
+    .masthead-nav a:hover { color: var(--amber); border-color: var(--amber); }
+
+    /* Kystlinje */
+    .coastline {
+      background: var(--navy);
+      height: 36px;
+      display: flex;
+      align-items: flex-end;
+      overflow: hidden;
+    }
+
+    .coastline svg { display: block; width: 100%; height: 36px; }
+
+    /* ── Shell ────────────────────────────────────────── */
+    .shell {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 20px 72px;
+    }
+
+    section { margin-bottom: 52px; }
+
+    .section-label {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .section-label h2 {
+      margin: 0;
+      font-size: 1.35rem;
+    }
+
+    .section-rule {
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+      opacity: 0.5;
+    }
+
+    /* ── Cards ────────────────────────────────────────── */
+    .card {
+      background: #fff8ed;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      box-shadow: var(--shadow);
+      padding: 28px 32px;
+    }
+
+    p { margin: 0 0 1em; line-height: 1.75; }
+    p:last-child { margin-bottom: 0; }
+
+    /* ── Sant / Ikke sant ─────────────────────────────── */
+    .truth-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 28px;
+    }
+
+    .truth-col {
+      padding: 22px 26px;
+    }
+
+    .truth-real {
+      background: #e8f2ea;
+      border-right: 1px solid var(--border);
+    }
+
+    .truth-fiction {
+      background: #f5edd8;
+    }
+
+    .truth-head {
+      font-size: 10px;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin-bottom: 14px;
+    }
+
+    .truth-real .truth-head { color: #2a6038; }
+    .truth-fiction .truth-head { color: #7a4a20; }
+
+    .truth-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .truth-list li {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      font-size: 0.92rem;
+      line-height: 1.4;
+    }
+
+    .truth-real .truth-list li::before {
+      content: "✓";
+      color: #2a6038;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    .truth-fiction .truth-list li::before {
+      content: "∅";
+      color: #9b5c28;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    /* ── Pipeline ─────────────────────────────────────── */
+    .pipeline { display: flex; flex-direction: column; }
+
+    .pl-trigger {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: var(--navy-mid);
+      border: 1px solid rgba(200, 180, 140, 0.2);
+      border-radius: 4px;
+      padding: 14px 18px;
+      color: #c8d8e4;
+    }
+
+    .pl-trigger-icon { font-size: 1.2rem; flex-shrink: 0; }
+    .pl-trigger-title { font-size: 0.9rem; font-weight: 700; color: var(--amber); margin-bottom: 3px; }
+    .pl-trigger-sub { font-size: 0.78rem; color: #8da8bb; line-height: 1.4; }
+
+    .pl-step {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      align-items: stretch;
+    }
+
+    .pl-track { display: flex; flex-direction: column; align-items: center; padding-top: 3px; }
+
+    .pl-num {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--amber);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    .pl-vert { width: 2px; background: var(--border); opacity: 0.5; flex: 1; min-height: 16px; }
+
+    .pl-box {
+      background: var(--parchment-d);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 12px 16px;
+      margin-bottom: 4px;
+      align-self: start;
+    }
+
+    .pl-box--system {
+      background: var(--navy-mid);
+      border-color: rgba(168, 112, 40, 0.4);
+      color: #c8d8e4;
+    }
+
+    .pl-box--system .pl-source { color: var(--amber); }
+    .pl-box--system p { color: #c8d8e4; }
+
+    .pl-source {
+      display: block;
+      font-size: 9px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 5px;
+    }
+
+    .pl-box p { margin: 0; font-size: 0.87rem; line-height: 1.45; }
+
+    .pl-conn {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      align-items: center;
+      min-height: 26px;
+    }
+
+    .pl-conn-track { display: flex; justify-content: center; }
+    .pl-conn-vert { width: 2px; height: 100%; min-height: 26px; background: var(--border); opacity: 0.5; }
+    .pl-conn-label { font-size: 0.72rem; color: var(--muted); font-style: italic; padding-left: 2px; }
+
+    .pl-to-model { display: flex; flex-direction: column; align-items: center; padding: 5px 0; }
+    .pl-to-model .pl-conn-vert { height: 18px; min-height: 18px; opacity: 0.5; }
+    .pl-arrow-head { color: var(--border); font-size: 12px; line-height: 1; }
+
+    .pl-model {
+      background: var(--navy);
+      color: #f0e8d2;
+      border-radius: 4px;
+      padding: 18px 22px;
+      border: 1px solid rgba(168, 112, 40, 0.35);
+    }
+
+    .pl-model-label { font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--amber); opacity: 0.8; margin-bottom: 5px; }
+    .pl-model-title { font-size: 1.08rem; font-weight: 700; margin-bottom: 4px; line-height: 1.2; }
+    .pl-model-sub { font-size: 0.82rem; color: #8da8bb; line-height: 1.4; margin: 0; }
+
+    .pl-out-conn { display: flex; justify-content: center; padding: 5px 0; }
+    .pl-out-conn .pl-conn-vert { height: 18px; min-height: 18px; opacity: 0.5; }
+
+    .pl-out {
+      background: var(--parchment-d);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 12px 16px;
+    }
+
+    .pl-out .pl-source { margin-bottom: 4px; }
+    .pl-out p { margin: 0; font-size: 0.87rem; line-height: 1.4; }
+
+    /* ── Concept grid ─────────────────────────────────── */
+    .concept-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    .concept-card {
+      background: var(--parchment-d);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 20px 22px;
+    }
+
+    .concept-card h3 {
+      margin: 0 0 10px;
+      font-size: 0.95rem;
+      color: var(--amber);
+      letter-spacing: 0.04em;
+    }
+
+    .concept-card p { margin: 0; font-size: 0.9rem; line-height: 1.65; }
+
+    blockquote {
+      margin: 28px 0 0;
+      padding: 18px 22px;
+      border-left: 3px solid var(--amber);
+      background: var(--parchment-d);
+      font-style: italic;
+      color: var(--muted);
+      font-size: 1.0rem;
+      line-height: 1.7;
+    }
+
+    /* ── Ref list ─────────────────────────────────────── */
+    .ref-list {
+      list-style: none;
+      margin: 24px 0 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      border-top: 1px solid var(--border);
+      padding-top: 22px;
+    }
+
+    .ref-list li { display: flex; flex-direction: column; gap: 3px; }
+    .ref-list a { color: var(--amber); text-decoration: none; font-size: 0.9rem; font-weight: 700; }
+    .ref-list a:hover { text-decoration: underline; }
+    .ref-desc { font-size: 0.8rem; color: var(--muted); line-height: 1.4; }
+
+    code {
+      background: var(--parchment-d);
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 1px 5px;
+      font-size: 0.88em;
+    }
+
+    @media (max-width: 640px) {
+      .truth-grid { grid-template-columns: 1fr; }
+      .truth-real { border-right: none; border-bottom: 1px solid var(--border); }
+      .concept-grid { grid-template-columns: 1fr; }
+      .card { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div>
+        <p class="ship-label">Skipet Nordstjernen · Kaptein Erik Halvorsen</p>
+        <h1>Om prosjektet</h1>
+      </div>
+      <nav class="masthead-nav"><a href="index.html">← Tilbake til loggboken</a></nav>
+    </div>
+  </header>
+
+  <div class="coastline" aria-hidden="true">
+    <svg viewBox="0 0 1440 36" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 28 C120 12, 200 32, 320 20 S520 8, 640 22 S820 34, 960 16 S1200 6, 1440 24 L1440 36 L0 36 Z"
+            fill="#f5edd8"/>
+    </svg>
+  </div>
+
+  <div class="shell">
+
+    <!-- ── Konsept ─────────────────────────────────────── -->
+    <section>
+      <div class="section-label">
+        <h2>Én reise</h2>
+        <div class="section-rule"></div>
+      </div>
+
+      <div class="truth-grid">
+        <div class="truth-col truth-real">
+          <div class="truth-head">Sant</div>
+          <ul class="truth-list">
+            <li>Posisjonen finnes på kartet</li>
+            <li>Været er hentet fra Met.no i sanntid</li>
+            <li>Kysten — Sørlandet og Vestlandet — er ekte</li>
+            <li>Temperatur, vindretning og trykk er reelle målinger</li>
+          </ul>
+        </div>
+        <div class="truth-col truth-fiction">
+          <div class="truth-head">Ikke sant</div>
+          <ul class="truth-list">
+            <li>Kaptein Erik Halvorsen levde aldri</li>
+            <li>Skipet Nordstjernen seilte aldri</li>
+            <li>Reisen skjedde aldri</li>
+            <li>Mannskapet finnes ikke</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="card">
+        <p>
+          Kapteins Loggbok følger én enkelt reise — den samme kapteinen, det samme skipet,
+          den samme kysten — dag etter dag. Modellen husker hva som skjedde i går.
+          Mannskapet nevnes. Kurs holdes. Hendelser bygger på hverandre.
+        </p>
+        <p>
+          Fiksjonen henter tyngde fra virkeligheten: koordinatene er ekte steder,
+          lufttrykket er en ekte måling tatt akkurat da oppføringen ble skrevet.
+          Virkeligheten får mening gjennom stemmen som observerer den.
+        </p>
+
+        <div class="concept-grid">
+          <div class="concept-card">
+            <h3>Kontinuitet</h3>
+            <p>
+              Ulikt et samlingsverk av isolerte oppføringer er dette én fortelling.
+              Hver dag føyes til fortellingen som allerede er der — med hukommelse,
+              med konsekvens, med gjenkjenning.
+            </p>
+          </div>
+          <div class="concept-card">
+            <h3>Forankring</h3>
+            <p>
+              Lufttrykket er reelt. Vindretningen er reell. Det er ikke en vilkårlig
+              ramme — det er det som gjør at fiksjonen kjenner på vekt.
+              Kapteinen ser det samme vannet som faktisk finnes der ute.
+            </p>
+          </div>
+          <div class="concept-card">
+            <h3>Stemme fra en annen tid</h3>
+            <p>
+              Stilen er hentet fra autentiske skipsdagbøker fra 1500–1800-tallet.
+              Lakonisk, konkret, med glimt av noe større bak det dagligdagse.
+              Teknologien forsvinner bak pennen.
+            </p>
+          </div>
+          <div class="concept-card">
+            <h3>Hvor er det kreative?</h3>
+            <p>
+              Er det i instruksen? I nevralnettet? I programmereren?
+              Eller oppstår det i møtet mellom dem — i det ingen alene planla?
+            </p>
+          </div>
+        </div>
+
+        <blockquote>
+          «Koordinatene er tilfeldige. Været er sant. Kapteinen finnes ikke —
+          men han vet hva som skjedde i går, og han er redd for det som kan skje i morgen.»
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- ── Pipeline ────────────────────────────────────── -->
+    <section>
+      <div class="section-label">
+        <h2>Slik virker det</h2>
+        <div class="section-rule"></div>
+      </div>
+
+      <div class="card">
+        <div class="pipeline">
+
+          <div class="pl-trigger">
+            <span class="pl-trigger-icon">⏱</span>
+            <div>
+              <div class="pl-trigger-title">GitHub Actions — daglig kjøring</div>
+              <div class="pl-trigger-sub">Utløses automatisk klokken 11:54 hver dag via cron-schedule</div>
+            </div>
+          </div>
+
+          <div class="pl-to-model">
+            <div class="pl-conn-vert"></div>
+            <span class="pl-arrow-head">▼</span>
+          </div>
+
+          <div class="pl-step">
+            <div class="pl-track">
+              <div class="pl-num">1</div>
+              <div class="pl-vert"></div>
+            </div>
+            <div class="pl-box">
+              <span class="pl-source">Tilfeldig posisjon</span>
+              <p>En tilfeldig koordinat velges innenfor et avgrenset kystområde langs Sørlandet og Vestlandet (57.8–62°N, 4.5–15°Ø)</p>
+            </div>
+          </div>
+
+          <div class="pl-conn">
+            <div class="pl-conn-track"><div class="pl-conn-vert"></div></div>
+            <span class="pl-conn-label">koordinater sendes videre ↓</span>
+          </div>
+
+          <div class="pl-step">
+            <div class="pl-track">
+              <div class="pl-num">2</div>
+              <div class="pl-vert"></div>
+            </div>
+            <div class="pl-box">
+              <span class="pl-source">Met.no API</span>
+              <p>Sanntidsvær hentes for koordinatene — temperatur, vind, trykk, skydekke og nedbør</p>
+            </div>
+          </div>
+
+          <div class="pl-conn">
+            <div class="pl-conn-track"><div class="pl-conn-vert"></div></div>
+            <span class="pl-conn-label">kombineres med ↓</span>
+          </div>
+
+          <div class="pl-step">
+            <div class="pl-track">
+              <div class="pl-num">3</div>
+              <div class="pl-vert"></div>
+            </div>
+            <div class="pl-box">
+              <span class="pl-source">Loggbok-kontekst</span>
+              <p>De tre siste oppføringene fra <code>logbook.md</code> leses inn — slik at fortellingen henger sammen og huskes</p>
+            </div>
+          </div>
+
+          <div class="pl-conn">
+            <div class="pl-conn-track"><div class="pl-conn-vert"></div></div>
+            <span class="pl-conn-label">pakkes inn i ↓</span>
+          </div>
+
+          <div class="pl-step">
+            <div class="pl-track">
+              <div class="pl-num">4</div>
+              <div class="pl-vert"></div>
+            </div>
+            <div class="pl-box pl-box--system">
+              <span class="pl-source">Systeminstruks</span>
+              <p>Rollen som Kaptein Erik Halvorsen, skipet Nordstjernen, perioden 1500–1800, og autentisk stilmåte fra historiske loggbøker</p>
+            </div>
+          </div>
+
+          <div class="pl-to-model">
+            <div class="pl-conn-vert"></div>
+            <span class="pl-arrow-head">▼</span>
+          </div>
+
+          <div class="pl-model">
+            <div class="pl-model-label">Generering — ett kall</div>
+            <div class="pl-model-title">Gemma 4 31B via Ollama</div>
+            <p class="pl-model-sub">Kjøres via Ollama Cloud — produserer én ny dagbokoppføring</p>
+          </div>
+
+          <div class="pl-out-conn"><div class="pl-conn-vert"></div></div>
+
+          <div class="pl-out">
+            <span class="pl-source">Lagring &amp; visning</span>
+            <p>Ny oppføring legges øverst i <code>logbook.md</code> og committes til GitHub. Siden leser filen direkte — ingen server, ingen database.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Teknisk / kilder ────────────────────────────── -->
+    <section>
+      <div class="section-label">
+        <h2>Teknisk</h2>
+        <div class="section-rule"></div>
+      </div>
+
+      <div class="card">
+        <p>
+          Prosjektet er skrevet i Python og kjøres daglig via GitHub Actions.
+          Modellen — Gemma 4 31B fra Google DeepMind — aksesseres via Ollama.
+          Værdata hentes fra Meteorologisk institutts <em>locationforecast</em>-API
+          for den tilfeldige posisjonen som velges ved hver kjøring.
+        </p>
+        <p>
+          All tekst lagres i én enkelt Markdown-fil, <code>logbook.md</code>,
+          med nyeste oppføring øverst. Denne HTML-visningen henter og parser
+          filen direkte i nettleseren — ingen server, ingen database, ingen pålogging.
+        </p>
+
+        <ul class="ref-list">
+          <li>
+            <a href="https://fromthepage.com/nharl/ships-logs-collection/ms220-log4" target="_blank" rel="noopener">Ships Logs Collection — Log of the ship Alexander (1827–1830)</a>
+            <span class="ref-desc">Transkriberte historiske skipsdagbøker brukt som stilmessig referanse og eksempel på autentisk loggbokspråk.</span>
+          </li>
+          <li>
+            <a href="https://web.archive.org/web/20041229065525/http://heim.ifi.uio.no/~oddharry/dsfmc/etext/najaden.html" target="_blank" rel="noopener">Najaden — norsk skipsdagbok (UiO-arkiv)</a>
+            <span class="ref-desc">Arkivert norsk skipsdagbok fra 1700-tallet, brukt som stilreferanse og kilde til autentisk norsk sjøfartstradisjon.</span>
+          </li>
+          <li>
+            <a href="https://api.met.no/weatherapi/locationforecast/2.0/documentation" target="_blank" rel="noopener">Locationforecast 2.0 — Meteorologisk institutt</a>
+            <span class="ref-desc">API-dokumentasjon for værvarseltjenesten som leverer sanntidsdata for valgfrie koordinater langs norskekysten.</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>
