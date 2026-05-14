@@ -383,11 +383,6 @@
         <p class="ship-label">M/S Frierholmen · Kaptein Salveson</p>
         <h1>Kapteins Loggbok</h1>
       </div>
-      <div class="masthead-meta">
-        <span class="voyage-badge">Pågående reise</span>
-        <span class="masthead-sub">Frierfjorden, Telemark</span>
-        <nav class="masthead-nav"><a href="om.html">Om prosjektet →</a></nav>
-      </div>
     </div>
   </header>
 
@@ -423,17 +418,6 @@
               <span id="logDag" class="log-dag"></span>
             </div>
             <div id="logCoords" class="log-coords-line"></div>
-
-            <div class="reality-strip">
-              <div class="reality-real">
-                <div class="reality-label">Sant</div>
-                <p>Posisjonen finnes på kartet. Været er ekte data fra Met.no.</p>
-              </div>
-              <div class="reality-fiction">
-                <div class="reality-label">Ikke sant</div>
-                <p>Kapteinen levde aldri. Skipet seilte aldri.</p>
-              </div>
-            </div>
 
             <div id="obsLine" class="obs-line" hidden></div>
             <div id="logBody" class="log-body"></div>
@@ -589,5 +573,9 @@
 
     init();
   </script>
+
+  <footer style="text-align:center;padding:32px 20px 48px;font-size:0.85rem;">
+    <a href="om.html" style="color:var(--amber);text-decoration:none;border-bottom:1px solid rgba(168,112,40,0.3);">Om prosjektet →</a>
+  </footer>
 </body>
 </html>

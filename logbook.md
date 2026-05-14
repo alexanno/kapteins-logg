@@ -2,8 +2,58 @@
 
 ---
 
-## 9. mai 2026, 16:18 | 60.8764°N, 11.9533°Ø
+## 14. mai 2026, 13:52 | 58.6074°N, 9.1367°Ø
+_**Vær**: regn — **Temp**: 7.7 °C — **Vind**: 3.2 m/s fra NO — **Trykk**: 986.5 hPa — **Skydekke**: 100.0 %_
 
-9. Mai. Første del af dagen med let bris fra SV og tungsindig skydekke over oss. Temperaturen holder seg mild, omkring 12 grader, men luften er tørr. Siktbarheten er god nok, dog er himmelen nesten helt lukket av grå skyer. Nordstjernen ligger stødig i vannet ved 60.8764°N, 11.9533°Ø. Mannskapet har syslet med riggingen, men det er en uro blant guttene; barometeret står på 1019, og vi venter at været skal skifte mot kvelden. En ung matros nynnet på en vise om hjemlengsel mens han skurte dekket. Det meldes om økende sjanse for regn i løpet av natten, hvorfor jeg har beordret ekstra sikring av lasten.
+14. Mai. Dagen brød med et urovekkende fall i barometeret, som nå har sunket til 986.5 hPa. Luften er blitt iskald, kun 7.7 grader, og vinden har skiftet brått til nordøst. Sjøen ligger tung, og himmelen er nå fullstendig lukket av et mørkt skydekke; ikke en eneste flik av blått er å se. 
 
-Kaptein Erik Halvorsen
+Mannskapet har mistet sitt gode humør fra forrige uke, og styrmannen har rett i sin frykt for det urolige været. Regnet har nå satt inn for fullt, og vi forventer et vedvarende skyll de neste tolv timer. Vi har revet seilene for å sikre oss mot kastene, mens vi kjemper oss fremover i det grå været.
+
+*Himmelen gråter, vinden er kald,*
+*Sjømannenstvil er et tause kall.*
+
+Kaptein Salveson
+
+---
+
+## 9. mai 2026, 16:37 | 58.6313°N, 9.1323°Ø
+_**Vær**: delvis skyet — **Temp**: 11.9 °C — **Vind**: 5.7 m/s fra SSV — **Trykk**: 1021.2 hPa — **Skydekke**: 91.6 %_
+
+11. Mai. Dagen brød med en kjølig luft, temperaturen falt mot 11 grader og siden ned mot 9. Sjøen er urolig med stiv kuling fra SSV; kastene nådde 10 meter per sekund, hvilket krevde våkent øye ved roret. Himlen er tungt dekket av skyer, dog uten tåke, og vi har seilt under et slør av grått i hele formiddag. 
+
+Mannskapet holder seg tørre, men kulden biter i fingrene. Styrmannen melder at trykket holder seg stabilt på 1021, og vi forventer ingen nedbør de nærmeste timer. Vi holder stø kurs nordvest, mens vi observerer havets mørke farge under det tette skydekket.
+
+*Vinden river i hvit duk,*
+*havet er vilt og kysten buk.*
+
+Kaptein Salveson
+
+---
+
+## 9. mai 2026, 16:37 | 58.6336°N, 9.1028°Ø
+_**Vær**: delvis skyet — **Temp**: 14.1 °C — **Vind**: 5.3 m/s fra S — **Trykk**: 1021.2 hPa — **Skydekke**: 90.8 %_
+
+10. Mai. Morgenen brød med lettskyet vær og en kjølig bris, temperaturen sank mot 11 grader i de tidlige timer. Vi holdt kursen nordvest som planlagt, mens barometeret holdt seg stabilt. Sjøen var rolig, men kastene fra sør nådde tidvis over 10 meter per sekund, hvilket tvang oss til å stramme riggen.
+
+Mannskapet er i bedre humør nå som tåken uteble og sikten er klar. Styrmannen har sluttet å klage, og vi observerte en flokk med havhest som fulgte skipet i formiddag. Mot kvelden ble himmelen igjen delvis skyet, men vi melder om null nedbør og trygg seiling. 
+
+*Kjølig vind og klarere sky,*
+*Frierholmen søker en havn på ny.*
+
+Kaptein Salveson
+
+---
+
+## 9. mai 2026, 16:37 | 58.5999°N, 9.0578°Ø
+_**Vær**: delvis skyet — **Temp**: 14.3 °C — **Vind**: 5.3 m/s fra SSV — **Trykk**: 1021.2 hPa — **Skydekke**: 87.3 %_
+
+9. Mai. Første del av dagen med lett bris fra SSV, men med vendinger som nådde opp mot en stiv kuling. Himlen er tungt overskyet, og luften føles mild med 14 grader, men fuktig i lungene. Vi ligger nå ved 58.59°N, 9.05°Ø, med kysten i sikte.
+
+Mannskapet er rastløse; styrmannen klager over et urolig barometer, dog står trykket stødig på 1021. En ung dekksgut har diktet et vers om tåken som uteble, mens vi holdt kursen stødig.
+
+*Sjøen er grå, vinden er fri,*
+*M/S Frierholmen seiler forbi.*
+
+Utkikk melder om oppklaring i kveld. Setter kursen mot nordvest.
+
+Kaptein Salveson
