@@ -2,6 +2,20 @@
 
 ---
 
+## 14. mai 2026, 21:26 | 58.6331°N, 9.0959°Ø
+_**Vær**: regn — **Temp**: 7.0 °C — **Vind**: 6.3 m/s fra S — **Trykk**: 990.1 hPa — **Skydekke**: 100.0 %_
+
+15. Mai. Natten er utholdt under et tungt og sort slør. Barometeret har vist en besynderlig vending og steget noe til 990.1 hPa, dog uten at det bringer lindring. Regnet faller nå nådeløst over dekket, og fuktigheten i luften er så tykk at alt tøy holder opp av vann. Vinden har skiftet brått til sør, med kast som når opp mot 12 meter per sekund, hvilket tvinger mannskapet til å kjempe med hver eneste trosse.
+
+Temperaturen holder seg uforandret kald ved 7 grader, og styrmannen melder at nedbøren vil vedvare i ytterligere tolv timer. Mannskapet er tause og våte; det er ingen sanger å høre fra dekksgutten i dag, kun lyden av piskende regn og knirkende tømmer. Vi holder ut i det grå, i håp om at kysten snart viser seg i oppklaring.
+
+*Regnet pisker, kulden rår,*
+*Sjømannens tålmod er det eneste som består.*
+
+Kaptein Salveson
+
+---
+
 ## 14. mai 2026, 13:52 | 58.6074°N, 9.1367°Ø
 _**Vær**: regn — **Temp**: 7.7 °C — **Vind**: 3.2 m/s fra NO — **Trykk**: 986.5 hPa — **Skydekke**: 100.0 %_
 
