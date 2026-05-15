@@ -2,6 +2,20 @@
 
 ---
 
+## 15. mai 2026, 13:27 | 58.5952°N, 9.1401°Ø
+_**Vær**: regn — **Temp**: 9.8 °C — **Vind**: 8.6 m/s fra SO — **Trykk**: 997.2 hPa — **Skydekke**: 99.7 %_
+
+15. Mai. Midt på dagen. Været gir oss ingen nåde; barometeret har steget noe til 997.2 hPa, dog er himmelen fremdeles lukket av et mørkt og ugjennomsigtig skydekke på nesten hundre prosent. Vinden har skiftet til sørøst med kast som når 11.5 meter per sekund, hvilket bringer en kjølig fuktighet over dekket. Temperaturen har steget noe til 9.8 grader, men det gir liten trøst da styrmannen varsler om kraftig regn i timevis fremover. 
+
+Mannskapet er utmattede etter nattens kamp med trossene, og vi forbereder oss på et voldsomt skyll som vil vare ut nattens time. Sjøen er urolig og grå, og vi holder oss på vakt for å sikre at alt tøy ikke igjen blir gjennomvått.
+
+*Himmelen mørkner, regnet slår,*
+*skipet rister, mens stormen rår.*
+
+Kaptein Salveson
+
+---
+
 ## 14. mai 2026, 21:26 | 58.6331°N, 9.0959°Ø
 _**Vær**: regn — **Temp**: 7.0 °C — **Vind**: 6.3 m/s fra S — **Trykk**: 990.1 hPa — **Skydekke**: 100.0 %_
 
