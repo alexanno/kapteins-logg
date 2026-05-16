@@ -2,6 +2,20 @@
 
 ---
 
+## 16. mai 2026, 12:58 | 58.6171°N, 9.0195°Ø
+_**Vær**: delvis skyet — **Temp**: 10.1 °C — **Vind**: 1.7 m/s fra OSO — **Trykk**: 997.5 hPa — **Skydekke**: 81.4 %_
+
+16. Mai. Midt på dagen. Etter flere døgn med nådeløst regn og tunge skyer, har det endelig oppstått en liten lindring. Vinden har avtatt betraktelig og ligger nå kun på 1.7 meter per sekund fra øst-sørøst, skjønt enkelte kast når opp mot 5.7. Barometeret viser 997.5 hPa, og selv om skydekket fremdeles hviler tungt over oss på 81 prosent, er den trykkende tåken fraværende. 
+
+Mannskapet, som har vært utmattede og våte siden den 14. mai, har benyttet den rolige sjøen til å tørke klær og etterse riggen. Dog varsler styrmannen at det lette regnet vil vende tilbake i løpet av de neste tolv timer, og temperaturen holder seg kjølig ved 10.1 grader. Vi holder oss vakne, for havet gir sjelden fullstendig fred når mai-mørket hviler over kysten.
+
+*Sjøen stilner, vinden dør,*
+*men regnet banker på vår dør.*
+
+Kaptein Salveson
+
+---
+
 ## 15. mai 2026, 13:27 | 58.5952°N, 9.1401°Ø
 _**Vær**: regn — **Temp**: 9.8 °C — **Vind**: 8.6 m/s fra SO — **Trykk**: 997.2 hPa — **Skydekke**: 99.7 %_
 
