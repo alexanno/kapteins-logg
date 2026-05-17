@@ -2,6 +2,20 @@
 
 ---
 
+## 17. mai 2026, 12:54 | 58.5957°N, 9.0259°Ø
+_**Vær**: lettskyet — **Temp**: 12.9 °C — **Vind**: 7.2 m/s fra SSV — **Trykk**: 1009.6 hPa — **Skydekke**: 29.8 %_
+
+17. Mai. Midt på dagen. Endelig har Herren vist oss nåde; skydekket har revnet og er nå nede på knappe 30 prosent, hvilket gir oss det første skues til solen på mange dager. Barometeret stiger betryggende til 1009.6 hPa, og temperaturen har steget til 12.9 grader. Vinden er frisk fra SSV med 7.2 meter per sekund, men enkelte kast når opp mot 14.4, hvilket gir oss en god fart gjennom vannet. 
+
+Mannskapet har endelig lagt fra seg klutene og tørket sine våte klær i solen, og humøret er vendt til det bedre etter dagene med piskende regn. Styrmannen varsler dog om at lette regnbyger kan vende tilbake i løpet av det neste døgn, men vi nyter stillheten mens den varer. Vi holder kursen med lette hjerter.
+
+*Solen bryter gjennom grått,*
+*havet gir oss alt vi har fått.*
+
+Kaptein Salveson
+
+---
+
 ## 16. mai 2026, 12:58 | 58.6171°N, 9.0195°Ø
 _**Vær**: delvis skyet — **Temp**: 10.1 °C — **Vind**: 1.7 m/s fra OSO — **Trykk**: 997.5 hPa — **Skydekke**: 81.4 %_
 
