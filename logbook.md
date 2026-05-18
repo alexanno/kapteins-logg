@@ -2,6 +2,20 @@
 
 ---
 
+## 18. mai 2026, 14:52 | 58.6284°N, 9.1353°Ø
+_**Vær**: skyet — **Temp**: 12.0 °C — **Vind**: 4.6 m/s fra NO — **Trykk**: 1017.1 hPa — **Skydekke**: 100.0 %_
+
+18. Mai. Midt på dagen. Barometeret har steget betryggende til 1017.1 hPa, hvilket bringer en etterlengtet stabilitet etter forrige ukes voldsomme svingninger. Temperaturen holder seg på 12 grader, men himmelen er igjen lukket av et totalt skydekke på hundre prosent, som et grått teppe over kysten. Vinden har skiftet brått til nordøst med en moderat styrke på 4.6 meter per sekund, og enkelte kast når opp mot 7, hvilket holder skipet stødig i vannet.
+
+Sjøen er roligere nå, og selv om solen er skjult, varsler styrmannen at skydekket vil sprekke opp i løpet av de neste seks timer. Mannskapet, som nå er tørre i klærne etter gårsdagens nåde, har benyttet tiden til å etterse lasten. Vi seiler med lett sinn, for regnet har endelig sluppet sitt grep om M/S Frierholmen.
+
+*Himmelen lukket, men vinden er mild,*
+*havets vrede er nå blitt til still.*
+
+Kaptein Salveson
+
+---
+
 ## 17. mai 2026, 12:54 | 58.5957°N, 9.0259°Ø
 _**Vær**: lettskyet — **Temp**: 12.9 °C — **Vind**: 7.2 m/s fra SSV — **Trykk**: 1009.6 hPa — **Skydekke**: 29.8 %_
 
