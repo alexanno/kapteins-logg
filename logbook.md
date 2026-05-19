@@ -2,6 +2,18 @@
 
 ---
 
+## 19. mai 2026, 14:34 | 58.6125°N, 9.1131°Ø
+_**Vær**: klar himmel — **Temp**: 15.3 °C — **Vind**: 2.1 m/s fra O — **Trykk**: 1017.5 hPa — **Skydekke**: 7.6 %_
+
+19. Mai. Midt på dagen. Det er en sann velsignelse å skue ut over et hav som nå speiler himmelens egen klarhet. Skydekket er nesten fullstendig fordampet, nede på knappe 8 prosent, og solen varmer dekket med en temperatur på 15.3 grader. Barometeret står støtt på 1017.5 hPa, hvilket bekrefter den stabiliteten vi har håpet på siden den 14. mai. Vinden er nå kun en sval pust fra øst på 2.1 meter per sekund, og skipet glider frem med en lette som får mannskapet til å glemme de foregående dagers elendighet. Styrmannen melder om klar himmel de neste seks timer, og jeg har derfor beordret at alt utstyr skal tørkes og ettersees grundig før vi setter kursen videre.
+
+*Solen kysser dypets blå,*
+*freden er her for oss å nå.*
+
+Kaptein Salveson
+
+---
+
 ## 18. mai 2026, 14:52 | 58.6284°N, 9.1353°Ø
 _**Vær**: skyet — **Temp**: 12.0 °C — **Vind**: 4.6 m/s fra NO — **Trykk**: 1017.1 hPa — **Skydekke**: 100.0 %_
 
