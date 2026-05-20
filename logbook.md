@@ -2,6 +2,18 @@
 
 ---
 
+## 20. mai 2026, 14:33 | 58.6119°N, 9.0425°Ø
+_**Vær**: lett regn — **Temp**: 13.3 °C — **Vind**: 1.8 m/s fra O — **Trykk**: 1017.0 hPa — **Skydekke**: 100.0 %_
+
+20. Mai. Midt på dagen. Det korte pust av fred vi opplevde i går var kun en skjør illusjon. Barometeret har sunket umerkelig til 1017.0 hPa, og himmelen er igjen blitt et lukket, grått hvelv med hundre prosent skydekke. Temperaturen holder seg på 13.3 grader, men den tunge fuktigheten i luften, nå oppe i 97 prosent, varsler det som styrmannen fryktet. Vinden er beskjeden fra øst med 1.8 meter per sekund, dog med kast opp mot 5.1, men dette er stillheten før det våte fall. Allerede nå meldes det om lett regn, og forutseelsen er at vi skal ligge i et vedvarende skyll de neste tolv timer. Mannskapet, som nettopp hadde funnet tørre klær, sukker tungt over dekket. Vi bereder oss på en våt natt.
+
+*Skyene samles, lyset svinner,*
+*regnet kommer, freden rinner.*
+
+Kaptein Salveson
+
+---
+
 ## 19. mai 2026, 14:34 | 58.6125°N, 9.1131°Ø
 _**Vær**: klar himmel — **Temp**: 15.3 °C — **Vind**: 2.1 m/s fra O — **Trykk**: 1017.5 hPa — **Skydekke**: 7.6 %_
 
