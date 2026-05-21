@@ -2,6 +2,18 @@
 
 ---
 
+## 21. mai 2026, 14:39 | 58.602°N, 9.0599°Ø
+_**Vær**: lettskyet — **Temp**: 16.3 °C — **Vind**: 3.5 m/s fra SSV — **Trykk**: 1017.9 hPa — **Skydekke**: 19.4 %_
+
+21. Mai. Midt på dagen. Naturen har igjen vist sitt milde ansikt, og det vedvarende skyllregnet vi fryktet i går er endelig fordampet. Barometeret stiger ytterligere til 1017.9 hPa, og himmelen har åpnet seg slik at skydekket nå kun er 19 prosent. Temperaturen har steget til behagelige 16.3 grader, og en frisk bris fra SSV på 3.5 meter per sekund, med kast opp mot 6.7, fører oss stødig fremover. Styrmannen melder at natten vil bringe en helt klar himmel, og temperaturen kan klatre helt opp mot 20 grader i timene som kommer. Mannskapet har forlatt sine våte køyer med fornyet giv, og det er en merkbar lettelse over dekket nå som tørken er vendt tilbake.
+
+*Siste dråpe falt i det blå,*
+*nå kan vi stjernenes lys beundre og se på.*
+
+Kaptein Salveson
+
+---
+
 ## 20. mai 2026, 14:33 | 58.6119°N, 9.0425°Ø
 _**Vær**: lett regn — **Temp**: 13.3 °C — **Vind**: 1.8 m/s fra O — **Trykk**: 1017.0 hPa — **Skydekke**: 100.0 %_
 
