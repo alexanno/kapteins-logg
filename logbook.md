@@ -2,6 +2,18 @@
 
 ---
 
+## 22. mai 2026, 14:14 | 58.6092°N, 9.1504°Ø
+_**Vær**: delvis skyet — **Temp**: 14.0 °C — **Vind**: 6.9 m/s fra SSV — **Trykk**: 1023.4 hPa — **Skydekke**: 72.2 %_
+
+22. Mai. Midt på dagen. Barometeret stiger ytterligere til et trykk på 1023.4 hPa, hvilket bringer en solid stabilitet over M/S Frierholmen. Temperaturen holder seg på 14 grader, og selv om skydekket nå har lukket seg noe opp til 72 prosent, er luften klar og fri for tåke. En frisk vind fra SSV på 6.9 meter per sekund, med kast opp mot 9.5, fyller seilene og driver oss stødig fremover mot nordøst. Styrmannen melder at himmelen vil lette ytterligere de neste seks timene, og vi forventer at temperaturen kan klatre helt opp mot 19 grader før natten faller på. Etter dagene med ustadig vær og våte køyer, hviler det nå en ro over dekket, og mannskapet arbeider med en flid jeg ikke har sett siden vi forlot havn.
+
+*Vinden synger i mastens tårn,*
+*vi seiler trygt fra stormens horn.*
+
+Kaptein Salveson
+
+---
+
 ## 21. mai 2026, 14:39 | 58.602°N, 9.0599°Ø
 _**Vær**: lettskyet — **Temp**: 16.3 °C — **Vind**: 3.5 m/s fra SSV — **Trykk**: 1017.9 hPa — **Skydekke**: 19.4 %_
 
