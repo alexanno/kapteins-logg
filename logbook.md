@@ -2,6 +2,18 @@
 
 ---
 
+## 23. mai 2026, 12:58 | 58.5935°N, 9.0474°Ø
+_**Vær**: delvis skyet — **Temp**: 15.8 °C — **Vind**: 4.4 m/s fra SV — **Trykk**: 1020.4 hPa — **Skydekke**: 58.9 %_
+
+23. Mai. Midt på dagen. Barometeret har sunket noe til 1020.4 hPa, dog uten at det bringer uro over skipet. Temperaturen holder seg mild på 15.8 grader, og med et skydekke på 58.9 prosent begynner himmelen å åpne seg for solen. Vinden blåser stødig fra SV med 4.4 meter per sekund, men med kraftige kast opp mot 8.8 som tvinger oss til å holde et våkent øye med riggen. Styrmannen lover en klar himmel de neste tolv timene, og vi forventer at varmen vil stige mot 20 grader før natten. Etter dagene med ustadig vær, nyter mannskapet nå det tørre dekket og den gode sikten langs kysten.
+
+*Vinden vender, solen griner,*
+*den siste rest av gråhet svinner.*
+
+Kaptein Salveson
+
+---
+
 ## 22. mai 2026, 14:14 | 58.6092°N, 9.1504°Ø
 _**Vær**: delvis skyet — **Temp**: 14.0 °C — **Vind**: 6.9 m/s fra SSV — **Trykk**: 1023.4 hPa — **Skydekke**: 72.2 %_
 
