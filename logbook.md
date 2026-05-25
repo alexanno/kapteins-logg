@@ -2,6 +2,18 @@
 
 ---
 
+## 25. mai 2026, 14:31 | 58.6132°N, 9.0901°Ø
+_**Vær**: delvis skyet — **Temp**: 17.1 °C — **Vind**: 4.5 m/s fra SV — **Trykk**: 1023.3 hPa — **Skydekke**: 67.6 %_
+
+25. Mai. Midt på dagen. Barometeret viser nå 1023.3 hPa, og den trygge stabiliteten vi har kjent siden det 22. mai vedvarer. Temperaturen har sunket noe til 17.1 grader, men luften er behagelig tørr med en fuktighet på kun 63 prosent. En stødige bris fra SV på 4.5 meter per sekund, med kast opp mot 9.3, holder M/S Frierholmen i god fart gjennom vannet. Skydekket ligger på 67.6 prosent, dog melder styrmannen at himmelen vil holde seg delvis skyet uten tegn til nedbør de neste tolv timer, og at varmen vil stige mot 20.6 grader før natten. Mannskapet, som fortsatt nyter fraværet av de våte køyer fra forrige uke, har i dag observert en flokk med nise som lekte i kjølvannet.
+
+*Sølvblått hav og vind fra sør,*
+*vi seiler raskere enn vi gjorde før.*
+
+Kaptein Salveson
+
+---
+
 ## 24. mai 2026, 12:58 | 58.6033°N, 9.0379°Ø
 _**Vær**: delvis skyet — **Temp**: 21.2 °C — **Vind**: 3.7 m/s fra V — **Trykk**: 1026.0 hPa — **Skydekke**: 81.6 %_
 
