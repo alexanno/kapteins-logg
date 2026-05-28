@@ -2,6 +2,18 @@
 
 ---
 
+## 28. mai 2026, 15:25 | 58.6019°N, 9.0464°Ø
+_**Vær**: delvis skyet — **Temp**: 16.9 °C — **Vind**: 6.0 m/s fra SSV — **Trykk**: 1023.0 hPa — **Skydekke**: 73.8 %_
+
+28. Mai. Midt på ettermiddagen. Barometeret står nå på 1023.0 hPa, og den stabile luften fra gårsdagen vedvarer, om enn med et tykkere skydekke på 73.8 prosent. Temperaturen er behagelig på 16.9 grader, men vinden har dreid mot SSV og tatt til med en styrke på 6.0 meter per sekund, med kast opp mot 12.0 som får M/S Frierholmen til å danse på bølgene. Styrmannen melder at himmelen vil lette betraktelig i løpet av de neste seks timene, med temperaturer som vil falle mot 13.9 grader i natt. Mannskapet har i dag observert en stor stim av sild som sprang i overflaten, noe som skapte stor oppspirthet om bord etter gårsdagens rolige seilas.
+
+*Skyer driver, vinden vender,*
+*havet kaller, seilene spenner.*
+
+Kaptein Salveson
+
+---
+
 ## 27. mai 2026, 14:53 | 58.6294°N, 9.1403°Ø
 _**Vær**: klar himmel — **Temp**: 16.8 °C — **Vind**: 5.0 m/s fra NNV — **Trykk**: 1021.4 hPa — **Skydekke**: 3.7 %_
 
