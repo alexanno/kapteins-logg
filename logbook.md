@@ -2,6 +2,18 @@
 
 ---
 
+## 29. mai 2026, 14:37 | 58.6316°N, 9.0658°Ø
+_**Vær**: skyet — **Temp**: 17.0 °C — **Vind**: 2.2 m/s fra SSV — **Trykk**: 1015.3 hPa — **Skydekke**: 99.1 %_
+
+29. Mai. Midt på dagen. Barometeret har falt merkbart til 1015.3 hPa, og himmelen er nå fullstendig lukket av et tungt, grått skydekke på 99.1 prosent. Temperaturen holder seg på 17.0 grader, men luften føles tyngre med en fuktighet på 65.5 prosent. Vinden fra SSV er i dag svakere, kun 2.2 meter per sekund, dog med uforutsigbare kast opp mot 8.0 som rister i riggen. Styrmannen melder at det tunge skydekket vil lette betraktelig i løpet av de neste tolv timer, og at vi kan vente oss en lettskyet natt med temperaturer ned mot 16.2 grader. Mannskapet, som fortsatt snakker om gårsdagens sildestim, har i dag observert en enslig gråsel som fulgte skipet i flere timer. Vi holder stø kurs, tross den manglende solen.
+
+*Grått er teppet, tung er skyen,*
+*vi venter på glimt av solens pryden.*
+
+Kaptein Salveson
+
+---
+
 ## 28. mai 2026, 15:25 | 58.6019°N, 9.0464°Ø
 _**Vær**: delvis skyet — **Temp**: 16.9 °C — **Vind**: 6.0 m/s fra SSV — **Trykk**: 1023.0 hPa — **Skydekke**: 73.8 %_
 
