@@ -2,6 +2,18 @@
 
 ---
 
+## 30. mai 2026, 13:00 | 58.6178°N, 9.0456°Ø
+_**Vær**: lettskyet — **Temp**: 24.6 °C — **Vind**: 2.1 m/s fra NV — **Trykk**: 1010.0 hPa — **Skydekke**: 29.5 %_
+
+30. Mai. Tidlig ettermiddag. Det tunge teppet fra gårsdagen har endelig revnet, og himmelen åpner seg med et skydekke på kun 29.5 prosent. Barometeret har sunket ytterligere til 1010.0 hPa, men luften er usedvanlig mild og varm, hele 24.6 grader, noe som bringer en sjelden letthet over dekket. En svak bris fra NV på 2.1 meter per sekund holder oss i rolig fart, dog med kast opp mot 6.4 som minner oss om havets lunefullhet. Styrmannen lover en klar natt og ingen nedbør, med temperaturer som vil holde seg opp mot 24.9 grader før mørket faller på. Mannskapet har lagt gråselen bak seg og nyter nå varmen i solen, mens vi holder oss i rolig seilas ved 58.6178°N, 9.0456°Ø.
+
+*Solen bryter gjennom grå skyvegg,*
+*varme vind over saltet egg.*
+
+Kaptein Salveson
+
+---
+
 ## 29. mai 2026, 14:37 | 58.6316°N, 9.0658°Ø
 _**Vær**: skyet — **Temp**: 17.0 °C — **Vind**: 2.2 m/s fra SSV — **Trykk**: 1015.3 hPa — **Skydekke**: 99.1 %_
 
