@@ -2,6 +2,18 @@
 
 ---
 
+## 31. mai 2026, 13:12 | 58.5944°N, 9.0449°Ø
+_**Vær**: skyet — **Temp**: 18.0 °C — **Vind**: 1.4 m/s fra S — **Trykk**: 1011.1 hPa — **Skydekke**: 99.2 %_
+
+31. Mai. Tidlig ettermiddag. Den sjelden varme vi opplevde i går er nå fordunset, og himmelen har igjen lukket seg i et ugjennomtrengelig teppe med 99.2 prosent skydekke. Barometeret stiger svakt til 1011.1 hPa, men luften føles tung og fuktig, hele 82.3 prosent, mens vinden fra S er nesten fraværende med kun 1.4 meter per sekund. Mannskapet, som nylig nøt solen, har nå trukket seg tilbake til sine plasser; det hviler en trykkende stillhet over dekket. Styrmannen varsler at dette er stormens stille før regnet faller, da sannsynligheten for nedbør stiger til 97.4 prosent i løpet av de neste tolv timer. Vi ligger nær 58.5944°N, 9.0449°Ø, og venter på at himmelen skal åpne seg.
+
+*Stille vind og tunge sky,*
+*regnet kommer, natten blir ny.*
+
+Kaptein Salveson
+
+---
+
 ## 30. mai 2026, 13:00 | 58.6178°N, 9.0456°Ø
 _**Vær**: lettskyet — **Temp**: 24.6 °C — **Vind**: 2.1 m/s fra NV — **Trykk**: 1010.0 hPa — **Skydekke**: 29.5 %_
 
