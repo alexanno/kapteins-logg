@@ -2,6 +2,18 @@
 
 ---
 
+## 1. juni 2026, 17:15 | 58.5975°N, 9.0465°Ø
+_**Vær**: lettskyet — **Temp**: 16.2 °C — **Vind**: 5.8 m/s fra SSV — **Trykk**: 1008.7 hPa — **Skydekke**: 31.7 %_
+
+1. Juni. Sent på ettermiddagen. Det tunge regnet vi ventet på i går har endelig sluppet taket, og himmelen har igjen revnet med et skydekke på 31.7 prosent. Barometeret har imidlertid sunket ytterligere til 1008.7 hPa, og luften er fuktig, hele 80.5 prosent. Vinden fra SSV har tatt seg opp til 5.8 meter per sekund, med krappe kast opp mot 11.2 som rister i riggen og setter M/S Frierholmen i god fart. Temperaturen har falt til 16.2 grader, og styrmannen varsler en kjøligere natt med temperaturer ned mot 13.2 grader. Mannskapet er lettet over at det verste uværet uteble, men vi holder et våkent øye med horisonten da sannsynligheten for nedbør igjen stiger i løpet av nattens timer. Vi ligger nå ved 58.5975°N, 9.0465°Ø.
+
+*Vinden river, skyen flyr,*
+*natten bringer nye styr.*
+
+Kaptein Salveson
+
+---
+
 ## 31. mai 2026, 13:12 | 58.5944°N, 9.0449°Ø
 _**Vær**: skyet — **Temp**: 18.0 °C — **Vind**: 1.4 m/s fra S — **Trykk**: 1011.1 hPa — **Skydekke**: 99.2 %_
 
