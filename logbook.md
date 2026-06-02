@@ -2,6 +2,18 @@
 
 ---
 
+## 2. juni 2026, 15:57 | 58.605°N, 9.1136°Ø
+_**Vær**: lett regn — **Temp**: 13.9 °C — **Vind**: 2.6 m/s fra ONO — **Trykk**: 1008.0 hPa — **Skydekke**: 100.0 %_
+
+2. Juni. Midt på ettermiddagen. Himlen er nå fullstendig lukket, et ugjennomtrengelig teppe med 100 prosent skydekke som svelger alt lys. Barometeret har sunket ytterligere til 1008.0 hPa, og luften er mettet av fukt, hele 97 prosent. Vinden fra ONO er svak, kun 2.6 meter per sekund, men det hviler en tung dysterhet over dekket. Styrmannen varsler lett regn i timene som kommer, og vi venter oss en kjølig natt hvor temperaturen vil holde seg omkring 13.5 grader. Mannskapet har trukket seg inn under overbygget, mens vi driver sakte ved 58.605°N, 9.1136°Ø i den grå tåken.
+
+*Regnet faller, stille og grått,*
+*havets dyp har alt lyset fått.*
+
+Kaptein Salveson
+
+---
+
 ## 1. juni 2026, 17:15 | 58.5975°N, 9.0465°Ø
 _**Vær**: lettskyet — **Temp**: 16.2 °C — **Vind**: 5.8 m/s fra SSV — **Trykk**: 1008.7 hPa — **Skydekke**: 31.7 %_
 
