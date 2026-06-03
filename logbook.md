@@ -2,6 +2,18 @@
 
 ---
 
+## 3. juni 2026, 16:15 | 58.6277°N, 9.0849°Ø
+_**Vær**: skyet — **Temp**: 14.6 °C — **Vind**: 1.5 m/s fra SV — **Trykk**: 1001.5 hPa — **Skydekke**: 100.0 %_
+
+3. Juni. Sen ettermiddag. Det grå mørket fra gårdsdagen har ikke veket, og himmelen forblir et lukket hvelv med 100 prosent skydekke. Barometeret har falt faretruende til 1001.5 hPa, og luften er nå så mettet av fukt at den nesten kan drikkes, hele 98.5 prosent. Vinden fra SV er svak, kun 1.5 meter per sekund, men korte kast opp mot 5.7 rister i vant og rigg. Styrmannen varsler at tåken holder seg, og selv om det er stille nå, vil himmelen med stor sannsynlighet åpne seg for regn i løpet av de neste tolv timer. Mannskapet murrer over den vedvarende kulden, og vi holder oss nå ved 58.6277°N, 9.0849°Ø i et landskap av tåke og tungsinn.
+
+*Tungt er trykket, tåken tett,*
+*havet hviler, vinden lett.*
+
+Kaptein Salveson
+
+---
+
 ## 2. juni 2026, 15:57 | 58.605°N, 9.1136°Ø
 _**Vær**: lett regn — **Temp**: 13.9 °C — **Vind**: 2.6 m/s fra ONO — **Trykk**: 1008.0 hPa — **Skydekke**: 100.0 %_
 
