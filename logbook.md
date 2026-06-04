@@ -2,6 +2,18 @@
 
 ---
 
+## 4. juni 2026, 14:33 | 58.6289°N, 9.0682°Ø
+_**Vær**: skyet — **Temp**: 16.9 °C — **Vind**: 3.4 m/s fra S — **Trykk**: 997.5 hPa — **Skydekke**: 93.8 %_
+
+4. Juni. Tidlig ettermiddag. Barometeret har nå falt til et faretruende lavt nivå på 997.5 hPa, og det varslede regnet fra gårsdagen henger over oss som et mørkt løfte. Himlen er nesten helt lukket med 93.8 prosent skydekke, og selv om tåken har veket, er luften tung og fuktig. Vinden fra S har friskt opp til 3.4 meter per sekund, med krappe kast opp mot 8.8 som får riggen til å klage. Styrmannen varsler at regnet vil falle for alvor i løpet av de neste seks timene, og at temperaturen skal synke mot 13.7 grader. Mannskapet har strammet trossene og gjort klart for uvær, mens vi ligger ved 58.6289°N, 9.0682°Ø.
+
+*Lavt trykk og vind fra sør,*
+*havet varsler stormen før.*
+
+Kaptein Salveson
+
+---
+
 ## 3. juni 2026, 16:15 | 58.6277°N, 9.0849°Ø
 _**Vær**: skyet — **Temp**: 14.6 °C — **Vind**: 1.5 m/s fra SV — **Trykk**: 1001.5 hPa — **Skydekke**: 100.0 %_
 
