@@ -2,6 +2,18 @@
 
 ---
 
+## 5. juni 2026, 14:23 | 58.5892°N, 9.1059°Ø
+_**Vær**: delvis skyet — **Temp**: 14.5 °C — **Vind**: 9.4 m/s fra SSV — **Trykk**: 1004.4 hPa — **Skydekke**: 52.7 %_
+
+5. Juni. Tidlig ettermiddag. Det mørke løftet fra gårsdagen er endelig brutt; himmelen har revnet og skydekket er nå redusert til 52.7 prosent. Barometeret viser en svak stigning til 1004.4 hPa, og selv om luften er fuktig, er tåken forsvunnet og sikten er god. Vinden fra SSV har tiltatt i styrke til 9.4 meter per sekund, med kraftige kast opp mot 12.2 som får M/S Frierholmen til å kaste på seg, men vi rir nå bølgene med stødig kurs. Temperaturen holder seg kjølig på 14.5 grader, og styrmannen varsler en oppklaring med lettskyet vær for de neste tolv timer, uten tegn til mer nedbør. Mannskapet har endelig lagt fra seg murringen og arbeider med friskt mot på dekket. Vi befinner oss nå ved 58.5892°N, 9.1059°Ø.
+
+*Sønnavind river i vått seil,*
+*himlen åpnes, alt er feilfritt og veil.*
+
+Kaptein Salveson
+
+---
+
 ## 4. juni 2026, 14:33 | 58.6289°N, 9.0682°Ø
 _**Vær**: skyet — **Temp**: 16.9 °C — **Vind**: 3.4 m/s fra S — **Trykk**: 997.5 hPa — **Skydekke**: 93.8 %_
 
