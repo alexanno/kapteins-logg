@@ -2,6 +2,18 @@
 
 ---
 
+## 7. juni 2026, 13:19 | 58.6022°N, 9.1451°Ø
+_**Vær**: skyet — **Temp**: 14.4 °C — **Vind**: 2.1 m/s fra OSO — **Trykk**: 1014.1 hPa — **Skydekke**: 93.1 %_
+
+7. Juni. Tidlig ettermiddag. Den strålende klarheten fra gårsdagen er nå veket for et tungt og grått skydekke på 93.1 prosent, og luften er igjen blitt trykkende fuktig med en fuktighet på 95.9 prosent. Barometeret viser imidlertid en gunstig stigning til 1014.1 hPa, hvilket tyder på at vi er trygge for det uværet som preget oss tidligere i uken. Vinden har lagt seg betraktelig og blåser nå kun med 2.1 meter per sekund fra OSO, med små kast opp mot 2.8, noe som gjør fremdriften tung og seilasen døsig. Temperaturen har sunket til 14.4 grader, og styrmannen melder at skyene vil sprekke opp noe i løpet av de neste tolv timer, uten fare for regn. Vi holder kursen ved 58.6022°N, 9.1451°Ø, mens mannskapet nyter den etterlengtede roen etter dagenes strev.
+
+*Vinden sovner, himmelen grå,*
+*stille driver Frierholmen nå.*
+
+Kaptein Salveson
+
+---
+
 ## 6. juni 2026, 13:06 | 58.6302°N, 9.0935°Ø
 _**Vær**: lettskyet — **Temp**: 17.3 °C — **Vind**: 6.0 m/s fra SSV — **Trykk**: 1012.5 hPa — **Skydekke**: 13.7 %_
 
