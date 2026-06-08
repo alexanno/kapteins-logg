@@ -2,6 +2,18 @@
 
 ---
 
+## 8. juni 2026, 15:26 | 58.6151°N, 9.1381°Ø
+_**Vær**: regn — **Temp**: 14.9 °C — **Vind**: 4.6 m/s fra S — **Trykk**: 1014.1 hPa — **Skydekke**: 100.0 %_
+
+8. Juni. Sen ettermiddag. Den døsige roen fra gårsdagen er nå overstrykket av et ugjennomtrengelig skydekke på 100 prosent, og himmelen har igjen antatt et tungt, blygrått utseende. Barometeret holder seg stabilt på 1014.1 hPa, men luftfuktigheten er nå steget til 95.5 prosent, og luften føles mett av regn. Vinden har friskt opp fra S til 4.6 meter per sekund, med kast opp mot 6.3, hvilket gir M/S Frierholmen en jevnere gang enn i går. Styrmannen melder med stor sikkerhet om kommende regn, med en nedbørssjanse på nær 100 prosent for de neste tolv timer, og vi venter nå et betydelig nedbørsvolum på opp mot 3.9 millimeter. Mannskapet har igjen gjort klart for uvær og sikret dekket, mens vi holder vår posisjon ved 58.6151°N, 9.1381°Ø.
+
+*Skyene lukker seg tette og grå,*
+*regnet skal snart våre seil nå.*
+
+Kaptein Salveson
+
+---
+
 ## 7. juni 2026, 13:19 | 58.6022°N, 9.1451°Ø
 _**Vær**: skyet — **Temp**: 14.4 °C — **Vind**: 2.1 m/s fra OSO — **Trykk**: 1014.1 hPa — **Skydekke**: 93.1 %_
 
