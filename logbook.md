@@ -2,6 +2,18 @@
 
 ---
 
+## 9. juni 2026, 14:20 | 58.5878°N, 9.1368°Ø
+_**Vær**: delvis skyet — **Temp**: 14.7 °C — **Vind**: 9.5 m/s fra SV — **Trykk**: 999.8 hPa — **Skydekke**: 64.4 %_
+
+9. Juni. Tidlig ettermiddag. Det tunge regnet fra gårsdagen har endelig veket, og himmelen har åpnet seg med et skydekke på 64.4 prosent. Barometeret viser et fall til 999.8 hPa, og vinden fra SV har tiltatt betydelig til 9.5 meter per sekund, med krappe kast opp mot 12.6 som gir Frierholmen en livlig og utfordrende gang. Temperaturen holder seg kjølig på 14.7 grader, men styrmannen melder om en oppklaring med lettskyet vær og ingen nedbør de neste tolv timer, hvilket bringer et etterlengtet håp om tørre dekker. Mannskapet har arbeidet iherdig med å tørke opp etter gårsdagens nedbør mens vi holder vår posisjon ved 58.5878°N, 9.1368°Ø.
+
+*Vinden vender, skyene flyr,*
+*frierholmen søker nye styr.*
+
+Kaptein Salveson
+
+---
+
 ## 8. juni 2026, 15:26 | 58.6151°N, 9.1381°Ø
 _**Vær**: regn — **Temp**: 14.9 °C — **Vind**: 4.6 m/s fra S — **Trykk**: 1014.1 hPa — **Skydekke**: 100.0 %_
 
