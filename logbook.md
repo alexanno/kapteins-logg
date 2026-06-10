@@ -2,6 +2,18 @@
 
 ---
 
+## 10. juni 2026, 14:51 | 58.6196°N, 9.1123°Ø
+_**Vær**: rainshowersandthunder — **Temp**: 14.1 °C — **Vind**: 8.3 m/s fra SV — **Trykk**: 1007.8 hPa — **Skydekke**: 82.9 %_
+
+10. Juni. Tidlig ettermiddag. Vinden holder seg stiv fra SV med 8.3 meter per sekund, og kastene har nå nådd 13.2, hvilket gir skipet en voldsom krenging og krever mannskapets fulle årvåkenhet. Barometeret viser 1007.8 hPa, men himmelen er igjen blitt tung og mørk med et skydekke på 82.9 prosent. Temperaturen har sunket til 14.1 grader, og luften føles elektrisk; styrmannen varsler nå om fare for torden og lette regnbyger over de neste tolv timer, selv om nedbøren ennå ikke har falt. Vi har strammet opp alt løst utstyr på dekket etter gårsdagens tørking, da vi frykter et plutselig uvær mens vi ligger ved 58.6196°N, 9.1123°Ø. En ung matros hevdet å ha sett glimt av lyn i horisonten mot vest, og mannskapet er nå i høyeste beredskap.
+
+*Tordenen ruller, skyene grår,*
+*Frierholmen mot stormen når.*
+
+Kaptein Salveson
+
+---
+
 ## 9. juni 2026, 14:20 | 58.5878°N, 9.1368°Ø
 _**Vær**: delvis skyet — **Temp**: 14.7 °C — **Vind**: 9.5 m/s fra SV — **Trykk**: 999.8 hPa — **Skydekke**: 64.4 %_
 
