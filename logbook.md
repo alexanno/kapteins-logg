@@ -2,6 +2,18 @@
 
 ---
 
+## 11. juni 2026, 15:34 | 58.6138°N, 9.1165°Ø
+_**Vær**: lettskyet — **Temp**: 15.4 °C — **Vind**: 7.6 m/s fra SSV — **Trykk**: 1014.2 hPa — **Skydekke**: 32.7 %_
+
+11. Juni. Tidlig ettermiddag. De fryktede tordenskyene fra gårsdagen har endelig drevet av mot vest, og himmelen har åpnet seg med et skydekke på kun 32.7 prosent. Barometeret stiger nå til 1014.2 hPa, hvilket bringer en etterlengtet ro over mannskapet etter gårsdagens elektriske spenning. Vinden holder seg frisk fra SSV med 7.6 meter per sekund, men kastene når frem til 13.3, noe som krever fast hånd på roret mens vi ligger ved 58.6138°N, 9.1165°Ø. Temperaturen er mild med 15.4 grader, og styrmannen melder om en klar og tørr periode de neste seks timer, om enn med en svak sjanse for skyer i natt. Vi har benyttet denne oppklaringen til å etterse riggen for skader etter uværet.
+
+*Stormen har vendt, havet er klart,*
+*Frierholmen glir nå med sikker fart.*
+
+Kaptein Salveson
+
+---
+
 ## 10. juni 2026, 14:51 | 58.6196°N, 9.1123°Ø
 _**Vær**: rainshowersandthunder — **Temp**: 14.1 °C — **Vind**: 8.3 m/s fra SV — **Trykk**: 1007.8 hPa — **Skydekke**: 82.9 %_
 
