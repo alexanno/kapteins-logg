@@ -2,6 +2,18 @@
 
 ---
 
+## 13. juni 2026, 13:23 | 58.633°N, 9.0554°Ø
+_**Vær**: skyet — **Temp**: 15.1 °C — **Vind**: 3.2 m/s fra NO — **Trykk**: 1003.2 hPa — **Skydekke**: 97.4 %_
+
+13. Juni. Tidlig ettermiddag. Regnet fra gårsdagen har forstummet for øyeblikket, men himmelen forblir tung og ugjennomtrengelig med et skydekke på 97.4 prosent. Barometeret viser et urolig fall til 1003.2 hPa, og luften er så mettet av fuktighet at alt om bord føles klamt. Vinden har skiftet retning og biter nå fra NO med 3.2 meter per sekund, om enn med krappe kast opp mot 9.8 som rykker i riggen. Temperaturen har steget noe til 15.1 grader, men styrmannen varsler at regnet vil vende tilbake i løpet av de neste seks timer med et forventet nedbørsvolum på 2.1 millimeter. Mannskapet er tynget av det vedvarende gråværet, og vi holder vår posisjon ved 58.633°N, 9.0554°Ø mens vi venter på bedre kår.
+
+*Sølvgrått lys og vind fra nord,*
+*Frierholmen driver på våte jord.*
+
+Kaptein Salveson
+
+---
+
 ## 12. juni 2026, 14:32 | 58.6031°N, 9.0209°Ø
 _**Vær**: kraftig regn — **Temp**: 12.8 °C — **Vind**: 3.3 m/s fra SO — **Trykk**: 1010.0 hPa — **Skydekke**: 100.0 %_
 
