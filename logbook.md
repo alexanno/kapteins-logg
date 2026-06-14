@@ -2,6 +2,18 @@
 
 ---
 
+## 14. juni 2026, 13:26 | 58.6051°N, 9.117°Ø
+_**Vær**: delvis skyet — **Temp**: 21.7 °C — **Vind**: 1.4 m/s fra SV — **Trykk**: 1005.1 hPa — **Skydekke**: 83.8 %_
+
+14. Juni. Tidlig ettermiddag. En sjelden varme har senket seg over dekket med en temperatur på 21.7 grader, og vinden fra SV har nesten helt forstummet til beskjedne 1.4 meter per sekund. Barometeret hviler på 1005.1 hPa, men den tunge luften og et skydekke på 83.8 prosent varsler at denne freden er kortvarig. Styrmannen melder om en økende fare for torden og regn i løpet av de neste seks timer, med en nedbørsmengde på 1.3 millimeter, og vi frykter at det urolige været fra forrige uke igjen skal hjemsøke oss. Mannskapet nyter den stive stillheten mens vi ligger ved 58.6051°N, 9.117°Ø, men alle er beredt til å sikre riggen når lynet atter skal slå.
+
+*Solen skimtes, varmen er nær,*
+*men tordenen venter på våre skjær.*
+
+Kaptein Salveson
+
+---
+
 ## 13. juni 2026, 13:23 | 58.633°N, 9.0554°Ø
 _**Vær**: skyet — **Temp**: 15.1 °C — **Vind**: 3.2 m/s fra NO — **Trykk**: 1003.2 hPa — **Skydekke**: 97.4 %_
 
