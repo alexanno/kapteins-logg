@@ -2,6 +2,18 @@
 
 ---
 
+## 15. juni 2026, 16:54 | 58.6037°N, 9.0235°Ø
+_**Vær**: klar himmel — **Temp**: 18.1 °C — **Vind**: 4.2 m/s fra SSV — **Trykk**: 1006.7 hPa — **Skydekke**: 9.1 %_
+
+15. Juni. Sen ettermiddag. Den tunge luften fra gårsdagen har endelig vike for et strålende opphold, og himmelen er nå nesten fullstendig åpen med et skydekke på kun 9.1 prosent. Barometeret stiger svakt til 1006.7 hPa, og temperaturen holder seg behagelig på 18.1 grader. Vinden biter fra SSV med 4.2 meter per sekund, men med kast opp mot 9.5 som holder skipet livlig i vannet. Styrmannen melder om klar himmel og ingen nedbør for den kommende time, og vi forventer en rolig natt med kun lettskyet vær og temperaturer ned mot 13.4 grader. Mannskapet har endelig lagt fra seg regntøyet og nytter den gode sikten ved 58.6037°N, 9.0235°Ø til å vaske dekket rent for salt og slam etter ukens tordenvær.
+
+*Blått er havet, klar er vind,*
+*freden flyter sakte inn.*
+
+Kaptein Salveson
+
+---
+
 ## 14. juni 2026, 13:26 | 58.6051°N, 9.117°Ø
 _**Vær**: delvis skyet — **Temp**: 21.7 °C — **Vind**: 1.4 m/s fra SV — **Trykk**: 1005.1 hPa — **Skydekke**: 83.8 %_
 
