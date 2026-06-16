@@ -2,6 +2,18 @@
 
 ---
 
+## 16. juni 2026, 16:21 | 58.5957°N, 9.1033°Ø
+_**Vær**: klar himmel — **Temp**: 16.1 °C — **Vind**: 2.1 m/s fra S — **Trykk**: 1009.1 hPa — **Skydekke**: 4.0 %_
+
+16. Juni. Sen ettermiddag. Det strålende oppholdet fra gårsdagen vedvarer, og himmelen står nå nesten helt åpen med et skydekke på kun 4.0 prosent. Barometeret viser 1009.1 hPa, og temperaturen holder seg mild på 16.1 grader, om enn med en klam luftfuktighet på 84.3 prosent. Vinden er nå nesten forstummet til en lett bris fra S med 2.1 meter per sekund, hvilket gir skipet en rolig gang mens vi ligger ved 58.5957°N, 9.1033°Ø. Styrmannen melder om klar himmel for de neste seks timer, og vi forventer en stjerneklart natt med temperaturer ned mot 13.3 grader. Mannskapet, etter en uke preget av tordenvær og regn, nyter nå den dype freden over dekket.
+
+*Himmelen blå, et speil så klart,*
+*Frierholmen hviler, i stille fart.*
+
+Kaptein Salveson
+
+---
+
 ## 15. juni 2026, 16:54 | 58.6037°N, 9.0235°Ø
 _**Vær**: klar himmel — **Temp**: 18.1 °C — **Vind**: 4.2 m/s fra SSV — **Trykk**: 1006.7 hPa — **Skydekke**: 9.1 %_
 
