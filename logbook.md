@@ -2,6 +2,18 @@
 
 ---
 
+## 17. juni 2026, 14:48 | 58.6092°N, 9.03°Ø
+_**Vær**: lett regn — **Temp**: 16.8 °C — **Vind**: 2.8 m/s fra SSV — **Trykk**: 1012.4 hPa — **Skydekke**: 100.0 %_
+
+17. Juni. Tidlig ettermiddag. Den korte sommerfreden vi har hatt de siste dagene er nå over, og himmelen har atter lukket seg helt med et skydekke på 100 prosent. Barometeret stiger noe til 1012.4 hPa, og temperaturen holder seg mild på 16.8 grader, men luften varsler ny uro. Vinden biter fra SSV med 2.8 meter per sekund, om enn med kast opp mot 6.3 som rister i riggen mens vi ligger ved 58.6092°N, 9.03°Ø. Styrmannen melder om lett regn i timen, og vi frykter at det tunge været fra forrige uke igjen skal hjemsøke oss, da det er varslet ytterligere 2.7 millimeter regn i løpet av de neste seks timer. Mannskapet, som nettopp hadde funnet roen, må igjen berede seg på våte vakter og sikre dekket.
+
+*Solen svinner, skyene grå,*
+*regnet kommer for å finne oss nå.*
+
+Kaptein Salveson
+
+---
+
 ## 16. juni 2026, 16:21 | 58.5957°N, 9.1033°Ø
 _**Vær**: klar himmel — **Temp**: 16.1 °C — **Vind**: 2.1 m/s fra S — **Trykk**: 1009.1 hPa — **Skydekke**: 4.0 %_
 
