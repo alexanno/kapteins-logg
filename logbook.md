@@ -2,6 +2,18 @@
 
 ---
 
+## 18. juni 2026, 14:44 | 58.5935°N, 9.0965°Ø
+_**Vær**: lettskyet — **Temp**: 21.7 °C — **Vind**: 8.7 m/s fra SSV — **Trykk**: 1012.1 hPa — **Skydekke**: 33.9 %_
+
+18. Juni. Tidlig ettermiddag. Det tunge regnet fra gårdagen har endelig vike for en uventet varme, og temperaturen har steget til hele 21.7 grader ved vår nåværende posisjon 58.5935°N, 9.0965°Ø. Barometeret holder seg stabilt på 1012.1 hPa, og skydekket har sprukket opp til 33.9 prosent, hvilket gir oss et etterlengtet glimt av solen. Vinden fra SSV har imidlertid tiltatt i styrke; den biter nå med 8.7 meter per sekund og kast opp mot 11.7, noe som setter riggen på en hard prøve og tvinger mannskapet til å stramme alle trosser. Styrmannen melder om lettskyet vær og ingen nedbør for de neste seks timer, og vi forventer en mild natt med temperaturer ned mot 20 grader. Etter dager med fukt og gråvær, nyter mannskapet nå den tørre luften, om enn skipet ligger livlig i vannet.
+
+*Vinden river, seilene slår,*
+*men solen gir varme til slitne kår.*
+
+Kaptein Salveson
+
+---
+
 ## 17. juni 2026, 14:48 | 58.6092°N, 9.03°Ø
 _**Vær**: lett regn — **Temp**: 16.8 °C — **Vind**: 2.8 m/s fra SSV — **Trykk**: 1012.4 hPa — **Skydekke**: 100.0 %_
 
