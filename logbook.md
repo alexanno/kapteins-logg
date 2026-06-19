@@ -2,6 +2,18 @@
 
 ---
 
+## 19. juni 2026, 14:41 | 58.6318°N, 9.1211°Ø
+_**Vær**: delvis skyet — **Temp**: 17.1 °C — **Vind**: 4.4 m/s fra S — **Trykk**: 1015.0 hPa — **Skydekke**: 44.3 %_
+
+19. Juni. Tidlig ettermiddag. Vi har stevnet videre til posisjon 58.6318°N, 9.1211°Ø. Etter gårsdagens urolige vind og sterke kast, har havet nå lagt seg noe, og temperaturen hviler på 17.1 grader. Barometeret stiger til 1015.0 hPa, hvilket tyder på et stabilt høytrykk, om enn luftfuktigheten er klam med 87.8 prosent. Vinden kommer stødig fra S med 4.4 meter per sekund, men med kast opp mot 8.7 som fremdeles holder M/S Frierholmen livlig i vannet. Skydekket dekker nå 44.3 prosent av himmelen, og styrmannen melder at det skal holde seg delvis skyet og tørt de neste seks timer. Mannskapet er lettet over fraværet av regn, og vi forventer en natt uten nedbør, om enn himmelen vil lukke seg mer etter hvert.
+
+*Søndagens vind er mild og klar,*
+*vi seiler trygt mot kystens svar.*
+
+Kaptein Salveson
+
+---
+
 ## 18. juni 2026, 14:44 | 58.5935°N, 9.0965°Ø
 _**Vær**: lettskyet — **Temp**: 21.7 °C — **Vind**: 8.7 m/s fra SSV — **Trykk**: 1012.1 hPa — **Skydekke**: 33.9 %_
 
