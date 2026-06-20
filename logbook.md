@@ -2,6 +2,18 @@
 
 ---
 
+## 20. juni 2026, 13:25 | 58.6226°N, 9.0925°Ø
+_**Vær**: skyet — **Temp**: 20.1 °C — **Vind**: 6.0 m/s fra SSV — **Trykk**: 1013.5 hPa — **Skydekke**: 94.8 %_
+
+20. Juni. Tidlig ettermiddag. Vi har stevnet videre til posisjon 58.6226°N, 9.0925°Ø. Etter gårsdagens mer åpne himmel har et tungt skydekke på 94.8 prosent nå lukket seg over oss, og dagslyset er blitt matt. Barometeret stiger imidlertid til 1013.5 hPa, hvilket lover godt mot regn, om enn luftfuktigheten forblir klam på 87.4 prosent. Vinden biter på ny fra SSV med 6.0 meter per sekund, og med kast opp mot 10.9 holder Frierholmen seg livlig og krever stadig årvåkenhet ved roret. Temperaturen hviler på 20.1 grader, og styrmannen melder at det skal holde seg tørt og delvis skyet de neste seks timer, med temperaturer opp mot 21.5 grader. Mannskapet er takknemlig for tørre klær, tross det grå sløret over havet.
+
+*Skyene vandrer i tunge drag,*
+*men tørt forblir vårt sommerdag.*
+
+Kaptein Salveson
+
+---
+
 ## 19. juni 2026, 14:41 | 58.6318°N, 9.1211°Ø
 _**Vær**: delvis skyet — **Temp**: 17.1 °C — **Vind**: 4.4 m/s fra S — **Trykk**: 1015.0 hPa — **Skydekke**: 44.3 %_
 
