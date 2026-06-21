@@ -2,6 +2,18 @@
 
 ---
 
+## 21. juni 2026, 13:46 | 58.6191°N, 9.118°Ø
+_**Vær**: klar himmel — **Temp**: 24.0 °C — **Vind**: 4.1 m/s fra V — **Trykk**: 1023.8 hPa — **Skydekke**: 5.1 %_
+
+21. Juni. Tidlig ettermiddag. Ved posisjon 58.6191°N, 9.118°Ø har det grå sløret fra gårsdagen endelig revnet. Himlen står nå vidåpen med et skydekke på kun 5.1 prosent, og solen steker med en uvanlig varme av 24.0 grader. Barometeret stiger kraftig til 1023.8 hPa, hvilket varsler et stabilt og tørt vær. Vinden har dreid og biter nå fra V med 4.1 meter per sekund, om enn med kast opp mot 7.3 som holder Frierholmen stødig. Luftfuktigheten har sunket til 40.4 prosent, og det klamme preget er borte. Styrmannen melder klar himmel for de neste seks timer, og vi forventer en mild natt med temperaturer ned mot 20.8 grader. Mannskapet har lagt bort regntøyet for godt og nyter den dype sommerlyset.
+
+*Solen hersker, luften er tørr,*
+*slik har vi ei sett siden vårens dør.*
+
+Kaptein Salveson
+
+---
+
 ## 20. juni 2026, 13:25 | 58.6226°N, 9.0925°Ø
 _**Vær**: skyet — **Temp**: 20.1 °C — **Vind**: 6.0 m/s fra SSV — **Trykk**: 1013.5 hPa — **Skydekke**: 94.8 %_
 
