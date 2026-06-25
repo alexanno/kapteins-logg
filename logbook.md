@@ -2,6 +2,18 @@
 
 ---
 
+## 25. juni 2026, 14:01 | 58.6291°N, 9.0894°Ø
+_**Vær**: lettskyet — **Temp**: 23.8 °C — **Vind**: 3.4 m/s fra S — **Trykk**: 1017.2 hPa — **Skydekke**: 24.6 %_
+
+25. Juni. Tidlig ettermiddag. Vi holder kurs og befinner oss nå ved posisjon 58.6291°N, 9.0894°Ø. Den sommerlige lettheten som preget gårsdagen vedvarer, og himmelen forblir åpen med et skydekke på kun 24.6 prosent. Temperaturen holder seg høy på 23.8 grader, og barometeret har steget noe til 1017.2 hPa, hvilket lover en stødig og tørr seilas. Vinden biter fremdeles fra S med 3.4 meter per sekund, men med kast opp mot 8.6 som gir skipet en livlig gange. Styrmannen melder om lettskyet vær de neste seks timer, og mot natten ventes en helt klar himmel. Mannskapet har i dag brukt tiden på å etterse trossene; humøret er høyt så lenge solen steker og luftfuktigheten holder seg moderat på 55.2 prosent.
+
+*Havet speiler himmelens blå,*
+*mens vi trofast mot målet må gå.*
+
+Kaptein Salveson
+
+---
+
 ## 24. juni 2026, 14:04 | 58.6266°N, 9.081°Ø
 _**Vær**: lettskyet — **Temp**: 23.8 °C — **Vind**: 2.8 m/s fra S — **Trykk**: 1014.0 hPa — **Skydekke**: 19.9 %_
 
