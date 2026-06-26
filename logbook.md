@@ -2,6 +2,18 @@
 
 ---
 
+## 26. juni 2026, 14:00 | 58.6273°N, 9.0418°Ø
+_**Vær**: delvis skyet — **Temp**: 26.1 °C — **Vind**: 3.4 m/s fra SSV — **Trykk**: 1015.4 hPa — **Skydekke**: 84.6 %_
+
+26. Juni. Tidlig ettermiddag. Vi befinner oss nå ved posisjon 58.6273°N, 9.0418°Ø. Den sommerlige varmen har nådd sitt høydepunkt med 26.1 grader, men den klare himmelen fra i går er nå erstattet av et tungt og grått slør; skydekket har steget brått til 84.6 prosent. Barometeret har sunket noe til 1015.4 hPa, og luftfuktigheten hviler på 54.5 prosent. Vinden biter fra SSV med 3.4 meter per sekund, dog med kast opp mot 8.3 som holder Frierholmen i en livlig bevegelse. Styrmannen melder at det vil holde seg delvis skyet de neste seks timene med temperaturer ned mot 20.1 grader, men mot natten stiger faren for regn med en sjanse på 14.7 prosent. Mannskapet har i dag observert en stor stim av makrell i kjølvannet, hvilket har gitt et nødvendig avbrekk fra rutinearbeidet.
+
+*Himmelen lukker sitt gyldne skrin,*
+*mens vi seiler frem med vind lett og fin.*
+
+Kaptein Salveson
+
+---
+
 ## 25. juni 2026, 14:01 | 58.6291°N, 9.0894°Ø
 _**Vær**: lettskyet — **Temp**: 23.8 °C — **Vind**: 3.4 m/s fra S — **Trykk**: 1017.2 hPa — **Skydekke**: 24.6 %_
 
