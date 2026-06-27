@@ -2,6 +2,18 @@
 
 ---
 
+## 27. juni 2026, 13:07 | 58.6009°N, 9.0169°Ø
+_**Vær**: lettskyet — **Temp**: 25.3 °C — **Vind**: 2.0 m/s fra OSO — **Trykk**: 1014.7 hPa — **Skydekke**: 38.4 %_
+
+27. Juni. Tidlig ettermiddag. Vi har nådd posisjon 58.6009°N, 9.0169°Ø. Det tunge grå sløret fra gårsdagen har endelig veket, og skydekket er nå sunket til 38.4 prosent. Varmen vedvarer med en temperatur på 25.3 grader, mens barometeret hviler på 1014.7 hPa. Vinden er blitt mildere og biter nå fra OSO med 2.0 meter per sekund, skjønt kast opp mot 6.4 holder skipet i en rolig vuggen. Styrmannen melder om lettskyet vær den kommende timen, og vi venter at det skal holde seg tørt de neste tolv timer, med temperaturer ned mot 22.0 grader. Luftfuktigheten stiger til 63.9 prosent, hvilket gir en tungt følt varme på dekket. Mannskapet har i dag nyttet den svake vinden til å rydde i lasten, og det hersker en fredelig stemning om bord mens vi glir stødig sørover.
+
+*Vinden stilner, havet blir matt,*
+*vi venter på stjerner og sommernatts skatt.*
+
+Kaptein Salveson
+
+---
+
 ## 26. juni 2026, 14:00 | 58.6273°N, 9.0418°Ø
 _**Vær**: delvis skyet — **Temp**: 26.1 °C — **Vind**: 3.4 m/s fra SSV — **Trykk**: 1015.4 hPa — **Skydekke**: 84.6 %_
 
