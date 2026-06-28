@@ -2,6 +2,18 @@
 
 ---
 
+## 28. juni 2026, 13:13 | 58.6324°N, 9.0565°Ø
+_**Vær**: lettskyet — **Temp**: 26.5 °C — **Vind**: 3.7 m/s fra S — **Trykk**: 1013.4 hPa — **Skydekke**: 36.7 %_
+
+28. Juni. Tidlig ettermiddag. Vi befinner oss nå ved posisjon 58.6324°N, 9.0565°Ø. Varmen har igjen steget og nådd 26.5 grader, mens barometeret har sunket noe til 1013.4 hPa. Himmelen er nåledes åpen med et skydekke på 36.7 prosent, og luftfuktigheten hviler på 57.9 prosent. Vinden biter fra S med 3.7 meter per sekund, men med kraftige kast opp mot 9.5 som gir Frierholmen en livlig gang i sjøen. Styrmannen melder at det vil holde seg lettskyet og tørt de neste tolv timer, med temperaturer som skal falle til mellom 22.4 og 25.5 grader. Etter gårsdagens ryddearbeid i lasten har mannskapet i dag observert flere fugler som sirkler over oss, og det hersker en rolig forventning om bord mens vi holder stø kurs.
+
+*Vinden leker i mastens topp,*
+*mens sommeren driver vår ferd i hopp.*
+
+Kaptein Salveson
+
+---
+
 ## 27. juni 2026, 13:07 | 58.6009°N, 9.0169°Ø
 _**Vær**: lettskyet — **Temp**: 25.3 °C — **Vind**: 2.0 m/s fra OSO — **Trykk**: 1014.7 hPa — **Skydekke**: 38.4 %_
 
