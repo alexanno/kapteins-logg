@@ -2,6 +2,18 @@
 
 ---
 
+## 29. juni 2026, 15:28 | 58.6155°N, 9.1203°Ø
+_**Vær**: klar himmel — **Temp**: 24.4 °C — **Vind**: 6.1 m/s fra VSV — **Trykk**: 1017.1 hPa — **Skydekke**: 7.5 %_
+
+29. Juni. Sen ettermiddag. Vi befinner oss nå ved posisjon 58.6155°N, 9.1203°Ø. Himmelen har åpnet seg fullstendig, og skydekket er nå sunket til kun 7.5 prosent, hvilket gir oss et utsyn så klart som krystall. Temperaturen hviler på 24.4 grader, og barometeret har steget til 1017.1 hPa. Vinden har imidlertid tatt seg til, og biter nå fra VSV med 6.1 meter per sekund, med kraftige kast opp mot 11.0 som tvinger oss til å stramme opp riggen. Styrmannen melder om klar himmel den kommende timen, og det ventes lettskyet vær de neste tolv timer med temperaturer ned mot 19.0 grader. Mannskapet er i godt humør grunnet den lave luftfuktigheten på 41.1 prosent, og vi holder stø kurs mens Frierholmen skjærer livlig gjennom bølgene.
+
+*Vinden rykker i seilets hud,*
+*mens havet synger sitt stormfulle bud.*
+
+Kaptein Salveson
+
+---
+
 ## 28. juni 2026, 13:13 | 58.6324°N, 9.0565°Ø
 _**Vær**: lettskyet — **Temp**: 26.5 °C — **Vind**: 3.7 m/s fra S — **Trykk**: 1013.4 hPa — **Skydekke**: 36.7 %_
 
