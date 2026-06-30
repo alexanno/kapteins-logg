@@ -2,6 +2,18 @@
 
 ---
 
+## 30. juni 2026, 13:53 | 58.608°N, 9.0634°Ø
+_**Vær**: skyet — **Temp**: 19.2 °C — **Vind**: 5.0 m/s fra SSV — **Trykk**: 1020.7 hPa — **Skydekke**: 99.2 %_
+
+30. Juni. Tidlig ettermiddag. Vi har nådd posisjon 58.608°N, 9.0634°Ø. Det klare krystallsynet fra gårdsdagen er nå fullstendig forsvunnet, da himmelen er dekket av et tungt og ugjennomtrengelig slør med et skydekke på hele 99.2 prosent. Barometeret har steget betraktelig til 1020.7 hPa, men temperaturen har falt til 19.2 grader, og luften føles nå tyngre med en fuktighet på 67.5 prosent. Vinden biter fra SSV med 5.0 meter per sekund, dog med kast opp mot 10.3 som krever vår fulle oppmerksomhet ved roret. Styrmannen melder om fortsatte skyer den kommende timen, men at det vil letne til delvis skyet i løpet av de neste seks timer, med temperaturer ned mot 18.4 grader. Mannskapet har i dag trukket seg tilbake under dekksplankene for å slippe unna det grå mørket, og vi holder stø kurs i håp om at solen snart igjen skal bryte gjennom.
+
+*Solen skjules bak skyenes slør,*
+*mens Frierholmen kjemper som den alltid gjør.*
+
+Kaptein Salveson
+
+---
+
 ## 29. juni 2026, 15:28 | 58.6155°N, 9.1203°Ø
 _**Vær**: klar himmel — **Temp**: 24.4 °C — **Vind**: 6.1 m/s fra VSV — **Trykk**: 1017.1 hPa — **Skydekke**: 7.5 %_
 
