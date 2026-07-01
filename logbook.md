@@ -2,6 +2,18 @@
 
 ---
 
+## 1. juli 2026, 14:05 | 58.6048°N, 9.0411°Ø
+_**Vær**: klar himmel — **Temp**: 23.0 °C — **Vind**: 3.1 m/s fra S — **Trykk**: 1017.1 hPa — **Skydekke**: 3.7 %_
+
+1. Juli. Tidlig ettermiddag. Vi har nådd posisjon 58.6048°N, 9.0411°Ø. Det tunge sløret fra gårdsdagen har endelig veket plassen for en strålende sol, og skydekket er sunket til kun 3.7 prosent, hvilket gir oss et utsyn så klart at man kan se hver minste krusning på vannet. Temperaturen hviler på 23.0 grader, og barometeret stiger til 1017.1 hPa. Vinden biter mildt fra S med 3.1 meter per sekund, dog med kast opp mot 6.9 som holder Frierholmen i en rolig vuggen. Styrmannen melder om klar himmel den kommende timen, men varsler at det vil bli delvis skyet i løpet av de neste tolv timer, med temperaturer som kan falle helt ned til 17.1 grader. Mannskapet har i dag kommet ut fra sine skjulesteder under dekksplankene og nyter den lave fuktigheten på 56.2 prosent.
+
+*Solens gull over dypblått vann,*
+*fører oss trygt mot ukjent land.*
+
+Kaptein Salveson
+
+---
+
 ## 30. juni 2026, 13:53 | 58.608°N, 9.0634°Ø
 _**Vær**: skyet — **Temp**: 19.2 °C — **Vind**: 5.0 m/s fra SSV — **Trykk**: 1020.7 hPa — **Skydekke**: 99.2 %_
 
