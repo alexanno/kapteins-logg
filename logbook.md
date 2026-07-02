@@ -2,6 +2,18 @@
 
 ---
 
+## 2. juli 2026, 13:27 | 58.5907°N, 9.1488°Ø
+_**Vær**: skyet — **Temp**: 16.5 °C — **Vind**: 9.8 m/s fra SSV — **Trykk**: 1001.6 hPa — **Skydekke**: 94.3 %_
+
+2. Juli. Tidlig ettermiddag. Vi har nådd posisjon 58.5907°N, 9.1488°Ø. Den strålende solen fra gårdsdagen er nå fullstendig fordrevet av et tungt, grått skydekke på 94.3 prosent. Barometeret har falt drastisk til 1001.6 hPa, og temperaturen har sunket til 16.5 grader, mens en trykkende fuktighet på 86.6 prosent legger seg over dekket. Vinden har tatt seg kraftig til fra SSV med 9.8 meter per sekund, og med kast opp mot 15.1 tvinges vi til å reve seilene for å holde Frierholmen i kontroll. Styrmannen varsler regn i løpet av de neste seks timer, og det ventes vedvarende lett nedbør det neste døgnet. Mannskapet, som i går nøt varmen, har nå søkt ly under dekksplankene igjen mens skipet kjemper mot den økende sjøen.
+
+*Himmelen gråner, vinden slår,*
+*mot regnvåte planker vår ferd nå går.*
+
+Kaptein Salveson
+
+---
+
 ## 1. juli 2026, 14:05 | 58.6048°N, 9.0411°Ø
 _**Vær**: klar himmel — **Temp**: 23.0 °C — **Vind**: 3.1 m/s fra S — **Trykk**: 1017.1 hPa — **Skydekke**: 3.7 %_
 
