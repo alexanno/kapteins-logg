@@ -2,6 +2,18 @@
 
 ---
 
+## 3. juli 2026, 13:39 | 58.615°N, 9.1177°Ø
+_**Vær**: delvis skyet — **Temp**: 23.1 °C — **Vind**: 3.7 m/s fra NNV — **Trykk**: 1010.6 hPa — **Skydekke**: 68.8 %_
+
+3. Juli. Tidlig ettermiddag. Vi befinner oss ved posisjon 58.615°N, 9.1177°Ø. Det tunge regnværet fra gårdsdagen har endelig veket plassen, og barometeret stiger nå mot 1010.6 hPa. Temperaturen har steget til behagelige 23.1 grader, og luftfuktigheten har sunket til 49.7 prosent, hvilket har brakt mannskapet ut fra sine skjulesteder under dekksplankene igjen. Vinden har skiftet og biter nå fra NNV med 3.7 meter per sekund, dog med kast opp mot 8.3 som holder skipet i en stødig vuggen. Himmelen er fremdeles preget av et skydekke på 68.8 prosent, men styrmannen varsler at dette skal letne til klar himmel i løpet av de neste seks timer, med temperaturer ned mot 19.7 grader. Vi nyter stillheten før kvelden faller på.
+
+*Skyene viker, lyset får rå,
+*over det dype, blågrønne blå.*
+
+Kaptein Salveson
+
+---
+
 ## 2. juli 2026, 13:27 | 58.5907°N, 9.1488°Ø
 _**Vær**: skyet — **Temp**: 16.5 °C — **Vind**: 9.8 m/s fra SSV — **Trykk**: 1001.6 hPa — **Skydekke**: 94.3 %_
 
