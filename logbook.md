@@ -2,6 +2,18 @@
 
 ---
 
+## 4. juli 2026, 12:57 | 58.5964°N, 9.1148°Ø
+_**Vær**: delvis skyet — **Temp**: 18.7 °C — **Vind**: 7.0 m/s fra SSV — **Trykk**: 1013.4 hPa — **Skydekke**: 82.3 %_
+
+4. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.5964°N, 9.1148°Ø. Det stille været fra gårsdagen er nå forbi; barometeret hviler på 1013.4 hPa, men luften føles tyngre med en fuktighet på 74.5 prosent. Vinden har tatt seg opp og biter nå fra SSV med 7.0 meter per sekund, med kast opp mot 9.1 som tvinger mannskapet til å være på vakt ved riggen. Temperaturen har sunket til 18.7 grader, og et grått skydekke på 82.3 prosent har igjen lagt seg over oss, dog uten tåke. Styrmannen melder at det skal letne til delvis skyet de neste tolv timer, med temperaturer mellom 18.5 og 20.0 grader. En ung matros påstod i formiddag å ha sett en flokk med nise leke i kjølvannet, hvilket bragte et smil om munnen på selv de mest tause om bord.
+
+*Sjøen stiger, vinden drar,*
+*mens Frierholmen trofast svar.*
+
+Kaptein Salveson
+
+---
+
 ## 3. juli 2026, 13:39 | 58.615°N, 9.1177°Ø
 _**Vær**: delvis skyet — **Temp**: 23.1 °C — **Vind**: 3.7 m/s fra NNV — **Trykk**: 1010.6 hPa — **Skydekke**: 68.8 %_
 
