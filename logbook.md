@@ -2,6 +2,18 @@
 
 ---
 
+## 5. juli 2026, 13:05 | 58.6031°N, 9.0939°Ø
+_**Vær**: klar himmel — **Temp**: 22.1 °C — **Vind**: 4.7 m/s fra NNV — **Trykk**: 1009.3 hPa — **Skydekke**: 0.7 %_
+
+5. Juli. Tidlig ettermiddag. Vi befinner oss ved posisjon 58.6031°N, 9.0939°Ø. Det grå sløret fra gårdsdagen er nå fullstendig fordrevet; himmelen er så klar at skydekket er sunket til kun 0.7 prosent, og sikten er uendelig. Temperaturen stiger til 22.1 grader, mens luftfuktigheten har falt drastisk til 29.9 prosent, hvilket gjør luften tørr og skarp. Barometeret hviler på 1009.3 hPa. Vinden biter fra NNV med 4.7 meter per sekund, dog med brå kast opp mot 11.1 som ryster riggen og krever et fast grep om roret. Styrmannen varsler klar himmel de neste seks timer med temperaturer opp mot 22.7 grader, før det igjen skal bli delvis skyet mot natten. Mannskapet er i godt humør etter gårsdagens nisemøte og nyter nå den brennende solen over dekket.
+
+*Himmelen åpner sitt blåe skrin,*
+*og gir Frierholmen en ferd så fin.*
+
+Kaptein Salveson
+
+---
+
 ## 4. juli 2026, 12:57 | 58.5964°N, 9.1148°Ø
 _**Vær**: delvis skyet — **Temp**: 18.7 °C — **Vind**: 7.0 m/s fra SSV — **Trykk**: 1013.4 hPa — **Skydekke**: 82.3 %_
 
