@@ -2,6 +2,18 @@
 
 ---
 
+## 6. juli 2026, 14:56 | 58.6031°N, 9.1387°Ø
+_**Vær**: delvis skyet — **Temp**: 16.2 °C — **Vind**: 9.9 m/s fra SSV — **Trykk**: 1004.2 hPa — **Skydekke**: 49.8 %_
+
+6. Juli. Tidlig ettermiddag. Vi befinner oss ved posisjon 58.6031°N, 9.1387°Ø. Den klare himmelen fra gårdsdagen er nå forsvunnet, og et skydekke på 49.8 prosent har igjen lagt seg over oss. Barometeret har falt til 1004.2 hPa, og temperaturen har sunket til kjølige 16.2 grader, hvilket bringer tankene tilbake til det urolige været den 2. juli. Vinden biter nå friskt fra SSV med 9.9 meter per sekund, og med kast opp mot 12.7 som ryster riggen og krever mannskapets fulle oppmerksomhet ved seilene. Styrmannen varsler at det skal forbli delvis skyet de neste tolv timer, med temperaturer mellom 16.6 og 18.0 grader, men uten varsel om regn. Mannskapet har i dag arbeidet hardt med å sikre lasten mens skipet kjemper mot den økende sjøen.
+
+*Vinden vender, skyene drar,*
+*Frierholmen vugger, mens vi trofast står var.*
+
+Kaptein Salveson
+
+---
+
 ## 5. juli 2026, 13:05 | 58.6031°N, 9.0939°Ø
 _**Vær**: klar himmel — **Temp**: 22.1 °C — **Vind**: 4.7 m/s fra NNV — **Trykk**: 1009.3 hPa — **Skydekke**: 0.7 %_
 
