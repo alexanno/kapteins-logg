@@ -2,6 +2,18 @@
 
 ---
 
+## 8. juli 2026, 13:28 | 58.6124°N, 9.0803°Ø
+_**Vær**: delvis skyet — **Temp**: 22.3 °C — **Vind**: 5.7 m/s fra SSV — **Trykk**: 1009.4 hPa — **Skydekke**: 40.1 %_
+
+8. Juli. Tidlig ettermiddag. Vi befinner oss ved posisjon 58.6124°N, 9.0803°Ø. Vinden har igjen vendt og biter nå fra SSV med 5.7 meter per sekund, dog med kast opp mot 10.3 som setter riggen i bevegelse. Barometeret har steget noe til 1009.4 hPa, og temperaturen hviler på behagelige 22.3 grader med en fuktighet på 55.6 prosent. Himmelen er preget av et skydekke på 40.1 prosent, men styrmannen varsler at dette skal letne til klar himmel i løpet av de neste seks timene, med temperaturer som kan stige helt opp til 24.2 grader. Mannskapet har i dag nyttet den milde brisen til å etterse tauverket etter forrige ukes uroligheter. Sjøen er rolig, og vi holder en stødig kurs mens vi venter på den lovede klare natten.
+
+*Solen stiger, vinden vender,*
+*Frierholmen seiler mot ukjente krender.*
+
+Kaptein Salveson
+
+---
+
 ## 7. juli 2026, 14:04 | 58.5944°N, 9.0554°Ø
 _**Vær**: delvis skyet — **Temp**: 21.0 °C — **Vind**: 5.0 m/s fra NNV — **Trykk**: 998.7 hPa — **Skydekke**: 39.6 %_
 
