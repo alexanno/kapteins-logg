@@ -2,6 +2,18 @@
 
 ---
 
+## 10. juli 2026, 13:55 | 58.6213°N, 9.0816°Ø
+_**Vær**: klar himmel — **Temp**: 25.3 °C — **Vind**: 2.7 m/s fra S — **Trykk**: 1018.9 hPa — **Skydekke**: 0.0 %_
+
+10. Juli. Tidlig ettermiddag. Vi befinner oss ved posisjon 58.6213°N, 9.0816°Ø. Stillheten fra gårdsdagen har vedvart, og solen steker nå nådeløst over dekket med en temperatur som har steget til 25.3 grader. Barometeret viser en ytterligere stigning til 1018.9 hPa, og himmelen er totalt renset for skyer, således at skydekket hviler på null prosent. Vinden er knapt merkbar, en mild bris fra S med 2.7 meter per sekund, dog med små kast opp mot 5.9 som knapt rører seilene. Styrmannen melder at denne klare tilstanden vil vedvare de neste tolv timer, med temperaturer som holder seg mellom 23.0 og 25.1 grader. Mannskapet nyter varmen, og kokken har i dag servert ekstra rasjoner av ferskt vann for å døyve tørsten i den sterke solen.
+
+*Himmelen brenner, havet er stilt,*
+*Sjømannens hjerte slår rolig og mildt.*
+
+Kaptein Salveson
+
+---
+
 ## 9. juli 2026, 14:28 | 58.5906°N, 9.0708°Ø
 _**Vær**: klar himmel — **Temp**: 21.2 °C — **Vind**: 4.0 m/s fra S — **Trykk**: 1015.1 hPa — **Skydekke**: 0.0 %_
 
