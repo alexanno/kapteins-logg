@@ -2,6 +2,18 @@
 
 ---
 
+## 11. juli 2026, 12:52 | 58.6049°N, 9.1377°Ø
+_**Vær**: delvis skyet — **Temp**: 21.1 °C — **Vind**: 3.5 m/s fra S — **Trykk**: 1021.0 hPa — **Skydekke**: 71.4 %_
+
+11. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6049°N, 9.1377°Ø. Den nådeløse solen fra i går er nå skjult bak et tungt skydekke på 71.4 prosent, og luften er blitt tung og fuktig med en fuktighet på hele 94.1 prosent. Barometeret fortsetter sin stigning til 1021.0 hPa. Vinden er fremdeles mild fra S med 3.5 meter per sekund, dog med små kast opp mot 4.7 som knapt gir oss fremdrift. Styrmannen varsler at himmelen vil forbli skyet de neste tolv timer, og med en økende sjanse for nedbør på 24.3 prosent, har jeg beordret mannskapet til åtvarre for regn. Temperaturen holder seg stabil rundt 21.1 grader, men den kvelende fuktigheten gjør arbeidet på dekket besværlig.
+
+*Skyene lukker seg, solen må vike,*
+*havet og himmelen i gråtoner like.*
+
+Kaptein Salveson
+
+---
+
 ## 10. juli 2026, 13:55 | 58.6213°N, 9.0816°Ø
 _**Vær**: klar himmel — **Temp**: 25.3 °C — **Vind**: 2.7 m/s fra S — **Trykk**: 1018.9 hPa — **Skydekke**: 0.0 %_
 
