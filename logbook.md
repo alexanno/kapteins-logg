@@ -2,6 +2,18 @@
 
 ---
 
+## 12. juli 2026, 12:53 | 58.6159°N, 9.0738°Ø
+_**Vær**: klar himmel — **Temp**: 22.8 °C — **Vind**: 4.1 m/s fra O — **Trykk**: 1025.2 hPa — **Skydekke**: 10.8 %_
+
+12. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6159°N, 9.0738°Ø. Det tunge skydekket fra gårsdagen har endelig brutt opp og etterlatt oss med kun 10.8 prosent skyer; solen har gjenvunnet sitt herredømme over dekket. Barometeret viser en ytterligere stigning til 1025.2 hPa, hvilket varsler et stabilt høytrykk. Vinden har dreid og biter nå fra Ø med 4.1 meter per sekund, dog med brå kast opp mot 10.0 som gir oss en etterlengtet fremdrift. Temperaturen hviler på behagelige 22.8 grader, og fuktigheten har sunket til 64.7 prosent, noe som letter arbeidet for mannskapet betraktelig. Styrmannen melder om klar himmel den nærmeste timen og lettskyet vær de neste tolv, uten tegn til nedbør. Vi holder stø kurs og nyter den klare sikten over havet.
+
+*Solen bryter gjennom grådisens slør,*
+*vinden fyller seilene som aldri før.*
+
+Kaptein Salveson
+
+---
+
 ## 11. juli 2026, 12:52 | 58.6049°N, 9.1377°Ø
 _**Vær**: delvis skyet — **Temp**: 21.1 °C — **Vind**: 3.5 m/s fra S — **Trykk**: 1021.0 hPa — **Skydekke**: 71.4 %_
 
