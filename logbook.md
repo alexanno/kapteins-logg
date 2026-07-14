@@ -2,6 +2,18 @@
 
 ---
 
+## 14. juli 2026, 13:04 | 58.5991°N, 9.1024°Ø
+_**Vær**: delvis skyet — **Temp**: 22.3 °C — **Vind**: 3.1 m/s fra S — **Trykk**: 1024.1 hPa — **Skydekke**: 42.2 %_
+
+14. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.5991°N, 9.1024°Ø. Det stabile høytrykket fra i går har sunket noe, og barometeret viser nå 1024.1 hPa. Himmelen er ikke lenger så ren som styrmannen lovet; et skydekke på 42.2 prosent har lagt seg over oss, dog uten tegn til regn. Vinden biter igjen fra S med 3.1 meter per sekund, og med kast opp mot 4.1 har vi fått en noe bedre fremdrift enn i går, om enn beskjeden. Temperaturen hviler på 22.3 grader, men fuktigheten er steget til 78.6 prosent, hvilket gjør luften tung for mannskapet. Styrmannen varsler klar himmel for de neste tolv timer, og temperaturen vil holde seg stabil mellom 21.6 og 22.7 grader. Jeg har observert en stor mengde drivtang langs styrbord side, og mannskapet har i dag brukt tiden på å etterse riggen etter ukens stille.
+
+*Hvite skyer driver som ull over blått,*
+*vinden våkner forsiktig, vi har seilt godt.*
+
+Kaptein Salveson
+
+---
+
 ## 13. juli 2026, 14:02 | 58.5989°N, 9.0865°Ø
 _**Vær**: lettskyet — **Temp**: 22.7 °C — **Vind**: 1.7 m/s fra S — **Trykk**: 1026.1 hPa — **Skydekke**: 17.4 %_
 
