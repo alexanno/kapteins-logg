@@ -2,6 +2,18 @@
 
 ---
 
+## 16. juli 2026, 13:17 | 58.6158°N, 9.0758°Ø
+_**Vær**: delvis skyet — **Temp**: 27.3 °C — **Vind**: 1.6 m/s fra SSO — **Trykk**: 1021.1 hPa — **Skydekke**: 43.9 %_
+
+16. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6158°N, 9.0758°Ø. Den intense heten fra gårsdagen har noe avtatt, dog holder temperaturen seg høy på 27.3 grader. Barometeret har sunket til 1021.1 hPa, og luften føles lettere med en fuktighet på 62.2 prosent. Vinden er nå svært beskjeden fra SSO med kun 1.6 meter per sekund, og selv med kast opp mot 3.5 m/s glir Frierholmen frem med stor tregehet. Himmelen er delvis skyet med et dekke på 43.9 prosent, og styrmannen varsler tørre forhold og stabilt vær for de neste tolv timer. Mannskapet, som fortsatt er preget av dagens varme, har i dag beskjeget seg med lett arbeid på dekket mens vi driver sakte frem.
+
+*Vinden hvisker svakt, seilene står stille,*
+*vi venter på pusten, en bris så lille.*
+
+Kaptein Salveson
+
+---
+
 ## 15. juli 2026, 13:08 | 58.6185°N, 9.0369°Ø
 _**Vær**: delvis skyet — **Temp**: 28.5 °C — **Vind**: 1.8 m/s fra SSO — **Trykk**: 1025.2 hPa — **Skydekke**: 64.1 %_
 
