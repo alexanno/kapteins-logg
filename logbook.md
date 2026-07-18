@@ -2,6 +2,18 @@
 
 ---
 
+## 18. juli 2026, 12:48 | 58.6314°N, 9.151°Ø
+_**Vær**: skyet — **Temp**: 17.0 °C — **Vind**: 7.0 m/s fra NNO — **Trykk**: 1006.7 hPa — **Skydekke**: 94.3 %_
+
+18. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6314°N, 9.151°Ø. Det svale været fra i går har nå vendt til en urolig dag; barometeret har falt drastisk til 1006.7 hPa, og himmelen er nesten helt lukket med et skydekke på 94.3 prosent. Temperaturen har sunket til 17.0 grader, og vinden har skiftet brått til NNO, nå med en styrke på 7.0 meter per sekund og kast opp mot 12.1, hvilket tvinger oss til å reve seilene for å holde Frierholmen stødig i sjøen. Styrmannen varsler at det vil forbli skyet, men med stor sannsynlighet for lett regn i løpet av de neste tolv timer. Mannskapet har i dag arbeidet iherdig med å sikre lasten før uværet setter inn for alvor.
+
+*Skyene samler seg, mørke og tette,*
+*nordavinden pisker, vi må seilene lette.*
+
+Kaptein Salveson
+
+---
+
 ## 17. juli 2026, 13:02 | 58.607°N, 9.1318°Ø
 _**Vær**: lettskyet — **Temp**: 22.1 °C — **Vind**: 4.2 m/s fra S — **Trykk**: 1010.8 hPa — **Skydekke**: 20.5 %_
 
