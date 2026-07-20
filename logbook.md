@@ -2,6 +2,18 @@
 
 ---
 
+## 20. juli 2026, 13:46 | 58.6332°N, 9.0651°Ø
+_**Vær**: lettskyet — **Temp**: 21.8 °C — **Vind**: 2.5 m/s fra SSO — **Trykk**: 1021.0 hPa — **Skydekke**: 12.3 %_
+
+20. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6332°N, 9.0651°Ø. Etter flere dager med urolig nordavind og tunge skyer, har himmelen endelig åpnet seg og viser seg nå nesten helt klar med kun 12.3 prosent skydekke. Temperaturen er behagelig 21.8 grader, og barometeret har stabilisert seg på 1021.0 hPa. Vinden har igjen vendt til SSO med en styrke på 2.5 meter per sekund, dog med enkelte kast opp mot 7.6 som gir skipet en jevnere gang enn under den forrige hetebølgen. Styrmannen varsler klar himmel og tørre forhold for de neste tolv timer, og luften er nå påfallende tørr med en fuktighet på 40.8 prosent. Mannskapet har i dag brukt formiddagen på å tørke dekket og etterse riggen etter forrige ukes revinger.
+
+*Blå himmel hvelver seg, solen gir glød,*
+*frierholmen seiler, fra stormens nød.*
+
+Kaptein Salveson
+
+---
+
 ## 19. juli 2026, 12:51 | 58.6185°N, 9.1296°Ø
 _**Vær**: skyet — **Temp**: 15.5 °C — **Vind**: 6.3 m/s fra N — **Trykk**: 1016.8 hPa — **Skydekke**: 99.5 %_
 
