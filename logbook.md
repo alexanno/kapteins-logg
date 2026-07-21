@@ -2,6 +2,18 @@
 
 ---
 
+## 21. juli 2026, 13:14 | 58.5924°N, 9.0152°Ø
+_**Vær**: delvis skyet — **Temp**: 23.6 °C — **Vind**: 6.3 m/s fra SSV — **Trykk**: 1015.7 hPa — **Skydekke**: 70.0 %_
+
+21. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.5924°N, 9.0152°Ø. Etter gårsdagens klare himmel har skydekket nå trukket sammen til 70 prosent, og barometeret har falt noe til 1015.7 hPa. Temperaturen er steget til 23.6 grader, og luften føles tørr med en fuktighet på 47.1 prosent. Vinden har skiftet til SSV og frisket betydelig opp til 6.3 meter per sekund, med kraftige kast opp mot 13.2 som gir Frierholmen en kvikk og utfordrende gang. Styrmannen varsler delvis skyet vær og tørre forhold for de neste tolv timer, med temperaturer som kan krype opp mot 25.8 grader. Mannskapet har i dag vært travelt opptatt med å justere kursen for den økende vinden fra sørvest.
+
+*Sørvestvinden river i duken med makt,*
+*Frierholmen holder sin stolte vakt.*
+
+Kaptein Salveson
+
+---
+
 ## 20. juli 2026, 13:46 | 58.6332°N, 9.0651°Ø
 _**Vær**: lettskyet — **Temp**: 21.8 °C — **Vind**: 2.5 m/s fra SSO — **Trykk**: 1021.0 hPa — **Skydekke**: 12.3 %_
 
