@@ -2,6 +2,18 @@
 
 ---
 
+## 22. juli 2026, 13:19 | 58.6242°N, 9.1198°Ø
+_**Vær**: lettskyet — **Temp**: 20.5 °C — **Vind**: 2.5 m/s fra SSO — **Trykk**: 1012.4 hPa — **Skydekke**: 26.1 %_
+
+22. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.6242°N, 9.1198°Ø. Den kvikke sørvestvinden fra i går har nå lagt seg og vendt til en mild SSO med 2.5 meter per sekund, dog med enkelte kast opp mot 5.5. Barometeret stiger sakte til 1012.4 hPa, og temperaturen holder seg behagelig på 20.5 grader. Himmelen er i hovedsak åpen med et skydekke på 26.1 prosent, men styrmannen varsler at det vil trekke sammen til delvis skyet i løpet av de neste tolv timer, med en sjanse for nedbør på opptil 14.5 prosent. Mannskapet har benyttet den rolige gangen til å etterse taugongen, mens jeg selv har observert en flokk med nise som lekte i kjølvannet.
+
+*Havet har stilnet, vinden er mild,*
+*Frierholmen glir som en sølvblank pil.*
+
+Kaptein Salveson
+
+---
+
 ## 21. juli 2026, 13:14 | 58.5924°N, 9.0152°Ø
 _**Vær**: delvis skyet — **Temp**: 23.6 °C — **Vind**: 6.3 m/s fra SSV — **Trykk**: 1015.7 hPa — **Skydekke**: 70.0 %_
 
