@@ -2,6 +2,18 @@
 
 ---
 
+## 23. juli 2026, 13:22 | 58.5954°N, 9.0926°Ø
+_**Vær**: klar himmel — **Temp**: 19.1 °C — **Vind**: 6.8 m/s fra S — **Trykk**: 1014.5 hPa — **Skydekke**: 7.0 %_
+
+23. Juli. Midt på dagen. Vi befinner oss ved posisjon 58.5954°N, 9.0926°Ø. Efter gårsdagens milde bris har vinden nu drejet fuldstændig mod Syd og taget til i styrke til 6.8 meter per sekund, med kast op mod 9.1, hvilket giver Frierholmen en god og fremdriftig gang. Himlen er næsten totalt renset for skyer med et dække på kun 7.0 prosent, og barometeret er steget til 1014.5 hPa. Temperaturen holder sig stabil på 19.1 grader, og luften føles frisk med 63.0 prosent fuktighed. Styrmanden varsler klar himmel den nærmeste time, dog med en let tilvækst af skyer over de næste seks timer, hvor temperaturen forventes at stige mod 20.7 grader. Mannskabet har i dag nyttet den klare sigten til at observere kystlinjen nøje, mens vi holder en stødig kurs.
+
+*Sydavinden fylder seilet med kraft,*
+*Solen gir mannskapet ny energi og saft.*
+
+Kaptein Salveson
+
+---
+
 ## 22. juli 2026, 13:19 | 58.6242°N, 9.1198°Ø
 _**Vær**: lettskyet — **Temp**: 20.5 °C — **Vind**: 2.5 m/s fra SSO — **Trykk**: 1012.4 hPa — **Skydekke**: 26.1 %_
 
