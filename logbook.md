@@ -2,6 +2,18 @@
 
 ---
 
+## 24. juli 2026, 13:15 | 58.611°N, 9.1176°Ø
+_**Vær**: delvis skyet — **Temp**: 22.3 °C — **Vind**: 7.3 m/s fra VSV — **Trykk**: 1007.2 hPa — **Skydekke**: 40.8 %_
+
+24. Juli. Midt på dagen. Vi befinner os ved posisjon 58.611°N, 9.1176°Ø. Efter gårsdagens rene himmel er skydekket nu draget sammen til 40.8 prosent, og barometeret har vist et mærkbart fald til 1007.2 hPa. Vinden har drejet mod VSV og taget til i styrke til 7.3 meter per sekund, med kraftige kast op mod 10.9, hvilket kræver fast hånd på roret for at holde Frierholmen på kurs. Temperaturen holder sig lun på 22.3 grader, og styrmanden varsler fortsat delvis skyet vær uden nedbør de næste tolv timer, omend varmen vil aftage mod 19.3 grader i løbet af natten. Mannskabet er i godt humør trods den tiltagende vind, og vi har i dag observeret flere store havfugle der følger skipets stævn.
+
+*Vind fra vest gir skipet fart,*
+*kursen er stø, og veien er klart.*
+
+Kaptein Salveson
+
+---
+
 ## 23. juli 2026, 13:22 | 58.5954°N, 9.0926°Ø
 _**Vær**: klar himmel — **Temp**: 19.1 °C — **Vind**: 6.8 m/s fra S — **Trykk**: 1014.5 hPa — **Skydekke**: 7.0 %_
 
