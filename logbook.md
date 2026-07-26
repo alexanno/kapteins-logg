@@ -2,6 +2,18 @@
 
 ---
 
+## 26. juli 2026, 12:55 | 58.626°N, 9.0421°Ø
+_**Vær**: delvis skyet — **Temp**: 20.9 °C — **Vind**: 3.4 m/s fra VSV — **Trykk**: 994.7 hPa — **Skydekke**: 40.7 %_
+
+26. Juli. Midt på dagen. Vi befinner os ved posisjon 58.626°N, 9.0421°Ø. Det voldsomme vejr, som varslet i går, har nu lagt sig, omend barometeret fortsat står lavt på 994.7 hPa. Himlen er brudt op og viser nu et skydekke på 40.7 prosent, og temperaturen er steget til 20.9 grader. Vinden er drejet mod VSV og har aftaget til 3.4 meter per sekund, skjønt vi stadig mærker kast op mod 9.8, hvilket giver Frierholmen en roligere gang efter gårsdagens kamp. Styrmanden varsler tørre forhold og delvis skyet vejr for de næste seks timer, hvorefter himlen forventes at klare yderligere op. Mannskapet har i dag brugt formiddagen på at tørre dækket for gårsdagens regn og efterse riggen for skader.
+
+*Stormen er vigen, skyerne flyr,*
+*Frierholmen søger nu nye eventyr.*
+
+Kaptein Salveson
+
+---
+
 ## 25. juli 2026, 12:58 | 58.6125°N, 9.136°Ø
 _**Vær**: skyet — **Temp**: 17.0 °C — **Vind**: 11.7 m/s fra SSV — **Trykk**: 997.0 hPa — **Skydekke**: 100.0 %_
 
