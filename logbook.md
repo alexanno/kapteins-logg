@@ -2,6 +2,18 @@
 
 ---
 
+## 27. juli 2026, 14:08 | 58.6094°N, 9.1078°Ø
+_**Vær**: klar himmel — **Temp**: 20.1 °C — **Vind**: 8.3 m/s fra V — **Trykk**: 1002.4 hPa — **Skydekke**: 10.7 %_
+
+27. Juli. Midt på dagen. Vi befinner os ved posisjon 58.6094°N, 9.1078°Ø. Efter gårsdagens bedring er himmelen nu næsten fuldstændig renset, med et skydekke på blot 10.7 prosent, og barometeret er steget til 1002.4 hPa. Vinden er drejet mod Vest og har taget til i styrke til 8.3 meter per sekund, med hvasse kast op mod 13.1, hvilket giver Frierholmen en livlig gang og kræver stadig agtpågivenhed ved roret. Temperaturen holder sig mild på 20.1 grader, men styrmanden varsler et fald mod 15.7 grader i løbet af natten, omend himmelen forventes at forblive klar og uden nedbør de næste tolv timer. Mannskabet, nu hviler i deres tro på godt vejr, har i dag renset dækket for det sidste snavs efter stormens hærgen.
+
+*Vesten blæser, havet er blåt,*
+*Frierholmen seiler, alt er godt.*
+
+Kaptein Salveson
+
+---
+
 ## 26. juli 2026, 12:55 | 58.626°N, 9.0421°Ø
 _**Vær**: delvis skyet — **Temp**: 20.9 °C — **Vind**: 3.4 m/s fra VSV — **Trykk**: 994.7 hPa — **Skydekke**: 40.7 %_
 
