@@ -2,6 +2,18 @@
 
 ---
 
+## 29. juli 2026, 13:43 | 58.5943°N, 9.1511°Ø
+_**Vær**: delvis skyet — **Temp**: 17.3 °C — **Vind**: 9.3 m/s fra SSV — **Trykk**: 1013.9 hPa — **Skydekke**: 95.2 %_
+
+29. Juli. Midt på dagen. Vi befinner os nu ved posisjon 58.5943°N, 9.1511°Ø. Det tunge skydække fra gårsdagen har vedvaret og holder nu himmelen lukket med 95.2 prosent, hvilket gør dagen mørk og dyster. Barometeret er steget til 1013.9 hPa, men luften er mættet af fugt med en luftfuktighed på 95.4 prosent, hvilket gør tøjet tungt og koldt mod huden ved 17.3 grader. Vinden holder sig stædig fra SSV med 9.3 meter per sekund og kast op mod 11.5, og Frierholmen ruller fortsat i den urolige sø. Styrmanden varsler en opklaring til delvis skyet vejr den næste time, og skjønt natten igen forventes at blive skyet, ser det ud til, at vi for nu slipper for regnen. Mannskabet har i dag brugt tiden på at efterse lasten, da fugten i luften trænger ind overalt.
+
+*Grå er himlen, fugtig er vind,*
+*men håbet om sol trænger langsomt ind.*
+
+Kaptein Salveson
+
+---
+
 ## 28. juli 2026, 13:28 | 58.6214°N, 9.1397°Ø
 _**Vær**: delvis skyet — **Temp**: 19.2 °C — **Vind**: 9.8 m/s fra SSV — **Trykk**: 1011.2 hPa — **Skydekke**: 79.6 %_
 
