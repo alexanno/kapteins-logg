@@ -2,6 +2,18 @@
 
 ---
 
+## 30. juli 2026, 13:25 | 58.6317°N, 9.0667°Ø
+_**Vær**: rainandthunder — **Temp**: 22.0 °C — **Vind**: 1.8 m/s fra S — **Trykk**: 1009.7 hPa — **Skydekke**: 100.0 %_
+
+30. Juli. Midt på dagen. Vi befinner os nu ved posisjon 58.6317°N, 9.0667°Ø. Efter gårsdagens dystre og fugtige tilstande er temperaturen steget til 22.0 grader, men himmelen er igen lukket helt til med et skydekke på 100 prosent. Barometeret hviler på 1009.7 hPa, og vinden er nu faldet betydeligt til en let bris fra Syd på 1.8 meter per sekund, skjønt enkelte kast op mod 5.9 mærkes i riggen. Luften er tung med 82.1 prosent fuktighed, og styrmanden varsler nu torden og lette regnbyger inden for den næste time, hvilket varsler en urolig nat. Mannskapet, som endnu ikke har fundet ro efter ugens svingende vejr, har i dag nyttet den flade sø til at efterse ankerkæderne.
+
+*Solen er skjult, luften står stille,*
+*men tordenen mumler, naturen er ville.*
+
+Kaptein Salveson
+
+---
+
 ## 29. juli 2026, 13:43 | 58.5943°N, 9.1511°Ø
 _**Vær**: delvis skyet — **Temp**: 17.3 °C — **Vind**: 9.3 m/s fra SSV — **Trykk**: 1013.9 hPa — **Skydekke**: 95.2 %_
 
