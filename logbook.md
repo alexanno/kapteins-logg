@@ -2,6 +2,18 @@
 
 ---
 
+## 31. juli 2026, 13:29 | 58.6307°N, 9.0252°Ø
+_**Vær**: klar himmel — **Temp**: 22.4 °C — **Vind**: 3.2 m/s fra VSV — **Trykk**: 1010.8 hPa — **Skydekke**: 8.8 %_
+
+31. Juli. Midt på dagen. Vi befinner os nu ved posisjon 58.6307°N, 9.0252°Ø. Efter gårsdagens tunge torden og regnbyger er himmelen nu brudt op i en herlig klarhed, med et skydekke på blot 8.8 prosent. Barometeret er steget til 1010.8 hPa, og luften føles usædvanlig tør med en fuktighed på 32.5 prosent, hvilket bringer en velkommen lettelse efter ugens fugtighed. Temperaturen holder sig varm ved 22.4 grader, og vinden er drejet mod VSV med 3.2 meter per sekund, skjønt kast op mod 9.7 mærkes endnu i seilene. Styrmanden varsler klar himmel og tørre forhold for de næste tolv timer, og temperaturen forventes at falde til 18.8 grader mod natten. Mannskapet, nu i godt humør over solskinnet, har i dag nyttet det stille vejr til at tørre de sidste fugtige partier af dækket.
+
+*Solen bryder igennem, det blå er nu her,*
+*Frierholmen glider, mens kysten er nær.*
+
+Kaptein Salveson
+
+---
+
 ## 30. juli 2026, 13:25 | 58.6317°N, 9.0667°Ø
 _**Vær**: rainandthunder — **Temp**: 22.0 °C — **Vind**: 1.8 m/s fra S — **Trykk**: 1009.7 hPa — **Skydekke**: 100.0 %_
 
