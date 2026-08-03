@@ -2,6 +2,18 @@
 
 ---
 
+## 3. august 2026, 14:13 | 58.5945°N, 9.0664°Ø
+_**Vær**: delvis skyet — **Temp**: 19.1 °C — **Vind**: 6.9 m/s fra SSV — **Trykk**: 1017.6 hPa — **Skydekke**: 52.9 %_
+
+3. August. Midt på dagen. Vi befinner os nu ved posisjon 58.5945°N, 9.0664°Ø. Efter flere dage med gunstig gang og ro på dækket, er vinden igen drejet mod SSV med en styrke på 6.9 meter per sekund og voldsomme kast op til 12.0, hvilket bringer en vis uro tilbage i riggen. Barometeret er steget yderligere til 1017.6 hPa, og luften føles frisk med en temperatur på 19.1 grader og en fuktighed på 61.8 prosent. Himlen er nu delvis skyet med et dække på 52.9 prosent, og styrmanden varsler fortsat tørvejr og delvis opklaring de næste tolv timer, skjønt temperaturen vil falde mod 17.3 grader i nattens kulde. Mannskabet, som netop havde fundet fred, må atter kæmpe mod de pludselige vindstød for at holde Frierholmen stødig på kurs.
+
+*Vinden vender, kastene slår,*
+*mod nordlig kyst Frierholmen går.*
+
+Kaptein Salveson
+
+---
+
 ## 2. august 2026, 12:55 | 58.6075°N, 9.1222°Ø
 _**Vær**: lettskyet — **Temp**: 20.1 °C — **Vind**: 6.4 m/s fra VSV — **Trykk**: 1014.2 hPa — **Skydekke**: 26.9 %_
 
