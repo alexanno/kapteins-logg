@@ -2,6 +2,18 @@
 
 ---
 
+## 5. august 2026, 13:40 | 58.6064°N, 9.0953°Ø
+_**Vær**: skyet — **Temp**: 17.3 °C — **Vind**: 4.2 m/s fra NO — **Trykk**: 1005.2 hPa — **Skydekke**: 100.0 %_
+
+5. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6064°N, 9.0953°Ø. Som varslet af styrmanden i går, er himmelen forblevet lukket, og vi sejler nu i et totalt skydekke på 100 prosent. Luften er mættet af fugt med en fuktighed på 99.6 prosent, og temperaturen er sunket yderligere til 17.3 grader. Barometeret viser et mærkbart fald til 1005.2 hPa, hvilket bringer en tyngde over søen. Vinden er drejet mod NO med en styrke på 4.2 meter per sekund, skjønt kast op til 6.1 ryster i riggen. En let tåge har lagt sig over vandet, hvilket gør sigten usikker. Mannskapet er nu våde til huden, og vi venter med spænding på at himmelen skal bryde op mod natten, da styrmanden varsler delvis opklaring inden for tolv timer.
+
+*Tågen ruller, luften er tung og grå,*
+*Frierholmen søger det lys, vi må nå.*
+
+Kaptein Salveson
+
+---
+
 ## 4. august 2026, 13:44 | 58.6305°N, 9.0542°Ø
 _**Vær**: skyet — **Temp**: 18.2 °C — **Vind**: 1.8 m/s fra OSO — **Trykk**: 1016.6 hPa — **Skydekke**: 100.0 %_
 
