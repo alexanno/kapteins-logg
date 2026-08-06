@@ -2,6 +2,18 @@
 
 ---
 
+## 6. august 2026, 13:38 | 58.6022°N, 9.0823°Ø
+_**Vær**: delvis skyet — **Temp**: 20.1 °C — **Vind**: 4.9 m/s fra SSV — **Trykk**: 1004.7 hPa — **Skydekke**: 41.1 %_
+
+6. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6022°N, 9.0823°Ø. Efter gårsdagens tunge tåge og lukkede himmel, er skydekket nu brudt op til 41.1 prosent, og solen har atter fundet vej til dækket. Temperaturen er steget mærkbart til 20.1 grader, hvilket bringer en velkommen varme efter de fugtige dage. Vinden er drejet tilbage mod SSV med en styrke på 4.9 meter per sekund, skjønt kast op til 8.7 ryster stadig i riggen. Barometeret viser et fortsat fald til 1004.7 hPa, men styrmanden varsler nu lettskyet vejr og tørre timer de næste tolv timer, med temperaturer som kan stige helt til 22.3 grader. Mannskapet har nu forladt deres våde klæder og arbejder med glade miner under den åbne himmel.
+
+*Tågen viger, solen brænder,*
+*Frierholmen mod nye kyster tender.*
+
+Kaptein Salveson
+
+---
+
 ## 5. august 2026, 13:40 | 58.6064°N, 9.0953°Ø
 _**Vær**: skyet — **Temp**: 17.3 °C — **Vind**: 4.2 m/s fra NO — **Trykk**: 1005.2 hPa — **Skydekke**: 100.0 %_
 
