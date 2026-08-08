@@ -2,6 +2,18 @@
 
 ---
 
+## 8. august 2026, 12:23 | 58.6219°N, 9.0217°Ø
+_**Vær**: delvis skyet — **Temp**: 20.8 °C — **Vind**: 4.3 m/s fra VSV — **Trykk**: 1016.5 hPa — **Skydekke**: 76.2 %_
+
+8. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6219°N, 9.0217°Ø. Efter gårsdagens sølvgrå vand og sydlige vinde, er vinden nu drejet mod VSV med en jævn styrke på 4.3 meter per sekund, skjønt pludselige kast op til 10.8 ryster stadig i masterne. Temperaturen er steget til behagelige 20.8 grader, og luften er nu mærkbart tørre med en fuktighed på blot 49.1 prosent. Barometeret holder sig stabilt ved 1016.5 hPa, mens himmelen er præget af et skydekke på 76.2 prosent. Styrmanden varsler fortsat tørvejr og delvis opklaring de næste tolv timer, med temperaturer som vil ligge mellem 19.4 og 21.2 grader. Mannskapet har benyttet denne roen til at skure dækket, mens vi holder et våkent øje med kystlinjen.
+
+*Vinden vender, skyerne drar,*
+*Frierholmen sejler, mens dagen er klar.*
+
+Kaptein Salveson
+
+---
+
 ## 7. august 2026, 12:37 | 58.5926°N, 9.1325°Ø
 _**Vær**: delvis skyet — **Temp**: 17.8 °C — **Vind**: 5.6 m/s fra S — **Trykk**: 1014.2 hPa — **Skydekke**: 43.5 %_
 
