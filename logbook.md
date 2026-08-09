@@ -2,6 +2,18 @@
 
 ---
 
+## 9. august 2026, 12:26 | 58.6238°N, 9.1417°Ø
+_**Vær**: skyet — **Temp**: 17.8 °C — **Vind**: 8.8 m/s fra SSV — **Trykk**: 1010.8 hPa — **Skydekke**: 94.7 %_
+
+9. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6238°N, 9.1417°Ø. Efter gårsdagens milde sol og tørre luft, er vejret nu skiftet til det værre; himmelen er næsten fuldstændig lukket med et skydekke på 94.7 prosent, og temperaturen er faldet til 17.8 grader. Vinden er tiltaget mærkbart fra SSV med en styrke på 8.8 meter per sekund, og kraftige kast op til 12.5 ryster Frierholmen i hver en tømmerstok, hvilket tvinger mannskabet til at stramme alle liner. Barometeret viser et fald til 1010.8 hPa, og luftfuktigheden er steget til 82.6 prosent. Styrmanden varsler, at det skyede vejr vil vedvare, og han frygter, at lett regn vil ramme os inden for de næste tolv timer. Mannskapet har nu forladt deres skurearbejde for at sikre dækket mod det kommende uvejr.
+
+*Skyerne tårner, vinden slår hårdt,*
+*Frierholmen kæmper, mens vejret bliver sort.*
+
+Kaptein Salveson
+
+---
+
 ## 8. august 2026, 12:23 | 58.6219°N, 9.0217°Ø
 _**Vær**: delvis skyet — **Temp**: 20.8 °C — **Vind**: 4.3 m/s fra VSV — **Trykk**: 1016.5 hPa — **Skydekke**: 76.2 %_
 
