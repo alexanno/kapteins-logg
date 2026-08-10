@@ -2,6 +2,18 @@
 
 ---
 
+## 10. august 2026, 12:41 | 58.6211°N, 9.1245°Ø
+_**Vær**: klar himmel — **Temp**: 19.6 °C — **Vind**: 6.2 m/s fra V — **Trykk**: 1005.3 hPa — **Skydekke**: 13.5 %_
+
+10. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6211°N, 9.1245°Ø. Efter gårsdagens mørke skyer og frygten for uvejr, er himmelen nu brudt op i en forunderlig grad; skydekket er faldet til blot 13.5 prosent, og en strålende klarhed har indfundet sig over dækket. Vinden er drejet præcist mod V med en styrke på 6.2 meter per sekund, skjønt kast op til 10.9 fortsat giver skibet en livlig gang. Temperaturen er steget til 19.6 grader, og luften er nu mærkbart tørre med en fuktighed på 46.4 prosent. Barometeret viser 1005.3 hPa. Styrmanden varsler en fuldstændig klar himmel de næste tolv timer, og mannskabet, som i går var våde til huden, nyder nu solens varme mens de efterser de liner, som uvejret rystede.
+
+*Stormen veg for solens glans,*
+*Frierholmen sejler i sommerens dans.*
+
+Kaptein Salveson
+
+---
+
 ## 9. august 2026, 12:26 | 58.6238°N, 9.1417°Ø
 _**Vær**: skyet — **Temp**: 17.8 °C — **Vind**: 8.8 m/s fra SSV — **Trykk**: 1010.8 hPa — **Skydekke**: 94.7 %_
 
