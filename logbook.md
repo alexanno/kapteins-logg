@@ -2,6 +2,18 @@
 
 ---
 
+## 13. august 2026, 12:42 | 58.5956°N, 9.099°Ø
+_**Vær**: skyet — **Temp**: 18.8 °C — **Vind**: 8.6 m/s fra SSV — **Trykk**: 1025.3 hPa — **Skydekke**: 93.7 %_
+
+13. August. Midt på dagen. Vi befinner os nu ved posisjon 58.5956°N, 9.099°Ø. Efter gårsdagens lune og grå stilhed er vinden nu tiltaget mærkbart og drejet mod SSV, med en styrke på 8.6 meter per sekund og kast op til 11.4, hvilket giver skibet en livlig gang og tvinger os til at stramme agterstævnen. Himlen er igjen tung og lukket med et skydekke på 93.7 prosent, og temperaturen er faldet til 18.8 grader, mens luftfuktigheden er steget til 79.8 prosent. Barometeret viser 1025.3 hPa, hvilket tyder på at vi undgaar det uvejr, som styrmanden frygtede i natten, skjønt det forbliver skyet de næste tolv timer med en svag risiko for regn. Mannskabet, som nu er vant til disse skiftende luner, har travlt med at sikre lasten mod de tiltagende rystelser.
+
+*Vinden pisker, skyerne tætte,*
+*Frierholmen kæmper for at holde sig lette.*
+
+Kaptein Salveson
+
+---
+
 ## 12. august 2026, 12:41 | 58.6086°N, 9.0317°Ø
 _**Vær**: skyet — **Temp**: 21.3 °C — **Vind**: 3.2 m/s fra S — **Trykk**: 1026.6 hPa — **Skydekke**: 88.0 %_
 
