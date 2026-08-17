@@ -2,6 +2,18 @@
 
 ---
 
+## 17. august 2026, 12:20 | 58.5913°N, 9.0801°Ø
+_**Vær**: lettskyet — **Temp**: 18.9 °C — **Vind**: 6.6 m/s fra ONO — **Trykk**: 1008.7 hPa — **Skydekke**: 37.2 %_
+
+17. August. Midt på dagen. Vi befinner os nu ved posisjon 58.5913°N, 9.0801°Ø. Efter gårsdagens friske sydavind er vinden nu drejet mærkbart mod ONO, med en jævn styrke på 6.6 meter per sekund og kast op til 9.9, hvilket giver Frierholmen en stram og hurtig gang gennem vandet. Temperaturen er faldet til 18.9 grader, og luftfuktigheden hviler ved 69.4 prosent. Himlen forbliver lys og åben med et skydekke på blot 37.2 prosent, og styrmanden melder om fortsat lettskyet vejr de næste tolv timer, hvor temperaturen vil svinge mellem 17.6 og 18.9 grader. Barometeret viser 1008.7 hPa, og vi ser ingen tegn til nedbør. Mannskabet, som nu har lagt den kvælende varme bag sig, arbejder flittigt med at justere sejlene efter den nye vindretning, mens vi holder kursen i det klare lys.
+
+*Fra syd til øst er vinden vendt,*
+*Frierholmen seiler, hvor kursen er kendt.*
+
+Kaptein Salveson
+
+---
+
 ## 16. august 2026, 12:16 | 58.6172°N, 9.1243°Ø
 _**Vær**: lettskyet — **Temp**: 20.0 °C — **Vind**: 5.1 m/s fra S — **Trykk**: 1009.2 hPa — **Skydekke**: 29.9 %_
 
