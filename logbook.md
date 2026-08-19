@@ -2,6 +2,18 @@
 
 ---
 
+## 19. august 2026, 12:21 | 58.6046°N, 9.0148°Ø
+_**Vær**: delvis skyet — **Temp**: 20.1 °C — **Vind**: 2.4 m/s fra O — **Trykk**: 998.7 hPa — **Skydekke**: 86.4 %_
+
+19. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6046°N, 9.0148°Ø. Efter gårsdagens tunge gråhed og den slumrende vind, holder vi os fortsat i en doven drift, nu med en svag bris fra præcis Øst med 2.4 meter per sekund, skjønt enkelte kast op til 6.6 ryster let i rigningen. Temperaturen er steget til 20.1 grader, men barometeret er faldet bekymrende til 998.7 hPa, hvilket varsler en forandring i luften. Himlen forbliver lukket med et skydekke på 86.4 prosent, omend styrmanden melder om en gradvis opklaring i løbet af de næste timer, hvor temperaturen vil synke mod 17.1 grader. Mannskabet er nu rastløse efter dagene i stilhed, og kokken beretter om uro blandt matrosene, der frygter det lave tryk. Vi holder vakt med årvågenhed.
+
+*Barometeret synker, himmelen er tung,*
+*havet er gammelt, men vinden er ung.*
+
+Kaptein Salveson
+
+---
+
 ## 18. august 2026, 12:21 | 58.6327°N, 9.048°Ø
 _**Vær**: skyet — **Temp**: 17.8 °C — **Vind**: 2.4 m/s fra OSO — **Trykk**: 1005.6 hPa — **Skydekke**: 92.4 %_
 
