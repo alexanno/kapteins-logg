@@ -2,6 +2,18 @@
 
 ---
 
+## 20. august 2026, 12:24 | 58.6347°N, 9.0163°Ø
+_**Vær**: skyet — **Temp**: 20.5 °C — **Vind**: 2.7 m/s fra SSO — **Trykk**: 1000.5 hPa — **Skydekke**: 89.9 %_
+
+20. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6347°N, 9.0163°Ø. Det lave tryk, som vi frygtede i går, har holdt stand, omend barometeret nu viser en svag stigning til 1000.5 hPa. Vinden er drejet mod SSO med en jævn styrke på 2.7 meter per sekund, men urolige kast op til 7.9 ryster stadig i rigningen og holder mannskabet på tæerne. Temperaturen er steget let til 20.5 grader, men himmelen forbliver tung med et skydekke på 89.9 prosent. Styrmanden melder om en gradvis opklaring i løbet af de næste tolv timer, hvor vi forventes at se stjernerne igen. Matrosene er nu mindre rastløse, da den værste uro i luften synes at have lagt sig, og vi holder en tålmodig kurs gennem det grå vand.
+
+*Skyerne viger, trykket stiger lidt,*
+*Frierholmen seiler sit vante skridt.*
+
+Kaptein Salveson
+
+---
+
 ## 19. august 2026, 12:21 | 58.6046°N, 9.0148°Ø
 _**Vær**: delvis skyet — **Temp**: 20.1 °C — **Vind**: 2.4 m/s fra O — **Trykk**: 998.7 hPa — **Skydekke**: 86.4 %_
 
