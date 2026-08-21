@@ -2,6 +2,18 @@
 
 ---
 
+## 21. august 2026, 12:23 | 58.6272°N, 9.1101°Ø
+_**Vær**: lettskyet — **Temp**: 19.6 °C — **Vind**: 5.3 m/s fra S — **Trykk**: 1002.6 hPa — **Skydekke**: 15.2 %_
+
+21. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6272°N, 9.1101°Ø. Efter dagene med tung gråhed og det lave tryk, som holdt mannskabet i uro, har himmelen nu åbnet sig vidt; skydekket er faldet til blot 15.2 prosent, og sigten er klar som krystal. Vinden er drejet præcis mod S med en jævn styrke på 5.3 meter per sekund, skjønt kast op til 9.2 ryster stadig i rigningen og holder Frierholmen i en stolt gang gennem vandet. Temperaturen hviler ved 19.6 grader, og barometeret viser en let stigning til 1002.6 hPa, hvilket varsler et stabilt vejr. Styrmanden melder om fortsat lettskyet himmel de næste tolv timer, med temperaturer der vil stige mod 20.8 grader. Matrosene har atter fundet deres gode humør, og vi seiler nu med lette seil og trygge hjerter.
+
+*Blå himmel over, sølv vand under,*
+*Frierholmen vandrer i solskinsstunder.*
+
+Kaptein Salveson
+
+---
+
 ## 20. august 2026, 12:24 | 58.6347°N, 9.0163°Ø
 _**Vær**: skyet — **Temp**: 20.5 °C — **Vind**: 2.7 m/s fra SSO — **Trykk**: 1000.5 hPa — **Skydekke**: 89.9 %_
 
