@@ -2,6 +2,18 @@
 
 ---
 
+## 22. august 2026, 12:16 | 58.6102°N, 9.1353°Ø
+_**Vær**: skyet — **Temp**: 18.1 °C — **Vind**: 5.3 m/s fra S — **Trykk**: 1007.4 hPa — **Skydekke**: 100.0 %_
+
+22. August. Midt på dagen. Vi befinner os nu ved posisjon 58.6102°N, 9.1353°Ø. Efter gårsdagens krystallklare himmel er lyset nu forsvundet, thi skydekket er steget til fulde 100 prosent og har lagt et tungt, hvidt lok over havet. Vinden holder sig tro mod S med en styrke på 5.3 meter per sekund, og skjønt kastene kun når 7.2, mærker vi at luften er blevet tungere med en luftfuktighed på 57.2 prosent. Temperaturen er faldet til 18.1 grader, og barometeret viser 1007.4 hPa. Styrmanden melder at det tætte skydekke vil brydes op i løbet af de næste seks timer, og vi venter os en temperatur mellem 17.8 og 18.5 grader, omend der er en lille fare for regn mod natten. Mannskabet er stille, og vi holder et vågent øje med kystlinjen i det dæmpede lys.
+
+*Himmelen lukkes, solen svinder hen,*
+*Frierholmen søger det klare lys igen.*
+
+Kaptein Salveson
+
+---
+
 ## 21. august 2026, 12:23 | 58.6272°N, 9.1101°Ø
 _**Vær**: lettskyet — **Temp**: 19.6 °C — **Vind**: 5.3 m/s fra S — **Trykk**: 1002.6 hPa — **Skydekke**: 15.2 %_
 
