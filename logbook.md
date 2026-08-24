@@ -2,6 +2,18 @@
 
 ---
 
+## 24. august 2026, 12:24 | 58.5925°N, 9.097°Ø
+_**Vær**: lettskyet — **Temp**: 17.7 °C — **Vind**: 3.3 m/s fra OSO — **Trykk**: 1022.5 hPa — **Skydekke**: 30.3 %_
+
+24. August. Midt på dagen. Vi befinner os nu ved posisjon 58.5925°N, 9.097°Ø. Det stabile vejr fortsætter, og barometeret er steget mærkbart til 1022.5 hPa, hvilket giver os den sikreste ro vi har haft siden rejsens begyndelse. Vinden er drejet mod OSO med en jævn styrke på 3.3 meter per sekund, og skibet glider let gennem vandet uden de urolige kast vi mærkede i forrige uge. Temperaturen er faldet til 17.7 grader, men himmelen er nu næsten renset for skyer, med blot 30.3 prosent dekke. Styrmanden lover os en fuldstændig klar himmel de næste tolv timer, og mannskabet er i et ypperligt humør; matrosene har i dag brugt formiddagen på at skure dækket i det milde sollys. Vi seiler nu med en tryghed i sjælen og et klart blik mod horisonten.
+
+*Himmelen åbnes, trykket står fast,*
+*Frierholmen seiler, fri for hver last.*
+
+Kaptein Salveson
+
+---
+
 ## 23. august 2026, 12:17 | 58.6175°N, 9.082°Ø
 _**Vær**: delvis skyet — **Temp**: 20.3 °C — **Vind**: 3.3 m/s fra SO — **Trykk**: 1016.1 hPa — **Skydekke**: 46.6 %_
 
