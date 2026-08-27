@@ -2,6 +2,18 @@
 
 ---
 
+## 27. august 2026, 21:24 | 58.6246°N, 9.0995°Ø
+_**Vær**: delvis skyet — **Temp**: 16.3 °C — **Vind**: 2.6 m/s fra N — **Trykk**: 1020.6 hPa — **Skydekke**: 95.2 %_
+
+27. August. Aftenstide. Vi befinner os nu ved posisjon 58.6246°N, 9.0995°Ø. Det milde sommervejr, som har tjent os så trofast siden den 22. august, synes nu at vige. Barometeret er faldet til 1020.6 hPa, og himmelen er atter lukket af et tungt skydekke på 95.2 prosent, hvilket har kastet et melankolsk mørke over dækket. Temperaturen er sunket til 16.3 grader, og luften føles mættet med en fugtighed på 78.1 prosent. Vinden er drejet mod N med en svag styrke på 2.6 meter per sekund, omend enkelte kast op til 4.8 m/s ryster i riggen. Styrmanden varsler at det vil forblive skyet de næste tolv timer, og han frygter at regnen vil indfinde sig mod natten, thi sandsynligheden er nu steget til 37.2 prosent. Mannskabet er blevet stille, og vi forbereder os på et vejerskifte.
+
+*Solen er skjult, vinden er vendt,*
+*en køligere tid er nu for os kendt.*
+
+Kaptein Salveson
+
+---
+
 ## 26. august 2026, 12:26 | 58.6225°N, 9.0388°Ø
 _**Vær**: lettskyet — **Temp**: 21.3 °C — **Vind**: 3.2 m/s fra O — **Trykk**: 1026.6 hPa — **Skydekke**: 31.3 %_
 
