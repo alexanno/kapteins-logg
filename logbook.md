@@ -2,6 +2,18 @@
 
 ---
 
+## 29. august 2026, 15:54 | 58.5905°N, 9.1227°Ø
+_**Vær**: skyet — **Temp**: 17.1 °C — **Vind**: 9.7 m/s fra SSV — **Trykk**: 999.8 hPa — **Skydekke**: 86.4 %_
+
+29. August. Eftermiddagstide. Vi befinner os nu ved posisjon 58.5905°N, 9.1227°Ø. Den voldsomme regn fra gaarsnatten er nu stilnet, men efterlader os i et tungt og gråt vejr. Barometeret er faldet ynderligere til et bekymrende niveau på 999.8 hPa, og luften forbliver mættet med en fugtighed på 87.8 prosent. Vinden er drejet mod SSV med en jævn styrke på 9.7 meter per sekund, og kraftige kast op til 13.4 m/s river nu i riggen, hvilket tvinger os til at holde et våkent øye med seilene. Skydekket dækker stadig 86.4 prosent af himmelen, og skjønt nedbøren er ophørt for stunden, varsler styrmanden en stigende sandsynlighed for nyt regn mod natten. Mannskabet er udmattet efter nattens kamp mod elementerne, men arbejder flittigt på at tørre dækket.
+
+*Vinden river, skyerne grå,*
+*kun tålmodig venten kan vi nu stå.*
+
+Kaptein Salveson
+
+---
+
 ## 28. august 2026, 21:34 | 58.5941°N, 9.0236°Ø
 _**Vær**: kraftig regn — **Temp**: 16.8 °C — **Vind**: 5.0 m/s fra SSO — **Trykk**: 1003.3 hPa — **Skydekke**: 100.0 %_
 
