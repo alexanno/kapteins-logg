@@ -2,6 +2,18 @@
 
 ---
 
+## 30. august 2026, 15:40 | 58.6277°N, 9.0454°Ø
+_**Vær**: skyet — **Temp**: 18.6 °C — **Vind**: 2.1 m/s fra SSV — **Trykk**: 1000.9 hPa — **Skydekke**: 100.0 %_
+
+30. August. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6277°N, 9.0454°Ø. Efter gaarsdagens kamp mod det tunge og grå vejr, er vinden nu faldet betydeligt til en svag bris fra SSV med blot 2.1 meter per sekund, omend enkelte kast op til 5.9 m/s stadig rører ved riggen. Barometeret er steget en smule til 1000.9 hPa, men himmelen forbliver tung og lukket med et skydekke på 100 prosent, og fugtigheden er stadig høj med 86.7 prosent. Temperaturen hviler ved 18.6 grader. Styrmanden melder nu om et lysere håb; inden for de næste timer forventes skyerne at vige og efterlade os i et lettskyet vejr, hvor temperaturen vil falde mod 15.0 grader i nattestunden. Mannskabet benytter stilheden til at efterse det udstyr, som det voldsomme regn fra den 28. og 29. august har sat på prøve.
+
+*Skyerne viger, vinden dør hen,*
+*måtte den klare himmel nu vende igen.*
+
+Kaptein Salveson
+
+---
+
 ## 29. august 2026, 15:54 | 58.5905°N, 9.1227°Ø
 _**Vær**: skyet — **Temp**: 17.1 °C — **Vind**: 9.7 m/s fra SSV — **Trykk**: 999.8 hPa — **Skydekke**: 86.4 %_
 
