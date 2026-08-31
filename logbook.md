@@ -2,6 +2,18 @@
 
 ---
 
+## 31. august 2026, 18:22 | 58.5898°N, 9.0466°Ø
+_**Vær**: lettskyet — **Temp**: 16.6 °C — **Vind**: 4.7 m/s fra SSV — **Trykk**: 1004.4 hPa — **Skydekke**: 31.9 %_
+
+31. August. Aftenstide. Vi befinner os nu ved posisjon 58.5898°N, 9.0466°Ø. Som styrmanden forventede i gaarsdagens logg, er det tunge gråvejr nu endelig vigen. Himlen har åbnet sig og viser et skydekke på blot 31.9 prosent, og barometeret er steget til 1004.4 hPa. Vinden holder sig fra SSV med en jævn styrke på 4.7 meter per sekund, omend kast op til 9.0 m/s stadig minder os om den seneste tids uroligheder. Temperaturen hviler ved 16.6 grader, men vi venter et fald mod 12.7 grader i løbet af natten. Mannskabet har nu afsluttet udbedringen af det udstyr, som regnen satte på prøve, og der hersker en ny ro over dækket. Forventningen er en klar himmel de næste seks timer, uden tegn til nedbør.
+
+*Blygrå skyer er nu fordrevet,*
+*en stjerneklar nat er for os skrevet.*
+
+Kaptein Salveson
+
+---
+
 ## 30. august 2026, 15:40 | 58.6277°N, 9.0454°Ø
 _**Vær**: skyet — **Temp**: 18.6 °C — **Vind**: 2.1 m/s fra SSV — **Trykk**: 1000.9 hPa — **Skydekke**: 100.0 %_
 
