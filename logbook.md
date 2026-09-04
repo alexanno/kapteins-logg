@@ -2,6 +2,18 @@
 
 ---
 
+## 4. september 2026, 15:22 | 58.6248°N, 9.1266°Ø
+_**Vær**: delvis skyet — **Temp**: 17.6 °C — **Vind**: 5.9 m/s fra SV — **Trykk**: 996.1 hPa — **Skydekke**: 74.7 %_
+
+4. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6248°N, 9.1266°Ø. Den tunge stilstand fra gaarsdagen er nu brudt, og vinden er vendt tilbage fra SV med en styrke på 5.9 meter per sekund, omend voldsomme kast op til 12.0 m/s ryster M/S Frierholmen og tvinger mannskabet til at være vaagsomme ved riggen. Barometeret er faldet mærkbart til 996.1 hPa, og temperaturen hviler ved 17.6 grader. Himlen er fortsat tung med et skydekke på 74.7 prosent, men styrmanden melder om et lysere håb i den kommende time, hvor vejret forventes at blive delvis skyet uden nedbør. Luftfuktigheden er sunket til 65.0 prosent, hvilket giver en friskere følelse på dækket efter gaarsdagens kvælende fugtighed. Vi holder kursen trods vindstødene, og temperaturen forventes at falde mod 13.8 grader i løbet af natten.
+
+*Vinden vågner, skibet ryster i sin gang,*
+*havets stemme lyder nu som en stormsang.*
+
+Kaptein Salveson
+
+---
+
 ## 3. september 2026, 15:25 | 58.6338°N, 9.0766°Ø
 _**Vær**: skyet — **Temp**: 16.4 °C — **Vind**: 0.1 m/s fra SV — **Trykk**: 1004.9 hPa — **Skydekke**: 99.9 %_
 
