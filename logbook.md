@@ -2,6 +2,18 @@
 
 ---
 
+## 5. september 2026, 14:09 | 58.5977°N, 9.1407°Ø
+_**Vær**: delvis skyet — **Temp**: 17.7 °C — **Vind**: 4.3 m/s fra N — **Trykk**: 1003.7 hPa — **Skydekke**: 71.9 %_
+
+5. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.5977°N, 9.1407°Ø. Den uro og de voldsomme kast fra gaarsdagen er nu faldet til ro, og vinden er drejet mod N med en jævn styrke på 4.3 meter per sekund, omend enkelte kast op til 6.3 m/s stadig mærkes i riggen. Barometeret viser 1003.7 hPa, og temperaturen hviler ved 17.7 grader. Himlen er fortsat præget af skyer med et dække på 71.9 prosent, men styrmanden melder om en lysere vending; inden for de næste seks timer forventes det at blive lettskyet, og mod natten vil himmelen være helt klar. Mannskabet nyder den tørre luft med en fugtighed på 60.5 prosent, og vi sejler nu i et roligt vand uden tåge.
+
+*Nordenblæsten bringer nu fred til vor gang,*
+*mens natten lover stjernernes klare sang.*
+
+Kaptein Salveson
+
+---
+
 ## 4. september 2026, 15:22 | 58.6248°N, 9.1266°Ø
 _**Vær**: delvis skyet — **Temp**: 17.6 °C — **Vind**: 5.9 m/s fra SV — **Trykk**: 996.1 hPa — **Skydekke**: 74.7 %_
 
