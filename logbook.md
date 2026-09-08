@@ -2,6 +2,18 @@
 
 ---
 
+## 8. september 2026, 15:36 | 58.5979°N, 9.0292°Ø
+_**Vær**: skyet — **Temp**: 17.1 °C — **Vind**: 4.8 m/s fra SSV — **Trykk**: 999.5 hPa — **Skydekke**: 98.7 %_
+
+8. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.5979°N, 9.0292°Ø. Efter gaarsdagens vildskab og det tætte skydække, er vinden nu faldet til en mere jævn styrke på 4.8 meter per sekund fra SSV, omend kast op til 9.5 m/s stadig ryster riggen. Barometeret er sunket til 999.5 hPa, og temperaturen hviler ved 17.1 grader med en luftfuktighed på 73.4 prosent. Himlen er fortsat tung og lukket med et skydekke på 98.7 prosent, men styrmanden melder om en lysere vending; inden for de næste seks timer forventes det at blive delvis skyet, og temperaturen vil falde mod 13.6 grader mod natten. Mannskabet er lettet over fraværet af regn, og vi sejler nu i klart vand uden tåge.
+
+*Skyerne viger, blæsten bliver mild,*
+*Frierholmen søger nu en havn, stille og stil.*
+
+Kaptein Salveson
+
+---
+
 ## 7. september 2026, 16:48 | 58.5909°N, 9.1469°Ø
 _**Vær**: skyet — **Temp**: 17.1 °C — **Vind**: 10.6 m/s fra SSV — **Trykk**: 1007.6 hPa — **Skydekke**: 100.0 %_
 
