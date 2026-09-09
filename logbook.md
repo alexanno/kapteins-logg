@@ -2,6 +2,18 @@
 
 ---
 
+## 9. september 2026, 15:30 | 58.6015°N, 9.0249°Ø
+_**Vær**: klar himmel — **Temp**: 19.8 °C — **Vind**: 1.5 m/s fra N — **Trykk**: 1001.1 hPa — **Skydekke**: 9.0 %_
+
+9. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6015°N, 9.0249°Ø. Efter dagene med vildskab og tunge skyer, er himmelen nu brudt op og viser sig næsten klar med et skydekke på blot 9.0 prosent. Vinden er faldet til en let brise fra N på 1.5 meter per sekund, omend enkelte kast op til 5.3 m/s stadig mærkes svagt i riggen. Barometeret hviler ved 1001.1 hPa, og temperaturen er steget til behagelige 19.8 grader med en tør luftfuktighed på 40.6 prosent. Mannskabet nyder det klare vejr og den gode sigt, og styrmanden melder at natten vil blive stjerneklars uden tegn til nedbør, mens temperaturen vil falde mod 12.0 grader. Det er en velsignet ro over dækket efter ugens strid.
+
+*Blå himmel strækker sig, vinden er lille,*
+*Frierholmens hjerte finder nu hvile.*
+
+Kaptein Salveson
+
+---
+
 ## 8. september 2026, 15:36 | 58.5979°N, 9.0292°Ø
 _**Vær**: skyet — **Temp**: 17.1 °C — **Vind**: 4.8 m/s fra SSV — **Trykk**: 999.5 hPa — **Skydekke**: 98.7 %_
 
