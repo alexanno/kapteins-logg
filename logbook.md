@@ -2,6 +2,18 @@
 
 ---
 
+## 10. september 2026, 15:25 | 58.6047°N, 9.1316°Ø
+_**Vær**: lettskyet — **Temp**: 15.7 °C — **Vind**: 7.0 m/s fra SSV — **Trykk**: 1013.9 hPa — **Skydekke**: 16.9 %_
+
+10. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6047°N, 9.1316°Ø. Den velsignede ro fra gaarsdagen er nu afløst af en friskere blæst; vinden er vendt mod SSV med en jævn styrke på 7.0 meter per sekund, og kast op til 9.5 m/s bringer åter liv i riggen og tvinger mannskabet til flid. Barometeret stiger til 1013.9 hPa, og temperaturen hviler ved 15.7 grader med en luftfuktighed på 61.1 prosent. Himlen er fortsat smuk og kun let beskyet med et skydekke på 16.9 prosent, og styrmanden melder om en fortsat tør passage uden tåge. Mod natten forventes det at blive delvis skyet, mens temperaturen vil falde mod 13.5 grader. Vi holder kursen med god sigt og et mannskab i godt humør efter ugens skiftende luner.
+
+*SSV-vinden vækker nu sejlets magt,*
+*mens Frierholmen holder sin trofaste vagt.*
+
+Kaptein Salveson
+
+---
+
 ## 9. september 2026, 15:30 | 58.6015°N, 9.0249°Ø
 _**Vær**: klar himmel — **Temp**: 19.8 °C — **Vind**: 1.5 m/s fra N — **Trykk**: 1001.1 hPa — **Skydekke**: 9.0 %_
 
