@@ -2,6 +2,18 @@
 
 ---
 
+## 12. september 2026, 14:35 | 58.6013°N, 9.065°Ø
+_**Vær**: lett regn — **Temp**: 14.5 °C — **Vind**: 2.9 m/s fra SV — **Trykk**: 1013.7 hPa — **Skydekke**: 100.0 %_
+
+12. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6013°N, 9.065°Ø. Som forventet fra gaarsdagens tunge luft, er himmelen nu fuldstændig lukket med et skydekke på 100.0 prosent. Vinden holder sig svag fra SV med 2.9 meter per sekund, omend kast op til 7.6 m/s stadig rykker i sejlene. Barometeret stiger lidt til 1013.7 hPa, og temperaturen er faldet til 14.5 grader i en fugtig luft på 82.2 prosent. Styrmanden varsler nu om lett regn i de kommende timer, og vi forventer en vedvarende fugtighed gennem natten med nedbørssjanser op mod 78.0 prosent. Mannskabet har sikret dækket, mens vi tålmodigt afventer det våde vejr.
+
+*Gråvejret lukker sin tunge port,*
+*mens regnen falder, og lyset blir kort.*
+
+Kaptein Salveson
+
+---
+
 ## 11. september 2026, 15:27 | 58.6191°N, 9.0897°Ø
 _**Vær**: skyet — **Temp**: 16.0 °C — **Vind**: 3.3 m/s fra SV — **Trykk**: 1013.1 hPa — **Skydekke**: 96.1 %_
 
