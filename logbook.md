@@ -2,6 +2,18 @@
 
 ---
 
+## 14. september 2026, 17:12 | 58.6166°N, 9.1484°Ø
+_**Vær**: delvis skyet — **Temp**: 15.7 °C — **Vind**: 4.1 m/s fra SSV — **Trykk**: 1018.2 hPa — **Skydekke**: 68.4 %_
+
+14. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6166°N, 9.1484°Ø. Efter gaarsdagens stilhed er vinden atter vendt mod SSV med en jævn styrke på 4.1 meter per sekund, og kast op til 7.0 m/s giver skibet en god gang. Barometeret viser en stigning til 1018.2 hPa, og temperaturen hviler ved 15.7 grader i en luft med 73.9 prosent fugtighed. Himlen er delvis lukket med et skydekke på 68.4 prosent, og styrmanden melder om klar sigt uden tåge i de kommende timer. Dog varsler barometerets tendens og skyernes vandring om lett regn inden for det næste halve døgn, med en sandsynlighed på over 50 prosent. Mannskabet har sikret lasten og gør sig rede til at møde det våde vejr, som vi har lært at frygte og respektere denne uge.
+
+*Vinden vender, skyerne driver i ring,*
+*snart bringer regnen sit kølige sting.*
+
+Kaptein Salveson
+
+---
+
 ## 13. september 2026, 15:14 | 58.6179°N, 9.1147°Ø
 _**Vær**: delvis skyet — **Temp**: 16.9 °C — **Vind**: 1.8 m/s fra SO — **Trykk**: 1014.3 hPa — **Skydekke**: 72.8 %_
 
