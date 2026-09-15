@@ -2,6 +2,18 @@
 
 ---
 
+## 15. september 2026, 15:52 | 58.6208°N, 9.0785°Ø
+_**Vær**: skyet — **Temp**: 16.3 °C — **Vind**: 6.9 m/s fra SSV — **Trykk**: 1004.6 hPa — **Skydekke**: 100.0 %_
+
+15. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6208°N, 9.0785°Ø. Som varslet i gaarsdagens logg er det våde vejr nu kommet over os med fuld styrke; himmelen er totalt lukket med et skydekke på 100.0 prosent, og en let tåge på 16.4 prosent hviler tungt over dækket. Vinden holder sig frisk fra SSV med 6.9 meter per sekund, men voldsomme kast op til 13.4 m/s ryster Frierholmen og tvinger mannskabet til at være på vakt. Barometeret er faldet mærkbart til 1004.6 hPa, og luften er mættet med 100.0 prosent fugtighed ved en temperatur på 16.3 grader. Styrmanden varsler om vedvarende regn i de kommende timer, med et forventet nedbørsmål på 3.9 mm, hvilket vil holde os våde langt ind i natten.
+
+*Tågen slører kystens hvide rand,*
+*mens regnen vasker saltet af hver mand.*
+
+Kaptein Salveson
+
+---
+
 ## 14. september 2026, 17:12 | 58.6166°N, 9.1484°Ø
 _**Vær**: delvis skyet — **Temp**: 15.7 °C — **Vind**: 4.1 m/s fra SSV — **Trykk**: 1018.2 hPa — **Skydekke**: 68.4 %_
 
