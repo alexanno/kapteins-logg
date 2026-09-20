@@ -2,6 +2,18 @@
 
 ---
 
+## 20. september 2026, 15:02 | 58.6018°N, 9.0404°Ø
+_**Vær**: klar himmel — **Temp**: 16.5 °C — **Vind**: 6.5 m/s fra V — **Trykk**: 1003.3 hPa — **Skydekke**: 3.7 %_
+
+20. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6018°N, 9.0404°Ø. Efter gaarsdagens frygt for det faldende barometer, viser himmelhvælvet sig nu fra sin smukkeste side med et skydekke på blot 3.7 prosent; en sandt klar himmel uden spor af tåge. Vinden bider frisk fra V med 6.5 meter per sekund, og kast op til 13.5 m/s holder Frierholmen i en livlig dans, hvilket kræver fast hånd om roret. Barometeret er steget til 1003.3 hPa, og luften er nu mærkbart tør med en fugtighed på 49.2 prosent ved 16.5 grader. Styrmanden melder om en tør passage de næste tolv timer, hvor temperaturen vil falde mod 13.2 grader i løbet af natten. Mannskabet har benyttet det strålende vejret til at skure dækket rent for salt og snavs efter ugens mange regnbyger.
+
+*Himmelen åben, havet blåt og rent,*
+*nu sejler vi trygt, thi vejret er blendt.*
+
+Kaptein Salveson
+
+---
+
 ## 19. september 2026, 14:59 | 58.6078°N, 9.041°Ø
 _**Vær**: lettskyet — **Temp**: 19.0 °C — **Vind**: 6.6 m/s fra VSV — **Trykk**: 998.4 hPa — **Skydekke**: 26.7 %_
 
