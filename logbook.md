@@ -2,6 +2,18 @@
 
 ---
 
+## 21. september 2026, 17:21 | 58.6°N, 9.0356°Ø
+_**Vær**: klar himmel — **Temp**: 16.3 °C — **Vind**: 1.3 m/s fra NNV — **Trykk**: 1021.6 hPa — **Skydekke**: 4.8 %_
+
+21. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6°N, 9.0356°Ø. Efter gaarsdagens livlige dans i vestavinden, er havet nu faldet til ro. Vinden er svundet ind til en let brise fra NNV med blot 1.3 meter per sekund, skønt enkelte kast op til 5.2 m/s minder os om naturens lune. Himmelhvælvet forbliver sandt strålende med et skydekke på blot 4.8 prosent, og barometeret er steget mærkbart til 1021.6 hPa, hvilket varsler et stabilt højtryk. Temperaturen hviler ved 16.3 grader i en tør luft med 45.4 prosent fugtighed. Styrmanden melder om en fuldstændig klar nat uden spor af nedbør, hvor kulden vil bide fra sig med temperaturer ned mod 10.0 grader. Mannskabet nyder stilheden, og vi har i dag observeret en flok havterner, der fulgte skibet i timevis.
+
+*Søen hviler, vinden er tyst,*
+*vi glider frem mod kystens lyst.*
+
+Kaptein Salveson
+
+---
+
 ## 20. september 2026, 15:02 | 58.6018°N, 9.0404°Ø
 _**Vær**: klar himmel — **Temp**: 16.5 °C — **Vind**: 6.5 m/s fra V — **Trykk**: 1003.3 hPa — **Skydekke**: 3.7 %_
 
