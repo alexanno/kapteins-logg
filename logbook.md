@@ -2,6 +2,18 @@
 
 ---
 
+## 28. september 2026, 18:54 | 58.5938°N, 9.0223°Ø
+_**Vær**: delvis skyet — **Temp**: 13.9 °C — **Vind**: 2.3 m/s fra V — **Trykk**: 1019.3 hPa — **Skydekke**: 90.2 %_
+
+28. September. Aftentide. Vi befinner os nu ved posisjon 58.5938°N, 9.0223°Ø. Som jeg i gaarsdagens logg frygtede, er skyerne tætned over os; himmelhvælvet er nu tungt med et skydekke på 90.2 prosent, og luften er kølig med en temperatur på 13.9 grader. Vinden er vendt mod V med en styrke på 2.3 meter per sekund, skjønt kast op til 4.2 m/s holder Frierholmen i en beskjeden drift. Barometeret er steget til 1019.3 hPa, og fugtigheden hviler ved 84.7 prosent. Styrmanden melder at skyerne vil lette i løbet af natten, og vi forventer en tør passage, skjønt kulden vil bide med temperaturer ned mod 9.9 grader. Mannskabet har i dag brugt tiden på at efterse riggen efter de seneste dages skiftende vinde, mens vi iagttog en enkelt stor hval, der brød havoverfladen i vestlig retning.
+
+*Vinden stilner, natten falder på,*
+*under grå skyer må vi kursen nå.*
+
+Kaptein Salveson
+
+---
+
 ## 27. september 2026, 15:57 | 58.618°N, 9.0646°Ø
 _**Vær**: lettskyet — **Temp**: 15.3 °C — **Vind**: 3.2 m/s fra SO — **Trykk**: 1022.1 hPa — **Skydekke**: 20.6 %_
 
