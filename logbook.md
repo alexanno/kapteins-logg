@@ -2,6 +2,18 @@
 
 ---
 
+## 29. september 2026, 17:12 | 58.6341°N, 9.0905°Ø
+_**Vær**: skyet — **Temp**: 13.9 °C — **Vind**: 4.2 m/s fra NO — **Trykk**: 1029.9 hPa — **Skydekke**: 100.0 %_
+
+29. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6341°N, 9.0905°Ø. Som styrmanden forudså, er natten passeret uden regn, dog er himmelhvælvet nu fuldstændigt lukket med et skydekke på 100 prosent. Vinden er vendt mod NO med en styrke på 4.2 meter per sekund, og kast op til 8.8 m/s giver os en stødig, omend udfordrende fremdrift. Barometeret er steget markant til 1029.9 hPa, og temperaturen hviler ved 13.9 grader i en fugtig luft på 84.8 prosent. Det varsles om en fortsat skyet passage de næste tolv timer, skjønt nedbøren endnu holder sig tilbage, omend risikoen stiger mod natten. Mannskabet har i dag arbejdet flittigt med at sikre lasten for den køligere luft, mens vi iagttog en flok med rastløse måger, der cirklede over bovbølgen.
+
+*Himlen er lukket, grå og tung,*
+*havet synger sin vuggesang for den unge.*
+
+Kaptein Salveson
+
+---
+
 ## 28. september 2026, 18:54 | 58.5938°N, 9.0223°Ø
 _**Vær**: delvis skyet — **Temp**: 13.9 °C — **Vind**: 2.3 m/s fra V — **Trykk**: 1019.3 hPa — **Skydekke**: 90.2 %_
 
