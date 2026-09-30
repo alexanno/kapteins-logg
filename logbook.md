@@ -2,6 +2,18 @@
 
 ---
 
+## 30. september 2026, 17:10 | 58.5898°N, 9.0639°Ø
+_**Vær**: delvis skyet — **Temp**: 14.9 °C — **Vind**: 8.4 m/s fra ONO — **Trykk**: 1027.9 hPa — **Skydekke**: 50.7 %_
+
+30. September. Eftermiddagstide. Vi befinner os nu ved posisjon 58.5898°N, 9.0639°Ø. Som jeg frygtede i gaarsdagens logg, holdt regnen sig tilbage, men himmelhvælvet er nu brudt op med et skydekke på 50.7 prosent. Vinden er tiltaget i styrke og har vendt mod ONO, med en jævn brise på 8.4 meter per sekund og kast op til 12.6 m/s, hvilket tvinger os til at være agtpågivende med riggen. Barometeret har vist et let fald til 1027.9 hPa, og luften er tung og fugtig med 90.4 prosent, mens temperaturen hviler ved 14.9 grader. Styrmanden melder om en tør passage de næste tolv timer, og vi forventer at temperaturen vil holde sig stabil omkring 14.7 grader. Mannskabet har i dag kæmpet med de tiltagende vindstød, men humøret er opretholdt da vi observerede en flok havørne, der kredsede over os i den friske luft.
+
+*Vinden bider, skummet flyver hvidt,*
+*Frierholmen skærer gennem bølgen lidt efter lidt.*
+
+Kaptein Salveson
+
+---
+
 ## 29. september 2026, 17:12 | 58.6341°N, 9.0905°Ø
 _**Vær**: skyet — **Temp**: 13.9 °C — **Vind**: 4.2 m/s fra NO — **Trykk**: 1029.9 hPa — **Skydekke**: 100.0 %_
 
