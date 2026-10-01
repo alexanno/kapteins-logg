@@ -2,6 +2,18 @@
 
 ---
 
+## 1. oktober 2026, 17:40 | 58.5983°N, 9.1443°Ø
+_**Vær**: skyet — **Temp**: 16.4 °C — **Vind**: 6.7 m/s fra OSO — **Trykk**: 1022.5 hPa — **Skydekke**: 100.0 %_
+
+1. October. Eftermiddagstide. Vi befinner os nu ved posisjon 58.5983°N, 9.1443°Ø. Efter gårsdagens friske brise fra ONO, har vinden nu vendt mod OSO med en styrke på 6.7 meter per sekund og kast op til 8.1 m/s. Himlen er atter blevet fuldstændigt lukket med et skydekke på 100 prosent, og temperaturen hviler ved 16.4 grader i en tung luft på 82.3 prosent fugtighed. Barometeret er faldet til 1022.5 hPa, hvilket sammen med styrmandens varsler om kraftig regn de næste seks timer — med op mod 8.5 mm nedbør — tvinger os til at sikre alt løst gear på dækket. Mannskabet er nu i fuld gang med at gøre skibet klar til det uundgåelige uvær, mens vi ser mørke skyformationer rulle ind fra øst.
+
+*Regnen kommer, himlen græder gråt,*
+*Frierholmen må tåle det våde og råt.*
+
+Kaptein Salveson
+
+---
+
 ## 30. september 2026, 17:10 | 58.5898°N, 9.0639°Ø
 _**Vær**: delvis skyet — **Temp**: 14.9 °C — **Vind**: 8.4 m/s fra ONO — **Trykk**: 1027.9 hPa — **Skydekke**: 50.7 %_
 
