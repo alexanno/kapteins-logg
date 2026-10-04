@@ -2,6 +2,18 @@
 
 ---
 
+## 4. oktober 2026, 16:07 | 58.6321°N, 9.0451°Ø
+_**Vær**: skyet — **Temp**: 13.9 °C — **Vind**: 4.3 m/s fra SV — **Trykk**: 1018.6 hPa — **Skydekke**: 100.0 %_
+
+4. October. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6321°N, 9.0451°Ø. Som styrmanden spåede i gaarsdagens logg, har natten været klar, men nu har himmelhvælvet atter lukket sig fuldstændigt med et skydekke på 100 prosent. Vinden holder sig fra SV med en jævn styrke på 4.3 meter per sekund, skjønt kast op til 9.9 m/s ryster let i riggen. Barometeret er faldet yderligere til 1018.6 hPa, hvilket sammen med en temperatur på 13.9 grader og luftfuktighed på 71.0 prosent bringer en kølig fugtighed over dækket. Det varsles om en fortsat skyet passage de næste tolv timer, dog uden regn, mens temperaturen forventes at falde mod 12.8 grader i nattetimerne. Mannskabet har i dag nyttet den rolige vind til at efterse lasten, mens vi iagttog havets gråtoner under den tunge himmel.
+
+*Grå er dagen, gråt er havet,*
+*skibets gang er trofast, trods skyernes favnet.*
+
+Kaptein Salveson
+
+---
+
 ## 3. oktober 2026, 15:22 | 58.6088°N, 9.0899°Ø
 _**Vær**: skyet — **Temp**: 15.0 °C — **Vind**: 6.8 m/s fra SV — **Trykk**: 1022.5 hPa — **Skydekke**: 92.0 %_
 
