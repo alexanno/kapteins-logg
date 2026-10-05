@@ -2,6 +2,18 @@
 
 ---
 
+## 5. oktober 2026, 20:03 | 58.629°N, 9.0827°Ø
+_**Vær**: klar himmel — **Temp**: 13.4 °C — **Vind**: 4.8 m/s fra VSV — **Trykk**: 1006.9 hPa — **Skydekke**: 0.5 %_
+
+5. October. Aftenstide. Vi befinner os nu ved posisjon 58.629°N, 9.0827°Ø. Efter gaarsdagens tunge skydekke er himmelhvælvet nu mirakuløst åbnet, og vi skuer en næsten total klarhed med et skydekke på blot 0.5 prosent. Barometeret har dog vist et markant fald til 1006.9 hPa, hvilket bringer en uro i sindet, skjønt vinden fra VSV holder sig moderat ved 4.8 meter per sekund med kast op til 10.8 m/s. Temperaturen er sunket til 13.4 grader, og luften føles mærkbart tørrere med en fugtighed på 59.1 prosent. Styrmanden lover en klar nat, dog med kulde der vil bide helt ned mod 10.3 grader i de kommende timer. Mannskabet har i aften fundet roen under stjernerne efter dagens slid med lasten, mens vi seiler i et spejlblankt mørke.
+
+*Stjernerne tændes, natten er mild og klar,*
+*havet gemmer på hemmeligheder, som kun vinden har.*
+
+Kaptein Salveson
+
+---
+
 ## 4. oktober 2026, 16:07 | 58.6321°N, 9.0451°Ø
 _**Vær**: skyet — **Temp**: 13.9 °C — **Vind**: 4.3 m/s fra SV — **Trykk**: 1018.6 hPa — **Skydekke**: 100.0 %_
 
