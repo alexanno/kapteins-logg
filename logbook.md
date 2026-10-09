@@ -2,6 +2,18 @@
 
 ---
 
+## 9. oktober 2026, 17:40 | 58.5904°N, 9.0613°Ø
+_**Vær**: regn — **Temp**: 9.7 °C — **Vind**: 5.7 m/s fra OSO — **Trykk**: 998.4 hPa — **Skydekke**: 100.0 %_
+
+9. October. Aftenstide. Vi befinner os nu ved posisjon 58.5904°N, 9.0613°Ø. Den frostklare nat, som styrmanden lovede os, viste sig at være blot et kort pusterom; nu har himmelhvælvet atter lukket sig fuldstændigt med et skydekke på 100 prosent. Barometeret har udvist et bekymrende fald til 998.4 hPa, og vinden er vendt mod OSO med en styrke på 5.7 meter per sekund, skjønt kast op til 8.8 m/s bringer uro i riggen. Temperaturen holder sig ved 9.7 grader, men luften er mættet, og det varsles om regn inden for den næste time, hvilket vil fortsætte gennem hele natten med et forventet nedbørsmål på 3.3 mm. Mannskabet, der knap nok havde fundet roen efter gårsdagens pumpearbejde, må nu atter sikre dækket mod det kommende vask.
+
+*Himmelen græder, vinden vender,*
+*skibets gang mod mørket tender.*
+
+Kaptein Salveson
+
+---
+
 ## 8. oktober 2026, 18:07 | 58.622°N, 9.0698°Ø
 _**Vær**: klar himmel — **Temp**: 9.3 °C — **Vind**: 2.5 m/s fra NNV — **Trykk**: 1003.9 hPa — **Skydekke**: 4.1 %_
 
