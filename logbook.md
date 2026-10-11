@@ -2,6 +2,18 @@
 
 ---
 
+## 11. oktober 2026, 16:57 | 58.6157°N, 9.0707°Ø
+_**Vær**: delvis skyet — **Temp**: 8.1 °C — **Vind**: 3.8 m/s fra NNO — **Trykk**: 1008.7 hPa — **Skydekke**: 76.5 %_
+
+11. October. Aftenstide. Vi befinner os nu ved posisjon 58.6157°N, 9.0707°Ø. Styrmandens spådom om opklaring holder stik, thi himmelhvælvet letter nu med et skydekke på 76.5 prosent, og vi skuer for første gang siden den 7. october et glimt af det blå. Barometeret stiger lovende til 1008.7 hPa, og vinden er vendt mod NNO med en jævn styrke på 3.8 meter per sekund, skjønt kast op til 8.0 m/s ryster stadig i rigningen. Temperaturen er 8.1 grader, og luften føles tørrere med en fugtighed på 67.8 prosent. Mannskabet, nu tørre i klæderne, har brugt dagen på at efterse sejlene efter ugens regnvejr. Vi forventer en lettskyet nat uden nedbør, skjønt kulden vil bide hårdt med temperaturer ned mod 5.1 grader før daggry.
+
+*Skyerne viger, stjernen bli’r synlig,*
+*havets vrede er nu blot besynderlig.*
+
+Kaptein Salveson
+
+---
+
 ## 10. oktober 2026, 16:32 | 58.6225°N, 9.1245°Ø
 _**Vær**: skyet — **Temp**: 6.8 °C — **Vind**: 3.8 m/s fra N — **Trykk**: 999.8 hPa — **Skydekke**: 98.1 %_
 
