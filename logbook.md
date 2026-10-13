@@ -2,6 +2,18 @@
 
 ---
 
+## 13. oktober 2026, 18:37 | 58.6171°N, 9.1468°Ø
+_**Vær**: lett regn — **Temp**: 12.6 °C — **Vind**: 13.3 m/s fra SSV — **Trykk**: 1004.6 hPa — **Skydekke**: 100.0 %_
+
+13. October. Aftenstide. Vi befinner os nu ved posisjon 58.6171°N, 9.1468°Ø. Den ro vi nyed i gaarsdags stilhed er nu brutalt ophørt; himmelhvælvet er atter lukket med et skydekke på 100 prosent, og barometeret har udvist et pludseligt fald til 1004.6 hPa. Vinden er vendt mod SSV og har taget en voldsom styrke på 13.3 meter per sekund, med kast op til 17.8 som river i rigningen og tvinger os til at revse sejlene. Temperaturen er steget til 12.6 grader, skjønt den høie luftfugtighed på 93.0 prosent gør luften tung og klam. Styrmanden varsler om lett regn i den kommende time, og vi forventer regnbyger gennem natten med et nedbørsmål på 1.2 mm. Mannskabet er atter på dækket for at sikre lasten, thi havets uro er vendt tilbage med fuld kraft.
+
+*Vinden river i tøjet, regnen falder let,*
+*havet kræver sin skat, og mandskabet er trett.*
+
+Kaptein Salveson
+
+---
+
 ## 12. oktober 2026, 20:33 | 58.6036°N, 9.1381°Ø
 _**Vær**: skyet — **Temp**: 8.1 °C — **Vind**: 2.0 m/s fra SO — **Trykk**: 1023.3 hPa — **Skydekke**: 93.0 %_
 
