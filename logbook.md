@@ -2,6 +2,18 @@
 
 ---
 
+## 14. oktober 2026, 16:07 | 58.5984°N, 9.1292°Ø
+_**Vær**: lettskyet — **Temp**: 12.8 °C — **Vind**: 5.2 m/s fra SV — **Trykk**: 1020.3 hPa — **Skydekke**: 25.5 %_
+
+14. October. Aftenstide. Vi befinner os nu ved posisjon 58.5984°N, 9.1292°Ø. Efter gårsdagens voldsomme uvejr og de tunge regnbyger, har himmelhvælvet endelig brudt op, og vi skuer nu en himmel med blot 25.5 prosent skydekke. Barometeret er steget til 1020.3 hPa, hvilket bringer en velkommen stabilitet over M/S Frierholmen. Vinden er vendt mod SV med en jævn styrke på 5.2 meter per sekund, skjønt kast op til 7.1 m/s holder stadig rigningen vågen. Temperaturen er mild ved 12.8 grader, og luftfugtigheden er faldet til 64.3 prosent, hvilket giver mannskabet mulighed for at tørre deres klæder for tredje gang denne uge. Styrmanden spår en delvis skyet nat uden nedbør, og vi forventer at temperaturen vil holde sig mellem 11.6 og 12.4 grader. Det er en velsignelse at se horisonten klar atter.
+
+*Sølvgrå bølger, himmelen blå,*
+*nu kan vi endelig hvilen nå.*
+
+Kaptein Salveson
+
+---
+
 ## 13. oktober 2026, 18:37 | 58.6171°N, 9.1468°Ø
 _**Vær**: lett regn — **Temp**: 12.6 °C — **Vind**: 13.3 m/s fra SSV — **Trykk**: 1004.6 hPa — **Skydekke**: 100.0 %_
 
