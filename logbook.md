@@ -2,6 +2,18 @@
 
 ---
 
+## 15. oktober 2026, 15:55 | 58.6234°N, 9.1043°Ø
+_**Vær**: skyet — **Temp**: 14.3 °C — **Vind**: 9.5 m/s fra SV — **Trykk**: 1011.7 hPa — **Skydekke**: 100.0 %_
+
+15. October. Aftenstide. Vi befinner os nu ved posisjon 58.6234°N, 9.1043°Ø. Den korte fred vi nyed gaarsdags, er nu forsvunden; himmelhvælvet er atter lukket med et skydekke på 100 prosent, og barometeret har udvist et fald til 1011.7 hPa. Vinden er forblevet mod SV, men har taget en mærkbar styrke på 9.5 meter per sekund, med voldsomme kast op til 15.7 som tvinger os at være varsomme med sejlføringen. Temperaturen er steget til 14.3 grader, skjønt den høie luftfugtighed på 89.7 prosent gør luften tung og klam mod huden. Styrmanden spår en skyet nat uden nedbør, skjønt vi holder et våkent øie med horisonten. Mannskabet er nu vant til dette skiftende vær, skjønt rigningen synger i vinden som en advarsel om storm.
+
+*Skyerne samles, vinden tager fat,*
+*vi sejler i mørket gennem en tåget nat.*
+
+Kaptein Salveson
+
+---
+
 ## 14. oktober 2026, 16:07 | 58.5984°N, 9.1292°Ø
 _**Vær**: lettskyet — **Temp**: 12.8 °C — **Vind**: 5.2 m/s fra SV — **Trykk**: 1020.3 hPa — **Skydekke**: 25.5 %_
 
