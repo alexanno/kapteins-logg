@@ -2,6 +2,18 @@
 
 ---
 
+## 19. oktober 2026, 17:54 | 58.6283°N, 9.0838°Ø
+_**Vær**: lettskyet — **Temp**: 7.8 °C — **Vind**: 1.1 m/s fra V — **Trykk**: 1035.7 hPa — **Skydekke**: 30.5 %_
+
+19. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.6283°N, 9.0838°Ø. Den kulde, som styrmanden varslede den 18de, har nu for alvor bidt sig fast, og temperaturen er faldet til 7.8 grader. Luften er tung og mættet af fugtighed, næsten 95 prosent, hvilket bringer en klam kulde over dækket, skjønt barometeret holder sig høit ved 1035.7 hPa. Vinden er faldet til et absolutt minimum fra Vest, blot 1.1 meter per sekund, hvilket lader M/S Frierholmen ligge næsten stille i vandet. Himlen er nu delvis dækket med 30.5 prosent skyer, og styrmanden spår at natten vil bringe et tykkere skydække og et yderligere fald i temperaturen ned mod 6.8 grader. Mannskabet har trukket i deres tykkeste uld, thi stilheden i luften gør kulden mere mærkbar.
+
+*Vinden sover, havet står stille,*
+*kulden kommer, som den vil ville.*
+
+Kaptein Salveson
+
+---
+
 ## 18. oktober 2026, 15:02 | 58.626°N, 9.1289°Ø
 _**Vær**: klar himmel — **Temp**: 10.1 °C — **Vind**: 2.3 m/s fra ONO — **Trykk**: 1037.8 hPa — **Skydekke**: 9.5 %_
 
