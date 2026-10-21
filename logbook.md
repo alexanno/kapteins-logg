@@ -2,6 +2,18 @@
 
 ---
 
+## 21. oktober 2026, 16:15 | 58.5951°N, 9.048°Ø
+_**Vær**: skyet — **Temp**: 11.1 °C — **Vind**: 4.4 m/s fra SO — **Trykk**: 1009.5 hPa — **Skydekke**: 98.5 %_
+
+21. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.5951°N, 9.048°Ø. Den skarpe nordenvind fra igaars har nu sluppet sit tag og vendt mod SO, med en styrke på 4.4 meter per sekund, skjønt kastene stadig når 9.1. Barometeret er faldet ynderligt til 1009.5 hPa, og himmelhvælvet er igen blevet totalt lukket med 98.5 prosent skydekke. Temperaturen er steget til 11.1 grader, men luften føles tung af fugtighed. Styrmanden varsler, at det tørre vær er forbi; inden for seks timer forventes regnen at falde med en sandsynlighed på 87.1 prosent, og natten vil bringe et vedvarende regnvejr med hundrede procents sikkerhed. Mannskabet har igen trukket presenningerne over lasten, thi vi venter nu vand fra himmelen.
+
+*Vinden vender, varmen drar ind,*
+*men regnen følger i skyernes spind.*
+
+Kaptein Salveson
+
+---
+
 ## 20. oktober 2026, 15:58 | 58.5935°N, 9.0638°Ø
 _**Vær**: skyet — **Temp**: 8.4 °C — **Vind**: 8.6 m/s fra NO — **Trykk**: 1025.8 hPa — **Skydekke**: 99.3 %_
 
