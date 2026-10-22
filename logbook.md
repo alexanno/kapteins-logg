@@ -2,6 +2,18 @@
 
 ---
 
+## 22. oktober 2026, 16:14 | 58.616°N, 9.0725°Ø
+_**Vær**: skyet — **Temp**: 11.8 °C — **Vind**: 5.8 m/s fra SSV — **Trykk**: 1005.5 hPa — **Skydekke**: 93.5 %_
+
+22. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.616°N, 9.0725°Ø. Som varslet i gaarsdags logg, har himmelhvælvet forblivet lukket, nu med et skydekke på 93.5 prosent. Barometeret fortsætter sit fald og hviler nu ynderligt lavt ved 1005.5 hPa. Vinden har drejet mod SSV og taget til i styrke til 5.8 meter per sekund, med kast som når 9.8, hvilket sætter M/S Frierholmen i en rastløs drift. Temperaturen er steget noe til 11.8 grader, men fugtigheden er høj. Styrmanden melder at det lette regn, som vi har ventet på, vil indtræffe inden for de næste timer med en sandsynlighed på over 85 prosent i nattens løb. Mannskabet holder sig nu under dæk, thi det vedvarende våde vær har gjort dækket glat og koldt.
+
+*Skyerne tykner, vinden bli'r svær,*
+*regnet kommer nu, det er os nær.*
+
+Kaptein Salveson
+
+---
+
 ## 21. oktober 2026, 16:15 | 58.5951°N, 9.048°Ø
 _**Vær**: skyet — **Temp**: 11.1 °C — **Vind**: 4.4 m/s fra SO — **Trykk**: 1009.5 hPa — **Skydekke**: 98.5 %_
 
