@@ -2,6 +2,18 @@
 
 ---
 
+## 23. oktober 2026, 16:04 | 58.6203°N, 9.0507°Ø
+_**Vær**: delvis skyet — **Temp**: 9.7 °C — **Vind**: 1.8 m/s fra OSO — **Trykk**: 1007.3 hPa — **Skydekke**: 86.6 %_
+
+23. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.6203°N, 9.0507°Ø. Det regnvejr, som jeg i gaarsdags logg varslede med stor sikkerhed, har indtil nu holdt sig tilbage, og vinden er faldet ynderligt til blot 1.8 meter per sekund fra OSO. Barometeret viser en let stigning til 1007.3 hPa, og temperaturen hviler ved 9.7 grader, skjønt luften stadig er tung med 86.6 prosent skydekke. Mannskabet har benyttet denne korte stilhed til at tørre dækket, men styrmanden advarer om, at freden er bedragersk; inden for tolv timer er sjanse for regn nu hundrede prosent. Vi holder derfor fast i beredskabet, thi himmelen vil snart igen åbne sig over M/S Frierholmen.
+
+*Vinden hviler, skyen står,*
+*men regnet kommer, når timen slår.*
+
+Kaptein Salveson
+
+---
+
 ## 22. oktober 2026, 16:14 | 58.616°N, 9.0725°Ø
 _**Vær**: skyet — **Temp**: 11.8 °C — **Vind**: 5.8 m/s fra SSV — **Trykk**: 1005.5 hPa — **Skydekke**: 93.5 %_
 
