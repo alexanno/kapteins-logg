@@ -2,6 +2,18 @@
 
 ---
 
+## 28. oktober 2026, 17:34 | 58.6061°N, 9.1129°Ø
+_**Vær**: skyet — **Temp**: 12.0 °C — **Vind**: 9.6 m/s fra SSV — **Trykk**: 1017.0 hPa — **Skydekke**: 100.0 %_
+
+28. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.6061°N, 9.1129°Ø. Efter gaarsdags voldsomme krængninger og det utrøttelige regn, bringer barometeret nu et efterlængtet løft til 1017.0 hPa, skjønt himmelhvælvet stadig er totalt lukket. Vinden holder stand fra SSV med en styrke af 9.6 meter per sekund, og kastene river stadig i riggen med 13.1. Temperaturen er faldet til 12.0 grader, og fugtigheden bider med 82.5 prosent. Styrmanden melder at det værste nu er ovre, men varsler lette regnbyger i de kommende timer, hvor temperaturen kan synke til 8.9 grader. Mannskabet, der er udmattede efter dagene i storm, har nu fået et øieblik til at puste, skjønt vi stadig seiler med højeste agtpågivenhed.
+
+*Stormen viger, trykket stiger,*
+*mens mannskabet i tysthed siger: tak.*
+
+Kaptein Salveson
+
+---
+
 ## 27. oktober 2026, 16:59 | 58.6002°N, 9.0871°Ø
 _**Vær**: regn — **Temp**: 12.8 °C — **Vind**: 11.0 m/s fra SSV — **Trykk**: 1002.9 hPa — **Skydekke**: 100.0 %_
 
