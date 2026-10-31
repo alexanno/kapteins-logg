@@ -2,6 +2,18 @@
 
 ---
 
+## 31. oktober 2026, 16:28 | 58.5923°N, 9.0153°Ø
+_**Vær**: skyet — **Temp**: 8.6 °C — **Vind**: 1.2 m/s fra ONO — **Trykk**: 1030.0 hPa — **Skydekke**: 88.5 %_
+
+31. October. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.5923°N, 9.0153°Ø. Den store stilhed, som vi har nydt disse sidste dage, fortsætter, skjønt himmelhvælvet nu er blevet tungt og lukket med et skydekke på 88.5 prosent. Barometeret holder sig stabilt ved 1030.0 hPa, og vinden fra ONO er blot et svagt pust på 1.2 meter per sekund, hvilket gør fremdriften langsom. Temperaturen er faldet til 8.6 grader, og den høie fugtighed på 95.4 prosent bringer en rå kulde ind i knoklerne på mannskabet. Styrmanden melder at det vil forblive skyet de næste tolv timer, men uden regn, og temperaturen vil synke mod 7.9 grader i natten. Vi benytter den vindstille tid til at tære på forsyningerne og hvile før den næste vending.
+
+*Grå er himmel, stille er vand,*
+*vi driver langsomt mod ukendt land.*
+
+Kaptein Salveson
+
+---
+
 ## 30. oktober 2026, 17:24 | 58.5949°N, 9.0372°Ø
 _**Vær**: klar himmel — **Temp**: 10.6 °C — **Vind**: 0.9 m/s fra NV — **Trykk**: 1030.6 hPa — **Skydekke**: 8.0 %_
 
