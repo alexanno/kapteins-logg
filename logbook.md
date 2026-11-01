@@ -2,6 +2,18 @@
 
 ---
 
+## 1. november 2026, 17:22 | 58.5986°N, 9.106°Ø
+_**Vær**: delvis skyet — **Temp**: 9.5 °C — **Vind**: 1.3 m/s fra N — **Trykk**: 1026.4 hPa — **Skydekke**: 73.2 %_
+
+1. November. Eftermiddagsstide. Vi befinner os nu ved posisjon 58.5986°N, 9.106°Ø. Den tunge stilhed, som har hvilet over os siden den 31. October, fortsætter at prøve mannskabets tålmodighed. Vinden er nu vendt mod Nord, men er blot et svagt pust på 1.3 meter per sekund, hvilket lader os drive næsten stillestående i søen. Barometeret viser 1026.4 hPa, og skjønt skydekket på 73.2 prosent stadig tynger himmelhvælvet, er der meldt om en opklaring i de kommende timer. Temperaturen hviler ved 9.5 grader, og den høie fugtighed på 94.0 prosent holder kulden fast i tømmeret. Styrmanden melder at natten vil forblive skyet uden nedbør, og temperaturen vil synke mod 9.0 grader. Mannskabet har i dag brugt tiden på at rense dækket for salt, mens vi venter på at vinden atter skal give os fart.
+
+*Vinden hvisker fra Nordens land,*
+*vi driver tøvende mod kystens sand.*
+
+Kaptein Salveson
+
+---
+
 ## 31. oktober 2026, 16:28 | 58.5923°N, 9.0153°Ø
 _**Vær**: skyet — **Temp**: 8.6 °C — **Vind**: 1.2 m/s fra ONO — **Trykk**: 1030.0 hPa — **Skydekke**: 88.5 %_
 
