@@ -2,6 +2,18 @@
 
 ---
 
+## 2. november 2026, 20:59 | 58.61°N, 9.0607°Ø
+_**Vær**: klar himmel — **Temp**: 4.8 °C — **Vind**: 3.1 m/s fra N — **Trykk**: 1037.5 hPa — **Skydekke**: 0.0 %_
+
+2. November. Aftenstide. Vi befinner os nu ved posisjon 58.61°N, 9.0607°Ø. Endelig har Guds nåde skjenket os vind i seilene; efter dagene med tung stilhed og tålmodighedsprøver, har vinden fra Nord taget til og blæser nu med 3.1 meter per sekund, med kast op til 5.8. Barometeret er steget ynderligt til 1037.5 hPa, og himmelhvælvet er nu totalt renset for skyer, hvilket giver os et klart udsyn over den mørknende sø. Temperaturen er faldet mærkbart til 4.8 grader, og kulden bider nu i huden, mens fugtigheden er sunket til 67.1 prosent. Styrmanden melder at natten vil forblive klar og frostkold, med temperaturer ned mod 3.6 grader, før lette skyer meldes i morgen. Mannskabet, som nu endelig har fået fart under kølen, arbejder med fornyet iver for at udnytte denne gunstige vending.
+
+*Nordenvinden vågner, kulden bider fast,*
+*nu slipper Frierholmen sin tøvende last.*
+
+Kaptein Salveson
+
+---
+
 ## 1. november 2026, 17:22 | 58.5986°N, 9.106°Ø
 _**Vær**: delvis skyet — **Temp**: 9.5 °C — **Vind**: 1.3 m/s fra N — **Trykk**: 1026.4 hPa — **Skydekke**: 73.2 %_
 
