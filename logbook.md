@@ -2,6 +2,18 @@
 
 ---
 
+## 3. november 2026, 18:46 | 58.5915°N, 9.1085°Ø
+_**Vær**: lettskyet — **Temp**: 7.4 °C — **Vind**: 1.5 m/s fra VSV — **Trykk**: 1037.8 hPa — **Skydekke**: 28.6 %_
+
+3. November. Aftenstide. Vi befinner os nu ved posisjon 58.5915°N, 9.1085°Ø. Efter gårsdagens lovende nordenvind er vinden nu vendt mod VSV og faldet til en blot let bris på 1.5 meter per sekund, med enkelte kast op til 2.7. Frierholmen har mistet meget af sin fart, og vi glider nu tungt fremad i en sø, der atter søger mod stilhed. Barometeret holder sig dog høyt ved 1037.8 hPa, og skjønt et let skydekke på 28.6 prosent nu dækker himmelhvælvet, er luften klar og fri for tåge. Temperaturen er sunket til 7.4 grader, og fugtigheden bider med 88.4 prosent. Styrmanden melder at natten vil forblive delvis skyet uden nedbør, men at kulden vil stige, med temperaturer ned mod 5.6 grader i de kommende timer. Mannskabet er noget modløse over den tabte fart, men holder trofast vagt.
+
+*Vinden vender, farten svinder,*
+*mens mørket koldt sin kappe binder.*
+
+Kaptein Salveson
+
+---
+
 ## 2. november 2026, 20:59 | 58.61°N, 9.0607°Ø
 _**Vær**: klar himmel — **Temp**: 4.8 °C — **Vind**: 3.1 m/s fra N — **Trykk**: 1037.5 hPa — **Skydekke**: 0.0 %_
 
