@@ -2,6 +2,16 @@
 
 ---
 
+## 4. november 2026, 19:00 | 58.617°N, 9.0973°Ø
+4. November. Formiddagstide. Vi befinner os nu ved posisjon 58.617°N, 9.0973°Ø. Efter gårsdagens svigtende vind fra VSV, har vi nu mærket en vending i luften; barometeret stiger atter, skjønt kulden har festet sit greb om dækket. Vi driver nu med en tung, men stødig kurs, mens mannskabet kjemper mod den rå fugtighed der trænger igennem uldet. Styrmanden melder om en tiltagende opklaring i horisonten, og vi håber at Nordenvinden fra den 2. November atter vil vågne og drive Frierholmen fremad. En stor flokk med havhest blev observert ved middagstide, hvilket ofte varsler om forandring i vejret. Vi holder vakt med spente nerver, bønfalder om at stilheden ikke skal vende tilbage.
+
+*Havhesten skriker, skyen flygter,*
+*mens mannskabet håbefuldt mod vinden lytter.*
+
+Kaptein Salveson
+
+---
+
 ## 3. november 2026, 18:46 | 58.5915°N, 9.1085°Ø
 _**Vær**: lettskyet — **Temp**: 7.4 °C — **Vind**: 1.5 m/s fra VSV — **Trykk**: 1037.8 hPa — **Skydekke**: 28.6 %_
 
