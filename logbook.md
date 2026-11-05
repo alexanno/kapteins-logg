@@ -2,6 +2,18 @@
 
 ---
 
+## 5. november 2026, 19:11 | 58.6133°N, 9.0552°Ø
+_**Vær**: delvis skyet — **Temp**: 5.1 °C — **Vind**: 2.7 m/s fra N — **Trykk**: 1032.7 hPa — **Skydekke**: 79.9 %_
+
+5. November. Aftenstide. Vi befinner os nu ved posisjon 58.6133°N, 9.0552°Ø. Som håbet på i gaarsdagens logg, har Nordenvinden atter vakt til live og driver nu Frierholmen fremad med en styrke på 2.7 meter per sekund, med kast op til 4.9. Barometeret viser 1032.7 hPa, skjønt himmelhvælvet i dette nu er tungt og lukket med et skydekke på 79.9 prosent. Temperaturen er sunket til 5.1 grader, og den høie fugtighed på 89.4 prosent gør kulden rå og gennemtrængende for mannskabet. Styrmanden melder at skyerne vil vige i løbet af natten og efterlade os under en klar himmel, mens temperaturen vil holde sig stabil omkring 5.2 grader. Vi holder kursen med faste greb om roret, takknemlige for at stilheden atter er brudt.
+
+*Nordens pust i seilene slår,*
+*mens vi kaste oss frem over frostbitte gåår.*
+
+Kaptein Salveson
+
+---
+
 ## 4. november 2026, 19:00 | 58.617°N, 9.0973°Ø
 4. November. Formiddagstide. Vi befinner os nu ved posisjon 58.617°N, 9.0973°Ø. Efter gårsdagens svigtende vind fra VSV, har vi nu mærket en vending i luften; barometeret stiger atter, skjønt kulden har festet sit greb om dækket. Vi driver nu med en tung, men stødig kurs, mens mannskabet kjemper mod den rå fugtighed der trænger igennem uldet. Styrmanden melder om en tiltagende opklaring i horisonten, og vi håber at Nordenvinden fra den 2. November atter vil vågne og drive Frierholmen fremad. En stor flokk med havhest blev observert ved middagstide, hvilket ofte varsler om forandring i vejret. Vi holder vakt med spente nerver, bønfalder om at stilheden ikke skal vende tilbage.
 
