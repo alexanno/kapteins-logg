@@ -2,6 +2,18 @@
 
 ---
 
+## 7. november 2026, 17:07 | 58.6031°N, 9.1088°Ø
+_**Vær**: skyet — **Temp**: 3.9 °C — **Vind**: 2.2 m/s fra N — **Trykk**: 1027.5 hPa — **Skydekke**: 99.9 %_
+
+7. November. Aftenstide. Vi befinner os nu ved posisjon 58.6031°N, 9.1088°Ø. Efter gaarsdagens tunge mørke og svigtende vind fra NV, har Nordenvinden atter vendt tilbage til os, skjønt med beskedne krefter på 2.2 meter per sekund og kast op til 4.1. Barometeret er dog faldet til 1027.5 hPa, og himmelhvælvet er nu totalt lukket med et skydekke på 99.9 prosent, hvilket gør verden lille og grå. Temperaturen er sunket ynderligt til 3.9 grader, og den høie fugtighed på 93.4 prosent gør kulden rå og gennemtrængende. Styrmanden melder at natten vil forblive skyet, med temperaturer ned mod 3.2 grader, og vi frygter at nedbøren vil finde os inden tolv timer. Mannskabet holder fast i håbet om at Nordenvinden ikke atter svigter os, mens vi driver fremad i det tætte grå.
+
+*Skyen dækker hver en stjerne, kulden bider i hver knogle,*
+*vi sejler blindt mod mørket, mens bølgerne lavmælt mumler.*
+
+Kaptein Salveson
+
+---
+
 ## 6. november 2026, 18:38 | 58.6195°N, 9.1214°Ø
 _**Vær**: delvis skyet — **Temp**: 4.5 °C — **Vind**: 1.8 m/s fra NV — **Trykk**: 1030.8 hPa — **Skydekke**: 99.7 %_
 
