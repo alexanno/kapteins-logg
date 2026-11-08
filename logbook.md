@@ -2,6 +2,18 @@
 
 ---
 
+## 8. november 2026, 17:21 | 58.6199°N, 9.077°Ø
+_**Vær**: skyet — **Temp**: 3.1 °C — **Vind**: 3.7 m/s fra NNO — **Trykk**: 1024.2 hPa — **Skydekke**: 100.0 %_
+
+8. November. Aftenstide. Vi befinner os nu ved posisjon 58.6199°N, 9.077°Ø. Som frygtet i gaarsdagens logg, har kulden nu festet sit egentlige greb, og temperaturen er sunket til 3.1 grader. Himlen er totalt lukket, et uigennemtrængeligt dække på 100 prosent, som gør dagen til nat. Vinden er dog tiltaget og har vendt mod NNO, med en styrke på 3.7 meter per sekund og kast op til 7.3, hvilket giver Frierholmen en mere mærkbar fart end de foregaaende dage. Barometeret er faldet ynderligt til 1024.2 hPa, og styrmanden varsler at nedbøren nu er næsten uundgaaelig inden for de næste tolv timer. Mannskabet knytter kåpene tættere om sig, mens vi sejler i det tætte, grå mørke.
+
+*Himlen er sort, frosten bider i hud,*
+*mens Nordens vinde sender kulden som bud.*
+
+Kaptein Salveson
+
+---
+
 ## 7. november 2026, 17:07 | 58.6031°N, 9.1088°Ø
 _**Vær**: skyet — **Temp**: 3.9 °C — **Vind**: 2.2 m/s fra N — **Trykk**: 1027.5 hPa — **Skydekke**: 99.9 %_
 
