@@ -2,6 +2,18 @@
 
 ---
 
+## 10. november 2026, 19:00 | 58.6183°N, 9.0912°Ø
+_**Vær**: lett regn — **Temp**: 6.2 °C — **Vind**: 1.8 m/s fra N — **Trykk**: 1006.6 hPa — **Skydekke**: 100.0 %_
+
+10. November. Aftenstide. Vi befinner os nu ved posisjon 58.6183°N, 9.0912°Ø. Efter gaarsdagens tunge stilhed og tåge, er Nordenvinden atter vendt tilbage, skjønt med beskedne krefter på 1.8 meter per sekund. Barometeret er dog faldet ynderligt til 1006.6 hPa, det laveste vi har set i disse dage, hvilket varsler det uvejr styrmanden har frygtet siden den 8. november. Himlen er nu totalt lukket, et dække på 100 prosent, og en let regn er begyndt at falde over dækket. Temperaturen holder sig på 6.2 grader, men fugtigheden er nu steget til 98.6 prosent, hvilket gør alt tømmer glat og koldt. Mannskabet melder om regn i horisonten, og vi venter at nedbøren vil fortsætte gennem natten. Vi holder kursen, men med et våkent øie på barometerets fortsatte fald.
+
+*Regnen falder, himlen græder tørt,*
+*mens mørket over Frierholmen er dybt og ført.*
+
+Kaptein Salveson
+
+---
+
 ## 9. november 2026, 21:43 | 58.6038°N, 9.08°Ø
 _**Vær**: skyet — **Temp**: 6.4 °C — **Vind**: 1.2 m/s fra NV — **Trykk**: 1016.7 hPa — **Skydekke**: 99.4 %_
 
