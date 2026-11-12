@@ -2,6 +2,18 @@
 
 ---
 
+## 12. november 2026, 19:16 | 58.6086°N, 9.1412°Ø
+_**Vær**: delvis skyet — **Temp**: 3.7 °C — **Vind**: 6.1 m/s fra NNV — **Trykk**: 986.6 hPa — **Skydekke**: 80.1 %_
+
+12. November. Aftenstide. Vi befinner os nu ved posisjon 58.6086°N, 9.1412°Ø. Det frygtede vejrskifte er nu indtræffet med fuld kraft; barometeret er dykket ynderligt til 986.6 hPa, det laveste i hele denne rejse. Vinden er nu hærget fra NNV med en styrke på 6.1 meter per sekund og voldsomme kast op til 9.5, hvilket får Frierholmen til at krænge tungt i søen. Temperaturen holder sig rå ved 3.7 grader, men skydekket er nu brudt op til 80.1 prosent, og jeg skimter for første gang i dagevis et glimt af lys gennem det grå. Styrmanden melder at himmelen vil klare op i nattens løb, og vi forventer en frostklar nat uden nedbør. Mannskabet, skjønt udmattede og gennemblødte, finder nu ny mod i det tiltagende lys.
+
+*Stormen raser, men skyen må vige,*
+*stjernerne vågner over Nordens rige.*
+
+Kaptein Salveson
+
+---
+
 ## 11. november 2026, 18:58 | 58.625°N, 9.0201°Ø
 _**Vær**: skyet — **Temp**: 2.3 °C — **Vind**: 1.6 m/s fra VNV — **Trykk**: 996.3 hPa — **Skydekke**: 99.9 %_
 
