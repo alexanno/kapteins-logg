@@ -2,6 +2,18 @@
 
 ---
 
+## 13. november 2026, 18:54 | 58.6063°N, 9.0177°Ø
+_**Vær**: klar himmel — **Temp**: 2.2 °C — **Vind**: 3.3 m/s fra NV — **Trykk**: 1002.9 hPa — **Skydekke**: 0.0 %_
+
+13. November. Aftenstide. Vi befinner os nu ved posisjon 58.6063°N, 9.0177°Ø. Som varslet i gaarsdagens logg, er himmelen nu brudt helt op; skydekket er faldet til 0 prosent, og vi skuer en klarhed over havet som vi ikke har sett siden rejsens begyndelse. Barometeret er steget ynderligt til 1002.9 hPa efter det dybe fald, og vinden holder sig nu moderat fra NV med 3.3 meter per sekund, skjønt kastene endnu når 7.1. Temperaturen er sunket til 2.2 grader, og luftfugtigheden er faldet mærkbart til 58.3 prosent, hvilket gør luften sprød og kold. Mannskabet nyder det klare lys, men jeg frygter den kommende nat, thi temperaturen meldes at falde mod 0.5 grader. Vi holder kursen i denne sjældne ro, mens vi venter på at se om vejret holder sig stabilt.
+
+*Sølvhvid nat og stjernernes skær,*
+*bringer os tryghed, mens havnen er nær.*
+
+Kaptein Salveson
+
+---
+
 ## 12. november 2026, 19:16 | 58.6086°N, 9.1412°Ø
 _**Vær**: delvis skyet — **Temp**: 3.7 °C — **Vind**: 6.1 m/s fra NNV — **Trykk**: 986.6 hPa — **Skydekke**: 80.1 %_
 
