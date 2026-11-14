@@ -2,6 +2,18 @@
 
 ---
 
+## 14. november 2026, 17:26 | 58.6264°N, 9.1149°Ø
+_**Vær**: delvis skyet — **Temp**: 6.9 °C — **Vind**: 5.4 m/s fra SV — **Trykk**: 1005.6 hPa — **Skydekke**: 100.0 %_
+
+14. November. Eftermiddagstide. Vi befinner os nu ved posisjon 58.6264°N, 9.1149°Ø. Den sjældne klarhed fra gaarsdagen er nu vigen for et tungt og lukket skydekke på 100 prosent, som atter kvæler alt lys over Frierholmen. Barometeret er faldet til 1005.6 hPa, og vinden er vendt mod SV med en styrke på 5.4 meter per sekund, skjønt kastene når op til 9.6, hvilket giver os en god, omend urolig fart. Temperaturen er steget mærkbart til 6.9 grader, og luftfugtigheden holder sig ved 87.6 prosent. Mannskabet er nu i god behold efter frostnatten, og skjønt himmelen er grå, melder styrmanden at nedbøren vil holde sig borte i de kommende timer. Vi holder kursen under det tunge dække, mens vi håber at den milde vind vil føre os trygt videre.
+
+*Himlen lukkes, grå og tung,*
+*men håbet lever i hjertet, frisk og ung.*
+
+Kaptein Salveson
+
+---
+
 ## 13. november 2026, 18:54 | 58.6063°N, 9.0177°Ø
 _**Vær**: klar himmel — **Temp**: 2.2 °C — **Vind**: 3.3 m/s fra NV — **Trykk**: 1002.9 hPa — **Skydekke**: 0.0 %_
 
