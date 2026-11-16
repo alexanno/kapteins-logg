@@ -2,6 +2,18 @@
 
 ---
 
+## 16. november 2026, 21:23 | 58.6196°N, 9.1484°Ø
+_**Vær**: skyet — **Temp**: 3.8 °C — **Vind**: 6.2 m/s fra N — **Trykk**: 995.6 hPa — **Skydekke**: 97.2 %_
+
+16. November. Aftenstide. Vi befinner os nu ved posisjon 58.6196°N, 9.1484°Ø. Som jeg frygtede i gaarsdagens logg, har det tunge skydekke holdt stand, nu målt til 97.2 prosent, og mørket falder tungt over dækket. Vinden er vendt brat mod Nord med en styrke på 6.2 meter per sekund, og kastene bider med 9.0, hvilket tvinger os til at holde et skarpt øye med riggen. Barometeret holder sig lavt ved 995.6 hPa, og temperaturen er sunket til 3.8 grader. Skjønt luften er rå, melder styrmanden at himmelen vil lette i løbet af de næste seks timer, og at vi kan forvente en tør, omend kold nat med temperaturer ned mod 2.0 grader. Mannskabet har nu tørret deres klæder efter de foregående dages uvejr, og vi holder kursen med et håp om den varslede klarhed.
+
+*Nordavinden piber, natten er nær,*
+*vi sejler trofast, skjønt vejen er svær.*
+
+Kaptein Salveson
+
+---
+
 ## 15. november 2026, 18:08 | 58.6257°N, 9.0187°Ø
 _**Vær**: skyet — **Temp**: 7.6 °C — **Vind**: 3.1 m/s fra SV — **Trykk**: 993.9 hPa — **Skydekke**: 100.0 %_
 
