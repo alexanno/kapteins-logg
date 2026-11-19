@@ -2,6 +2,18 @@
 
 ---
 
+## 19. november 2026, 19:42 | 58.5947°N, 9.0543°Ø
+_**Vær**: klar himmel — **Temp**: -1.7 °C — **Vind**: 2.5 m/s fra NV — **Trykk**: 991.2 hPa — **Skydekke**: 1.3 %_
+
+19. November. Aftenstide. Vi befinner os nu ved posisjon 58.5947°N, 9.0543°Ø. Som jeg forventede i gaarsdagens logg, har frosten nu bidt sig fast for alvor, og temperaturen er sunket til -1.7 grader. Dog er himmelen nuledes så klar som en poleret spejl, med et skydekke på blot 1.3 prosent, hvilket giver os et syn af stjernerne som jeg sjældent har skuet maken til. Vinden er faldet betydeligt og puster nu kun med 2.5 meter per sekund fra NV, hvilket efterlader Frierholmen i en nærmest uvirkelig stilhed, kun brudt af små kast på 4.6. Barometeret stiger nu til 991.2 hPa, og styrmanden melder om en fortsat klar nat uden nedbør, skjønt kulden vil holde sig stabil omkring -1.8 grader. Mannskabet ryster i deres uldne klæder, men deres ansigter lyser op i det klare stjerneskinn.
+
+*Stilheden hersker, frosten er hvid,*
+*vi sejler i drømme, i en tidløs tid.*
+
+Kaptein Salveson
+
+---
+
 ## 18. november 2026, 19:42 | 58.6077°N, 9.1469°Ø
 _**Vær**: lettskyet — **Temp**: 1.1 °C — **Vind**: 6.4 m/s fra N — **Trykk**: 987.5 hPa — **Skydekke**: 30.5 %_
 
