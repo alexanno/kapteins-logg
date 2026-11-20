@@ -2,6 +2,18 @@
 
 ---
 
+## 20. november 2026, 19:22 | 58.6115°N, 9.0918°Ø
+_**Vær**: klar himmel — **Temp**: 1.4 °C — **Vind**: 3.9 m/s fra NV — **Trykk**: 1000.8 hPa — **Skydekke**: 0.0 %_
+
+20. November. Aftenstide. Vi befinner os nu ved posisjon 58.6115°N, 9.0918°Ø. Den frygtelige frost, som i gaarsdagens logg bed sig fast i alt levende, har nu givet efter for en mildere brise. Temperaturen er steget til 1.4 grader, og barometeret viser en lovende stigning til 1000.8 hPa, hvilket bringer en sjælden ro over dækket. Himlen er nu fuldstændig renset for skyer — nul prosent — og sigtbarheden er absolut. Vinden puster moderat fra NV med 3.9 meter per sekund, skjønt små kast på 6.6 endnu minder os om havets magt. Styrmanden melder at denne klarhed vil vare de næste tolv timer, og jeg har beordret mannskabet til at inspicere riggen for isgang mens vi glider gennem det spejlblanke vand.
+
+*Stjernen leder, vinden tier,*
+*mens natten os med stilhed vier.*
+
+Kaptein Salveson
+
+---
+
 ## 19. november 2026, 19:42 | 58.5947°N, 9.0543°Ø
 _**Vær**: klar himmel — **Temp**: -1.7 °C — **Vind**: 2.5 m/s fra NV — **Trykk**: 991.2 hPa — **Skydekke**: 1.3 %_
 
