@@ -2,6 +2,18 @@
 
 ---
 
+## 21. november 2026, 18:25 | 58.6112°N, 9.0436°Ø
+_**Vær**: klar himmel — **Temp**: 2.5 °C — **Vind**: 3.6 m/s fra NV — **Trykk**: 1009.1 hPa — **Skydekke**: 0.0 %_
+
+21. November. Aftenstide. Vi befinner os nu ved posisjon 58.6112°N, 9.0436°Ø. Den sjældne ro, som jeg beskrev i gaarsdagens logg, fortsætter med uformindsket styrke. Barometeret stiger ynderligt til 1009.1 hPa, og himmelen forbliver som en dyb, sort fløjl uden en eneste sky — nul prosent — hvilket giver os en sigtbarhed, som er intet mindre end guddommelig. Vinden puster mildt fra NV med 3.6 meter per sekund, skjønt små kast på 7.4 endnu minder os om, at vi er på havets nåde. Temperaturen holder sig stabil omkring 2.5 grader, og luftfuktigheden er faldet til 64.9 prosent, hvilket gør kulden tør og udholdelig. Styrmanden lover os en fortsat klar nat de næste tolv timer, og mannskabet har i aftenens stilhed delt historier om hjemstavnen mens vi glider fremad.
+
+*Sølvblankt vand og stjerners glød,*
+*natten bringer sjælen fød.*
+
+Kaptein Salveson
+
+---
+
 ## 20. november 2026, 19:22 | 58.6115°N, 9.0918°Ø
 _**Vær**: klar himmel — **Temp**: 1.4 °C — **Vind**: 3.9 m/s fra NV — **Trykk**: 1000.8 hPa — **Skydekke**: 0.0 %_
 
