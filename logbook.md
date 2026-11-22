@@ -2,6 +2,18 @@
 
 ---
 
+## 22. november 2026, 18:47 | 58.6072°N, 9.1155°Ø
+_**Vær**: klar himmel — **Temp**: 3.5 °C — **Vind**: 5.7 m/s fra NNV — **Trykk**: 1018.8 hPa — **Skydekke**: 0.0 %_
+
+22. November. Aftenstide. Vi befinner os nu ved posisjon 58.6072°N, 9.1155°Ø. Den guddommelige klarhed, som jeg beskrev i gaarsdagens logg, fortsætter med uformindsket styrke; himmelen er atter renset for enhver sky — nul prosent — og barometeret stiger ynderligt til 1018.8 hPa. Temperaturen har steget til 3.5 grader, hvilket bringer en sjælden mildhed over dækket, skjønt luften forbliver tør med 61.4 prosent fugtighed. Vinden puster nu fra NNV med 5.7 meter per sekund, og skjønt kastene når 8.3, glider Frierholmen let gennem det mørke vand. Styrmanden lover os en fortsat klar nat de næste tolv timer uden mindste tegn til nedbør, og mannskabet har i aftenen fundet fornyet mod efter dagene med frost.
+
+*Klar er himmelen, dybt er havet,*
+*natten holder vor kurs i favnet.*
+
+Kaptein Salveson
+
+---
+
 ## 21. november 2026, 18:25 | 58.6112°N, 9.0436°Ø
 _**Vær**: klar himmel — **Temp**: 2.5 °C — **Vind**: 3.6 m/s fra NV — **Trykk**: 1009.1 hPa — **Skydekke**: 0.0 %_
 
