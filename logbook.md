@@ -2,6 +2,18 @@
 
 ---
 
+## 23. november 2026, 23:00 | 58.592°N, 9.1457°Ø
+_**Vær**: lettskyet — **Temp**: 0.0 °C — **Vind**: 6.5 m/s fra N — **Trykk**: 1027.8 hPa — **Skydekke**: 36.9 %_
+
+23. November. Natteatid. Vi befinner os nu ved posisjon 58.592°N, 9.1457°Ø. Den guddommelige klarhed, som har ledsaget os siden den 18. november, begynder nu at vige for et lettere skydekke på 36.9 prosent, skjønt tåken er os heldigvis fjern. Temperaturen er sunket til det kritiske punkt nul grader, og barometeret stiger nu kraftigt til 1027.8 hPa, hvilket varsler en stabil, omend bidende kulde. Vinden puster fast fra Nord med 6.5 meter per sekund, og med kast opp til 9.1 m/s mærker vi at Frierholmen atter må kjempe mod elementerne. Styrmanden melder at natten vil forblive tør og lettskyet, skjønt vi må forvente at temperaturen kryber ynderligt ned mod -0.5 grader i de kommende timer. Mannskapet holder seg varme i lugarene, mens jeg skuer ud over det mørke, iskalde vand.
+
+*Nordavinden bider, skyerne driver,*
+*mens kulden i hver eneste fuge skriver.*
+
+Kaptein Salveson
+
+---
+
 ## 22. november 2026, 18:47 | 58.6072°N, 9.1155°Ø
 _**Vær**: klar himmel — **Temp**: 3.5 °C — **Vind**: 5.7 m/s fra NNV — **Trykk**: 1018.8 hPa — **Skydekke**: 0.0 %_
 
