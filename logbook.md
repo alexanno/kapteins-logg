@@ -2,6 +2,18 @@
 
 ---
 
+## 24. november 2026, 21:40 | 58.6299°N, 9.0512°Ø
+_**Vær**: delvis skyet — **Temp**: -3.1 °C — **Vind**: 4.0 m/s fra N — **Trykk**: 1029.9 hPa — **Skydekke**: 84.6 %_
+
+24. November. Natteatid. Vi befinner os nu ved posisjon 58.6299°N, 9.0512°Ø. Den guddommelige klarhed, som vi har nyttet os af de forgangne dage, er nu helt forsvundet; himmelen er tung og dækket af et skydekke på 84.6 prosent, hvilket efterlader os i et dybt mørke. Frosten har nu virkelig fået overtaget, og temperaturen er sunket til -3.1 grader, hvilket får det iskalde vand til at syde om skroget. Barometeret stiger fortsat til 1029.9 hPa, og skjønt vinden fra Nord er moderat med 4.0 meter per sekund, merker vi kast opp til 8.9 som ryster riggen. Styrmanden melder at skydekket vil lette i de kommende timer, men at temperaturen vil krybe ynderligt ned mod -4.0 grader. Mannskapet klager over kulden, og jeg har beordret ekstra rasjoner af brennevin for at holde liv i lemmerne.
+
+*Himmelen lukkes, stjernen forsvinder,*
+*mens frosten i mørket vor fremdrift hindrer.*
+
+Kaptein Salveson
+
+---
+
 ## 23. november 2026, 23:00 | 58.592°N, 9.1457°Ø
 _**Vær**: lettskyet — **Temp**: 0.0 °C — **Vind**: 6.5 m/s fra N — **Trykk**: 1027.8 hPa — **Skydekke**: 36.9 %_
 
