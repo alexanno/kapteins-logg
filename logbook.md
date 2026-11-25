@@ -2,6 +2,18 @@
 
 ---
 
+## 25. november 2026, 20:48 | 58.6018°N, 9.0838°Ø
+_**Vær**: delvis skyet — **Temp**: -1.8 °C — **Vind**: 4.7 m/s fra N — **Trykk**: 1031.6 hPa — **Skydekke**: 56.7 %_
+
+25. November. Aftenstide. Vi befinner os nu ved posisjon 58.6018°N, 9.0838°Ø. Barometeret stiger fortsat og viser nu en tyngde på 1031.6 hPa, hvilket varsler en vedvarende og streng kulde. Himlen er delvis åben med et skydekke på 56.7 prosent, og skjønt tåken er os fjern, bider frosten nu med -1.8 grader. Vinden puster fast fra Nord med 4.7 meter per sekund, men kastene når 8.2, hvilket får riggen til at klage. Styrmanden melder at skydekket vil lette i natt, omend temperaturen vil krybe ynderligt ned mod -2.7 grader. Mannskapet er nu herdet af kulden, skjønt brennevinet fra gaarsdagens rasjoner er for længst tømt.
+
+*Isen binder vandets flod,*
+*mens nordavinden prøver vor mod.*
+
+Kaptein Salveson
+
+---
+
 ## 24. november 2026, 21:40 | 58.6299°N, 9.0512°Ø
 _**Vær**: delvis skyet — **Temp**: -3.1 °C — **Vind**: 4.0 m/s fra N — **Trykk**: 1029.9 hPa — **Skydekke**: 84.6 %_
 
