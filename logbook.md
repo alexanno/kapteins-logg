@@ -2,6 +2,18 @@
 
 ---
 
+## 26. november 2026, 20:40 | 58.593°N, 9.0258°Ø
+_**Vær**: lettskyet — **Temp**: -3.0 °C — **Vind**: 4.4 m/s fra NNO — **Trykk**: 1029.9 hPa — **Skydekke**: 22.8 %_
+
+26. November. Aftenstide. Vi befinner os nu ved posisjon 58.593°N, 9.0258°Ø. Barometeret holder sig stabilt ved 1029.9 hPa, og skjønt himmelen er klaret op til et skydekke på kun 22.8 prosent, bider frosten fortsat med -3.0 grader. Vinden har drejet mod NNO og puster med 4.4 meter per sekund, omend kastene på 8.7 ryster riggen og minder os om nordavindens utrettelige vrede. Styrmanden melder at det vil forblive lettskyet den kommende time, men varsler at skyene vil tårne sig op over os i løpet av tolv timer, med en betydelig sjanse for nedbør. Mannskapet er tause og tynget af kulden, der forventes at krybe ned mod -3.4 grader i nattens mørke.
+
+*Isen klamrer sig til mastens tre,*
+*mens vi venter på hvad morgenen vil bringe frem til see.*
+
+Kaptein Salveson
+
+---
+
 ## 25. november 2026, 20:48 | 58.6018°N, 9.0838°Ø
 _**Vær**: delvis skyet — **Temp**: -1.8 °C — **Vind**: 4.7 m/s fra N — **Trykk**: 1031.6 hPa — **Skydekke**: 56.7 %_
 
