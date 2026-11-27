@@ -2,6 +2,18 @@
 
 ---
 
+## 27. november 2026, 20:26 | 58.6307°N, 9.0335°Ø
+_**Vær**: skyet — **Temp**: -1.6 °C — **Vind**: 2.5 m/s fra N — **Trykk**: 1035.2 hPa — **Skydekke**: 100.0 %_
+
+27. November. Aftenstide. Vi befinner os nu ved posisjon 58.6307°N, 9.0335°Ø. Som varslet i gaarsdagens logg, har skyene nu tårnet sig op og lukket himmelen fuldstændig; et skydekke på 100 prosent har kastet os i et ugjennomtrengelig mørke. Barometeret stiger ynderligt til 1035.2 hPa, hvilket tyder paa en tung og fastlåst luft, mens frosten bider med -1.6 grader. Vinden fra Nord er nu svundet ind til blot 2.5 meter per sekund, omend kastene fremdeles når 6.8 og ryster i de islagte rigger. Styrmanden varsler at nedbøren vil ramme os inden tolv timer, med en sjanse paa over 76 prosent, hvilket vil bringe mere elendighed til det allerede frosne mannskap. Vi seiler nu i en dyster tåke, og luften er tung af fugtighed.
+
+*Himmelen er lukket, alt lys er forsvundet,*
+*mens vi i mørket vor vei har funnet.*
+
+Kaptein Salveson
+
+---
+
 ## 26. november 2026, 20:40 | 58.593°N, 9.0258°Ø
 _**Vær**: lettskyet — **Temp**: -3.0 °C — **Vind**: 4.4 m/s fra NNO — **Trykk**: 1029.9 hPa — **Skydekke**: 22.8 %_
 
